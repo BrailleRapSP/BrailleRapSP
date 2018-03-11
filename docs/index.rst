@@ -22,10 +22,10 @@ Contents:
    history
    license
    bom
-   firmware marlin
+   flybackboard
    assembling
+   firmware marlin
 
-
-.. index:: history, license, bom, marlin, assembling
+.. index:: history, license, bom, marlin, assembling, flybackboard
 
 

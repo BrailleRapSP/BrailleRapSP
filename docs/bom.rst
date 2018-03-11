@@ -49,17 +49,6 @@ Qty Type
 1   Close timing belt 160 mm
 2   Open timing belt 630 mm length
 
-1   Electro-magnet *tau-826*
-
-1   1N4004 flyback diode or equivalent (12V 2A)
-1   Red del with appropriate resistor for 12V
-1   Stripboard
-
-1   Embase USB
-1   Embase 230V with switch 
-
-1   12v power supply 10A
-
 1   MKS GEN 1.4 or Ramps 1.4 compatible electronic board
 2   DRV8825 stepper stick with *radiateur*
 
@@ -73,6 +62,29 @@ x   BTR M4 10
 4   BTR M4 50mm *partiellement filete* 
 
 ...
+=== =========================================
+
+Electronical parts
+------------------
+
+=== =========================================
+Qty Type
+=== =========================================
+	Embosser
+1   Electro-magnet *tau-826*
+
+	Flyback board
+1	Veroboard or stripboard
+1	1N4004 flyback diode or equivalent (12V 2A)
+1	resistor 1K ohms
+1	red del
+
+	Printer connector
+1   Embase USB
+1   Embase 230V with switch 
+
+	Printer power supply
+1   12v power supply 10A	
 === =========================================
 
 

@@ -10,14 +10,14 @@ Laser cut box
 Printed parts
 -------------
 
-=== ===============
-Qty file
-=== ===============
-6   igus support
-1   plateforme up
-1   plateforme down
+=== ===============   ==========================================================================================================
+Qty file              Repository
+=== ===============   ==========================================================================================================
+6   igus support      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/nouveau%20logement%20IGUS_insert.stl
+1   plateforme up	  https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plaqueX_02.stl
+1   plateforme down   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plaqueX_01.stl
 ...
-=== ===============
+=== ===============   ==========================================================================================================
 
 Mechanical parts
 ----------------

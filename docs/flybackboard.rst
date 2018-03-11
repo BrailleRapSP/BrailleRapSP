@@ -8,3 +8,7 @@ We use the bed connector to control the electromagnet (has you can control a CNC
 
 .. image :: flyback.png
     :align: center
+	
+.. image :: flyback_schema.png
+    :align: center
+	

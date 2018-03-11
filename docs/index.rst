@@ -11,7 +11,7 @@
 
 
 
-Welcome to BrailleRap-SP's documentation!
+Welcome to BrailleRap-SP's documentation !
 =========================================
 
 Contents:
@@ -22,7 +22,7 @@ Contents:
    history
    license
    bom
-   marlin
+   firmware marlin
    assembling
 
 

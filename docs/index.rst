@@ -20,11 +20,12 @@ Contents:
    :maxdepth: 2
 
    history
+   license
    bom
    marlin
    assembling
 
 
-.. index:: history, bom, marlin, assembling
+.. index:: history, license, bom, marlin, assembling
 
 

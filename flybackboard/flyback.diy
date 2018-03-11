@@ -243,50 +243,6 @@
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </org.diylc.components.passive.Resistor>
-    <org.diylc.components.electromechanical.CliffJack1__4>
-      <name>J1</name>
-      <alpha>127</alpha>
-      <controlPoints>
-        <java.awt.Point x="1.5" y="1.7"/>
-        <java.awt.Point x="1.5" y="2.3"/>
-        <java.awt.Point x="2.1" y="1.7"/>
-        <java.awt.Point x="2.1" y="2.3"/>
-      </controlPoints>
-      <type>MONO</type>
-      <orientation>DEFAULT</orientation>
-      <value></value>
-    </org.diylc.components.electromechanical.CliffJack1__4>
-    <org.diylc.components.electromechanical.CliffJack1__4>
-      <name>J2</name>
-      <alpha>127</alpha>
-      <controlPoints>
-        <java.awt.Point x="1.5" y="0.1"/>
-        <java.awt.Point x="1.5" y="0.7"/>
-        <java.awt.Point x="2.1" y="0.1"/>
-        <java.awt.Point x="2.1" y="0.7"/>
-      </controlPoints>
-      <type>MONO</type>
-      <orientation>DEFAULT</orientation>
-      <value></value>
-    </org.diylc.components.electromechanical.CliffJack1__4>
-    <org.diylc.components.connectivity.HookupWire>
-      <name>W1</name>
-      <alpha>127</alpha>
-      <controlPoints>
-        <java.awt.Point x="2.1" y="0.7"/>
-        <java.awt.Point x="2.4" y="1.0"/>
-        <java.awt.Point x="1.8" y="1.4"/>
-        <java.awt.Point x="2.1" y="1.7"/>
-      </controlPoints>
-      <color>
-        <red>0</red>
-        <green>255</green>
-        <blue>0</blue>
-        <alpha>255</alpha>
-      </color>
-      <pointCount>FOUR</pointCount>
-      <gauge>_22</gauge>
-    </org.diylc.components.connectivity.HookupWire>
     <org.diylc.components.misc.Label>
       <name>L1</name>
       <point x="3.4" y="0.5"/>
@@ -448,11 +404,7 @@
     </org.diylc.components.misc.Label>
   </components>
   <groups>
-    <set>
-      <org.diylc.components.electromechanical.CliffJack1__4 reference="../../../components/org.diylc.components.electromechanical.CliffJack1__4[2]"/>
-      <org.diylc.components.electromechanical.CliffJack1__4 reference="../../../components/org.diylc.components.electromechanical.CliffJack1__4"/>
-      <org.diylc.components.connectivity.HookupWire reference="../../../components/org.diylc.components.connectivity.HookupWire"/>
-    </set>
+    <set/>
     <set/>
     <set/>
     <set/>

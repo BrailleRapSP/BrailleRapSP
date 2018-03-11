@@ -25,11 +25,11 @@
       <alpha>127</alpha>
       <value></value>
       <controlPoints>
-        <java.awt.Point x="4.7" y="3.2"/>
-        <java.awt.Point x="5.8" y="3.7"/>
+        <java.awt.Point x="3.5" y="0.1"/>
+        <java.awt.Point x="4.6" y="0.6"/>
       </controlPoints>
-      <firstPoint x="4.7" y="3.2"/>
-      <secondPoint x="5.8" y="3.7"/>
+      <firstPoint x="3.5" y="0.1"/>
+      <secondPoint x="4.6" y="0.6"/>
       <boardColor>
         <red>248</red>
         <green>235</green>
@@ -73,7 +73,7 @@
         <blue>0</blue>
         <alpha>255</alpha>
       </color>
-      <point x="4.8" y="3.3"/>
+      <point x="3.6" y="0.2"/>
       <type>ROUND</type>
       <holeSize>
         <value>0.8</value>
@@ -85,7 +85,7 @@
       <name>Pad2</name>
       <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
       <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
-      <point x="4.8" y="3.6"/>
+      <point x="3.6" y="0.5"/>
       <type>ROUND</type>
       <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
       <layer>_1</layer>
@@ -94,7 +94,7 @@
       <name>Pad3</name>
       <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
       <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
-      <point x="5.7" y="3.3"/>
+      <point x="4.5" y="0.2"/>
       <type>ROUND</type>
       <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
       <layer>_1</layer>
@@ -103,7 +103,7 @@
       <name>Pad4</name>
       <size reference="../../org.diylc.components.connectivity.SolderPad/size"/>
       <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
-      <point x="5.7" y="3.6"/>
+      <point x="4.5" y="0.5"/>
       <type>ROUND</type>
       <holeSize reference="../../org.diylc.components.connectivity.SolderPad/holeSize"/>
       <layer>_1</layer>
@@ -120,8 +120,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="5.1" y="3.6"/>
-        <java.awt.Point x="5.1" y="3.3"/>
+        <java.awt.Point x="3.9" y="0.5"/>
+        <java.awt.Point x="3.9" y="0.2"/>
       </points>
       <bodyColor>
         <red>64</red>
@@ -169,8 +169,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
       </width>
       <points>
-        <java.awt.Point x="5.5" y="3.3"/>
-        <java.awt.Point x="5.5" y="3.5"/>
+        <java.awt.Point x="4.3" y="0.2"/>
+        <java.awt.Point x="4.3" y="0.4"/>
       </points>
       <bodyColor>
         <red>255</red>
@@ -202,8 +202,8 @@
         <unit class="org.diylc.core.measures.SizeUnit">in</unit>
       </width>
       <points>
-        <java.awt.Point x="5.3" y="3.5"/>
-        <java.awt.Point x="5.3" y="3.6"/>
+        <java.awt.Point x="4.1" y="0.4"/>
+        <java.awt.Point x="4.1" y="0.5"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -289,7 +289,7 @@
     </org.diylc.components.connectivity.HookupWire>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="4.6" y="3.6"/>
+      <point x="3.4" y="0.5"/>
       <text>Ground</text>
       <font>
         <attributes>
@@ -335,7 +335,7 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L2</name>
-      <point x="4.6" y="3.3"/>
+      <point x="3.4" y="0.2"/>
       <text>+12V</text>
       <font reference="../../org.diylc.components.misc.Label/font"/>
       <color reference="../../org.diylc.components.connectivity.SolderPad/color"/>
@@ -346,7 +346,7 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L2</name>
-      <point x="5.9" y="3.3"/>
+      <point x="4.7" y="0.2"/>
       <text>+12V</text>
       <font>
         <attributes>
@@ -397,7 +397,7 @@
     </org.diylc.components.misc.Label>
     <org.diylc.components.misc.Label>
       <name>L1</name>
-      <point x="5.9" y="3.6"/>
+      <point x="4.7" y="0.5"/>
       <text>Ground</text>
       <font>
         <attributes>

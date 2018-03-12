@@ -71,6 +71,7 @@ Electronical parts
 Qty Type
 === =========================================
 	**Embosser**
+---------------------------------------------
 1   Electro-magnet *tau-826*
 
 	**Flyback board**

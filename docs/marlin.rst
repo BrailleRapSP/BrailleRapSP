@@ -5,7 +5,7 @@ Marlin Firmware for Ramps or compatible
 
 Notes
 -----
-We use standard marlin firmware to implement M3 / M4 GCode command. We use the CNC configuration to control the electro-magnet with the spindle / pen / laser commands (M3 / M4).
+Standard marlin firmware is used to control the embosser. We use the CNC configuration to control the electro-magnet with the spindle / pen / laser commands (M3 / M4).
 
 Board configuration
 -------------------

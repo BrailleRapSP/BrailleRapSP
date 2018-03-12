@@ -70,23 +70,13 @@ Electronical parts
 === =========================================
 Qty Type
 === =========================================
-	
 1   Electro-magnet *tau-826*
-
-
-	
 1	Veroboard or stripboard
 1	1N4004 flyback diode or equivalent (12V 2A)
 1	resistor 1K ohms
 1	red del
-
-
-	
 1   Embase USB
 1   Embase 230V with switch 
-
-
-	
 1   12v power supply 10A	
 === =========================================
 

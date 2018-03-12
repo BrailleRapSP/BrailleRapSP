@@ -24,7 +24,7 @@ Contents:
    bom
    flybackboard
    assembling
-   firmware marlin
+   marlin
 
 .. index:: history, license, bom, marlin, assembling, flybackboard
 

@@ -71,8 +71,8 @@ Electronical parts
 Qty Type
 === =========================================
 	**Embosser**
----------------------------------------------
 1   Electro-magnet *tau-826*
+
 
 	**Flyback board**
 1	Veroboard or stripboard
@@ -80,9 +80,11 @@ Qty Type
 1	resistor 1K ohms
 1	red del
 
+
 	**Printer connector**
 1   Embase USB
 1   Embase 230V with switch 
+
 
 	**Printer power supply**
 1   12v power supply 10A	

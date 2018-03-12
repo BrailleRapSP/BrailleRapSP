@@ -4743,7 +4743,7 @@ type RDH, grid 15 mm</description>
 <sheet>
 <plain>
 <text x="0" y="86.36" size="1.778" layer="91">+12V</text>
-<text x="7.62" y="81.28" size="1.778" layer="91" rot="R180">GND</text>
+<text x="0" y="81.28" size="1.778" layer="91">GND</text>
 </plain>
 <instances>
 <instance part="X1" gate="-1" x="-7.62" y="86.36"/>

@@ -23,8 +23,8 @@ Spindle / laser / pen configuration ::
 
    // BRAILLE RAP CONFIG
    #define SPINDLE_LASER_ENABLE
-   #define SPINDLE_LASER_ENABLE_PIN  RAMPS_D8_PIN      // !!! sortie BED MOSFET
-   #define SPINDLE_LASER_PWM_PIN     RAMPS_D10_PIN     // !!! sortie E0 MOSFET 
+   #define SPINDLE_LASER_ENABLE_PIN  RAMPS_D8_PIN      // !!! for BED MOSFET
+   #define SPINDLE_LASER_PWM_PIN     RAMPS_D10_PIN     // !!! for E0 MOSFET 
    #define SPINDLE_DIR_PIN           5                 // pin servo
 
 
@@ -60,8 +60,8 @@ Jerk ::
 
    #define DEFAULT_XJERK                 5.0
    #define DEFAULT_YJERK                 5.0
-   #define DEFAULT_ZJERK                  0.3
-   #define DEFAULT_EJERK                  5.0
+   #define DEFAULT_ZJERK                 0.3
+   #define DEFAULT_EJERK                 5.0
 
 
  

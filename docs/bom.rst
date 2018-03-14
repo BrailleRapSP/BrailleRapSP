@@ -3,7 +3,7 @@ Bill of material
 
 Laser cut box
 -------------
-...
+3 plywood sheets 5mm thick , 600 mm x 400mm size.
 
 
 

@@ -70,7 +70,7 @@ Electronical parts
 === =========================================
 Qty Type
 === =========================================
-1   Electro-magnet *tau-826*
+1   Electro-magnet *tau-826* 12V 2A
 1	Veroboard or stripboard
 1	1N4004 flyback diode or equivalent (12V 2A)
 1	resistor 1K ohms

@@ -12,6 +12,18 @@ Assemble the embossing tool
 #. Screw embossing "stylus" in the brace.
 #. lock the sylus with a counter lock nut.
 
+
+Preparing paper roll drive
+--------------------------
+
+We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stick on ABS so we prepare the parts with light sanding and cyanoacrilat glue.
+ 
+#. Print **x** paper roll **link to stl**.
+#. sanding printed roll with sand Paper N°4 to scratch the printed surface where you want to stick sand paper.
+#. "Paint" the printed parts with cyanoacrilat glue, let it dry.
+#. Glue a piece of 180 sand paper on the part with bi-composant epoxy glue.
+#. Let the roll dry for abu 25h depending of the epoxy glue you've used (we used standard epoxy and let the roll dry for about 24 hours)
+ 
 Laser cut the box
 -----------------
 

@@ -61,6 +61,9 @@ x   M3 washer
 x   BTR M4 10
 4   BTR M4 50mm *partiellement filete* 
 
+3   Tap joint 15.1 mm inside diameter
+1	Sand paper Sheet 180
+
 ...
 === =========================================
 

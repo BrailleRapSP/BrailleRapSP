@@ -3,7 +3,7 @@ Bill of material
 
 Laser cut box
 -------------
-...
+3 plywood sheets 5mm thick , 600 mm x 400mm size.
 
 
 
@@ -61,6 +61,9 @@ x   M3 washer
 x   BTR M4 10
 4   BTR M4 50mm *partiellement filete* 
 
+3   Tap joint 15.1 mm inside diameter
+1	Sand paper Sheet 180
+
 ...
 === =========================================
 
@@ -70,7 +73,7 @@ Electronical parts
 === =========================================
 Qty Type
 === =========================================
-1   Electro-magnet *tau-826*
+1   Electro-magnet *tau-826* 12V 2A
 1	Veroboard or stripboard
 1	1N4004 flyback diode or equivalent (12V 2A)
 1	resistor 1K ohms

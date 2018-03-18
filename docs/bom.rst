@@ -5,6 +5,7 @@ Laser cut box
 -------------
 3 plywood sheets 5mm thick , 600 mm x 400mm size.
 
+https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
 
 
 Printed parts
@@ -12,14 +13,17 @@ Printed parts
 
 All parts are printed in ABS, 50% infill, 3 perimeters. We used eSun ABS natural
 
-=== ===============   ==========================================================================================================
-Qty file              Repository
-=== ===============   ==========================================================================================================
-6   igus support      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/nouveau%20logement%20IGUS_insert.stl
-1   plateforme up	  https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plaqueX_02.stl
-1   plateforme down   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plaqueX_01.stl
+=== =======================  ==========================================================================================================
+Qty file                     Repository
+=== =======================  ==========================================================================================================
+6   igus support             https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/nouveau%20logement%20IGUS_insert.stl
+3   top roll paper drive     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/galet%20haut.stl
+3   bottom roll paper drive  https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/galet%20haut.stl
+4	top box lock			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/LOCK_V2.stl
+1   paper guide plate	     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plateau%20guide%20papier.stl		
+1   plateforme up	         https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/charriot%20haut.stl
 ...
-=== ===============   ==========================================================================================================
+=== ======================== ==========================================================================================================
 
 Mechanical parts
 ----------------

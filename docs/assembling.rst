@@ -1,7 +1,7 @@
 Assembling guide
 ================
 
-Machine the embossing "stylus"
+Machining the embossing "stylus"
 ----------------------------
 The embossing tool is made of an M3 screw, machined with a dremel like tool. the tip of the tool need to be smooth (avoid sharp tip that will tear the embossed material)
 
@@ -73,14 +73,13 @@ then glue the front side.
 
 Assemble the 4 sides and the bottom, sticking them together with blue tape.
 
-==================== ==================== ====================
-.. image :: flat_lasercut2018_03_18_2917.JPG
-			:align: center
-			         .. image :: flat_lasercut2018_03_18_2917.JPG
-			               :align: center
-						                  .. image :: flat_lasercut2018_03_18_2917.JPG
-											:align: center
-==================== ==================== ====================
+=============================================== ============================================= ============================================
+.. image :: flat_lasercut2018_03_18_2917.JPG    .. image :: flat_lasercut2018_03_18_2917.JPG  .. image :: flat_lasercut2018_03_18_2917.JPG
+			:align: center                        :align: center                                 :align: center
+=============================================== ============================================= ============================================			         
+			                  
+											
+
 
 When the glue is dry (the time depending of the glue you have used), Start assembling the Y axis.
 

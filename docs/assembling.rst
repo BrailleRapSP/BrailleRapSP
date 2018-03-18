@@ -61,7 +61,27 @@ Use the dxf files in https://github.com/BrailleRapSP/BrailleRapSP/tree/master/la
 
 Assemble the box
 -------------------
-Start to glue the 4 sides of the box with wood glue, then glue the bottom. Assemble the 4 sides and the bottom, sticking them together with blue tape.
+Prepare the sides of the box on a flat surface.
+	.. image :: flat_lasercut2018_03_18_2917.JPG
+			:align: center
+Start to glue left right and back sides of the box on the bottom side with wood glue, 
+		.. image :: 3sides_box_2018_03_18_2918.JPG
+			:align: center
+then glue the front side. 
+	.. image :: 4sides_box2018_03_18_2919.JPG
+			:align: center
+
+Assemble the 4 sides and the bottom, sticking them together with blue tape.
+
+==================== ==================== ====================
+.. image :: flat_lasercut2018_03_18_2917.JPG
+			:align: center
+			         .. image :: flat_lasercut2018_03_18_2917.JPG
+			               :align: center
+						                  .. image :: flat_lasercut2018_03_18_2917.JPG
+											:align: center
+==================== ==================== ====================
+
 When the glue is dry (the time depending of the glue you have used), Start assembling the Y axis.
 
 

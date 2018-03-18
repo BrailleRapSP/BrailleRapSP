@@ -18,7 +18,9 @@ We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stic
  
 #. Print 3 paper roll **link to stl**.
 #. Laser cut some piece of 180 sand paper.
-#. Tap the screw hole with an M3 tap.
+#. Tap the screw hole with an M3 tap. 
+  .. image :: tap_upper_rol_2018_03_18_2929.JPG
+    :align: center
 #. Sand printed roll with sand Paper N°4 to scratch the printed surface where you want to stick sand paper.
 #. "Paint" the printed parts with cyanoacrilat glue, let it dry.
 #. Glue a piece of 180 sand paper on the part with bi-component epoxy glue.

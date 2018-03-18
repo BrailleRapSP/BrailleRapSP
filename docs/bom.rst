@@ -13,28 +13,22 @@ Printed parts
 
 All parts are printed in ABS, 50% infill, 3 perimeters. We used eSun ABS natural filament.
 
-
-=== =====
-1   flase
-=== =====
-
-
 .. table:: Printed parts
 	:widths: auto
 === ======================== ===========================================================================================================
-Qty file                     Repository
+Qty file                     STL file
 === ======================== ===========================================================================================================
-3   truc                     machin
-4   bidules                  truc
+6   igus support             https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/nouveau%20logement%20IGUS_insert.stl
+3   top roll paper drive     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/galet%20haut.stl
+3   bottom roll paper drive  https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/galet%20haut.stl
+4	top box lock			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/LOCK_V2.stl
+1   paper guide plate	     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plateau%20guide%20papier.stl
+1   plateforme up	         https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/charriot%20haut.stl
+...
 === ======================== ===========================================================================================================
 
-blab
-6   igus support              https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/nouveau%20logement%20IGUS_insert.stl
-3   top roll paper drive      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/galet%20haut.stl
-3   bottom roll paper drive   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/galet%20haut.stl
-4	top box lock			  https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/LOCK_V2.stl
-1   paper guide plate	      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plateau%20guide%20papier.stl
-1   plateforme up	          https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/charriot%20haut.stl
+
+
 
 Mechanical parts
 ----------------

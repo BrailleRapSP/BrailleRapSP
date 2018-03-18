@@ -21,6 +21,7 @@ We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stic
 #. Tap the screw hole with an M3 tap. 
   .. image :: tap_upper_rol_2018_03_18_2929.JPG
     :align: center
+	Tap the screw hole with an M3 tap. 
 	
 #. Sand printed roll with sand Paper N°4 to scratch the printed surface where you want to stick sand paper.
   .. image :: sand_roll_2018_03_18_2932.JPG

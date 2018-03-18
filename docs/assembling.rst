@@ -41,8 +41,11 @@ Prepare bottom paper roll drive
 
 #. Print 3 paper roll **link to stl**.
 #. Tap the screw hole with an m3 tap.
+	.. image :: tap_bottom_roll2018_03_18_2927.JPG
+		:align: center
 #. Put an O-ring on the roll throat.
-
+	.. image :: oring_roll2018_03_18_2930.JPG
+		:align: center
 
 Laser cut the box
 -----------------

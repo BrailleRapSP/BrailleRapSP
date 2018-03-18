@@ -11,6 +11,8 @@ Assemble the embossing tool
 #. Screw embossing "stylus" in the brace.
 #. lock the sylus with a counter lock nut.
 
+	.. image :: electromagnet.png
+		:align: center
 
 Prepare top paper roll drive
 ------------------------------

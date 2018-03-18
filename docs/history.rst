@@ -15,7 +15,7 @@ OpenBraille
 -----------
 
 In 2017 Carlos Campos start the project OpenBraille and build a braille embosser base on recycled printers parts, the project demonstrate that we can move the 
-paper sheet in the machine.
+paper sheet in the machine. http://www.instructables.com/id/OpenBraille-a-DIY-Braille-Embosser/
 
 BrailleRap-SP
 -------------

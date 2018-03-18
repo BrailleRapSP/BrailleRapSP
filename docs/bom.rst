@@ -24,7 +24,7 @@ Qty file                      Repository
 1   plateforme up	          https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/charriot%20haut.stl
 === ========================= ===========================================================================================================
 
-blabla
+blab
 
 Mechanical parts
 ----------------

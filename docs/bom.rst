@@ -59,10 +59,11 @@ x   M3 nylstop nuts
 x   M3 washer
 
 x   BTR M4 10
-4   BTR M4 50mm *partiellement filete* 
+4   BTR M4 50mm partially threaded. 
 
-3   Tap joint 15.1 mm inside diameter
-1	Sand paper Sheet 180
+3   O-ring 15.1 mm inside diameter and 20.5 mm outside diameter (15.1 x 20.5 x 2.7)
+1	Sand paper Sheet 180 (car painting sand paper)
+1   Sand paper sheet N° 4
 
 ...
 === =========================================

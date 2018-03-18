@@ -22,10 +22,17 @@ We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stic
   .. image :: tap_upper_rol_2018_03_18_2929.JPG
     :align: center
 #. Sand printed roll with sand Paper N°4 to scratch the printed surface where you want to stick sand paper.
+  .. image :: sand_roll_2018_03_18_2932.JPG
+    :align: center
 #. "Paint" the printed parts with cyanoacrilat glue, let it dry.
+  .. image :: cyano_roll_2018_03_18_2934.JPG
+    :align: center
 #. Glue a piece of 180 sand paper on the part with bi-component epoxy glue.
-#. Let the roll dry for about 24h depending of the epoxy glue you've used (we used standard epoxy and let the roll dry for about 24 hours)
-
+  .. image :: epoxy_glue_roll2018_03_18_2936.JPG
+    :align: center
+#. Fix the sand paper on roll with some rubber band. Let the roll dry for about 24h depending of the epoxy glue you've used (we used standard epoxy and let the roll dry for about 24 hours)
+  .. image :: rubber_band_roll2018_03_18_2937.JPG
+    :align: center
 Prepare bottom paper roll drive
 -------------------------------
 

@@ -90,13 +90,18 @@ Preparing Y Axis
 ----------------
 
 
+
 Assembling X Axis
 -----------------
 ...
 
 Assembling Y Axis
 -----------------
-...
+
+#. Put the 330 mm linear shaft beetween the left and right bottom support going throw the hole in the right side of the box. While positionning the linear shaft don't forget to string 3 O-ring paper drive.
+#. Put the *400* mm linear shaft beetween the left and right top support going throw the hole in the right side of the box. While positionning the linear shaft don't forget to string 3 sand paper paper drive.
+
+
 
 Calibrating the printer
 -----------------------

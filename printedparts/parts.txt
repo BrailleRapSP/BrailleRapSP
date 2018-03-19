@@ -1,0 +1,23 @@
+total 4942
+-rwxrwx---    1 Stephane UsersGrp    182384 Mar 19 21:53 Ymotor_mount.stl
+-rwxrwx---    1 Stephane UsersGrp    408234 Mar 19 21:53 electroMagnet_mount.stl
+-rwxrwx---    1 Stephane UsersGrp    132934 Mar 19 21:53 endstopY_mount.stl
+-rwxrwx---    1 Stephane UsersGrp     87334 Mar 19 21:53 femal_embosser_mount.stl
+-rwxrwx---    1 Stephane UsersGrp    167634 Mar 19 21:53 igus_housing.stl
+-rwxrwx---    1 Stephane UsersGrp    214284 Mar 19 21:53 kp08_suport.stl
+-rwxrwx---    1 Stephane UsersGrp    754934 Mar 19 21:53 left_axes_mount.stl
+-rwxrwx---    1 Stephane UsersGrp    225384 Mar 19 21:53 lock_top.stl
+-rwxrwx---    1 Stephane UsersGrp    566834 Mar 19 21:53 paper_guide_L1.stl
+-rwxrwx---    1 Stephane UsersGrp    120434 Mar 19 21:53 paper_guide_L2.stl
+-rwxrwx---    1 Stephane UsersGrp    150334 Mar 19 21:53 paper_guide_L3.stl
+-rwxrwx---    1 Stephane UsersGrp     67034 Mar 19 21:53 paper_guide_R1.stl
+-rwxrwx---    1 Stephane UsersGrp     86634 Mar 19 21:53 paper_guide_R2.stl
+-rwxrwx---    1 Stephane UsersGrp    164484 Mar 19 21:53 paper_guide_R3.stl
+-rw-rw-r--    1 Stephane UsersGrp         0 Mar 19 21:55 parts.txt
+-rwxrwx---    1 Stephane UsersGrp    179284 Mar 19 21:53 pulleyEndstop_mount.stl
+-rwxrwx---    1 Stephane UsersGrp    130734 Mar 19 21:53 pulley_mount.stl
+-rwxrwx---    1 Stephane UsersGrp   2542384 Mar 19 21:53 right_axes_mount.stl
+-rwxrwx---    1 Stephane UsersGrp    997884 Mar 19 21:53 roll_Oring.stl
+-rwxrwx---    1 Stephane UsersGrp    122084 Mar 19 21:53 roll_sandPaper.stl
+-rwxrwx---    1 Stephane UsersGrp   2412184 Mar 19 21:53 sroll_wheel.stl
+-rwxrwx---    1 Stephane UsersGrp    366584 Mar 19 21:53 trolley_up.stl

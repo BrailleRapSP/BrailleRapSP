@@ -24,6 +24,28 @@ Qty file                     STL file
 4	top box lock			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/LOCK_V2.stl
 1   paper guide plate	     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/plateau%20guide%20papier.stl
 1   plateforme up	         https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/charriot%20haut.stl
+
+1   Y motor mount            https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/Ymotor_mount.stl
+1   Eletro-magnet mount      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/electroMagnet_mount.stl
+1   End stop mount			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/endstopY_mount.stl
+1	Embosser				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/femal_embosser_mount.stl
+6   linear bearing mount	 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/igus_housing.stl
+2   Y axis support			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/kp08_suport.stl
+1	Left axis mount			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/left_axes_mount.stl
+4   top plate lock			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/lock_top.stl
+1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_L1.stl
+1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_L2.stl
+1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_L3.stl
+1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_R1.stl
+1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_R2.stl
+1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_R3.stl
+1   End Stop mount		     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/pulleyEndstop_mount.stl
+1   pulley mount			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/pulley_mount.stl
+1   right axis mount	     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/right_axes_mount.stl
+3	upper paper drive		 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/roll_Oring.stl
+3   paper drive				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/roll_sandPaper.stl
+2   wheel					 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/sroll_wheel.stl
+1   troley					 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/trolley_up.stl
 ...
 === ======================== ===========================================================================================================
 

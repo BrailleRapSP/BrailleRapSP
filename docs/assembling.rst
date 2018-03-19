@@ -74,8 +74,8 @@ then glue the front side.
 Assemble the 4 sides and the bottom, sticking them together with blue tape.
 
 =============================================== ============================================= ============================================
-.. image :: flat_lasercut2018_03_18_2917.JPG    .. image :: flat_lasercut2018_03_18_2917.JPG  .. image :: flat_lasercut2018_03_18_2917.JPG
-			:align: center                        :align: center                                 :align: center
+.. image :: bluetape_box12018_03_18_2938.JPG    .. image :: bluetape_box22018_03_18_2939.JPG  .. image :: bluetape_box32018_03_18_2940.JPG
+			                                                 
 =============================================== ============================================= ============================================			         
 			                  
 											

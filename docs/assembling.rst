@@ -130,6 +130,21 @@ In order to perfectly align the KP08, you'll use a 8mm rod before tighten the Ny
 Left support assembly
 ======================
 
+.. image :: ./IMG/Left-Mount-00-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-01-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-02-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-03-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-04-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-05-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-06-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-07-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-08-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-09-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-10-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-11-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-12-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-13-2018_03_21_2971-2017-01-27.JPG
+
 Position M3 bolts into the X axis' left support
 
 Then you'll place the M3x14mm BTR screws so that the nuts stay in place
@@ -145,6 +160,8 @@ Be sure that pulley support allowing the endstop attachment is in right into the
 Install pulleys into dedicated supports
 
 You should now obtain something similar to this photo
+
+.. image :: ./IMG/Left-Mount-14-2018_03_21_2971-2017-01-27.JPG
 
 
 Installing the electro-magnet

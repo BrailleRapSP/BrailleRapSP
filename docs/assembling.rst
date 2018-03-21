@@ -104,7 +104,7 @@ Attach the right_axes_mount.stl printed part to the X axis stepper's motor.
 
 Insert M3 bolts into the right X axis support
 
-.. image :: ./IMG/right-axes-mountM32018_03_21_2952-2017-01-27.JPG
+.. image :: ./IMG/right-axes-mountM32018_03_21_2953-2017-01-27.JPG
 
 Add the BTR M3x14mm screws into the dedicated spaces. You should obtain this:
 
@@ -135,10 +135,15 @@ Position M3 bolts into the X axis' left support
 Then you'll place the M3x14mm BTR screws so that the nuts stay in place
 
 Pulley assembly
+
 Add the pulleys on the left support 
-Locked these supports uing 2 M3x30mm BTR bolts and nylstop M3 bolts.
-Be sure that pulley support allowing the endstop attachment is in right into the lower part.
+
+Locked these supports uing 2 M3x30mm BTR bolts and nylstop M3 bolts
+
+Be sure that pulley support allowing the endstop attachment is in right into the lower part
+
 Install pulleys into dedicated supports
+
 You should now obtain something similar to this photo
 
 

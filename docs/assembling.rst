@@ -1,6 +1,15 @@
 Assembling guide
 ================
 
+Consider from 2 up to 4 hours to achieve this build.
+You won't need specific knowledge but some basic tools like:
+
+* hallen keys and socket wrench for 2.5, 3, 4 and 5mm bolts and nuts
+* a nose plier 
+* a threader (for printed parts receiving screws)
+* a multimeter to test the endstops (optional)
+
+
 Machining the embossing "stylus"
 ----------------------------
 The embossing tool is made of an M3 screw, machined with a dremel like tool. the tip of the tool need to be smooth (avoid sharp tip that will tear the embossed material)
@@ -11,7 +20,7 @@ Assemble the embossing tool
 #. Screw embossing "stylus" in the brace.
 #. lock the sylus with a counter lock nut.
 
-	.. image :: /IMG/electromagnet.png
+	.. image :: ./IMG/electromagnet.png
 		:align: center
 
 Prepare top paper roll drive
@@ -25,16 +34,16 @@ We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stic
 		:align: center
 		:alt: Tap the screw hole with an M3 tap. 
 #. Sand printed roll with sand Paper N°4 to scratch the printed surface where you want to stick sand paper.
-	.. image :: ../IMG/sand_roll_2018_03_18_2932.JPG
+	.. image :: ./IMG/sand_roll_2018_03_18_2932.JPG
 		:align: center
 #. "Paint" the printed parts with cyanoacrilat glue, let it dry.
-	.. image :: ../IMG/cyano_roll_2018_03_18_2934.JPG
+	.. image :: ./IMG/cyano_roll_2018_03_18_2934.JPG
 		:align: center
 #. Glue a piece of 180 sand paper on the part with bi-component epoxy glue.
-	.. image :: ../IMG/epoxy_glue_roll2018_03_18_2936.JPG
+	.. image :: ./IMG/epoxy_glue_roll2018_03_18_2936.JPG
 		:align: center
 #. Fix the sand paper on roll with some rubber band. Let the roll dry for about 24h depending of the epoxy glue you've used (we used standard epoxy and let the roll dry for about 24 hours)
-	.. image :: ../IMG/rubber_band_roll2018_03_18_2937.JPG
+	.. image :: ./IMG/rubber_band_roll2018_03_18_2937.JPG
 		:align: center
 	
 	
@@ -43,10 +52,10 @@ Prepare bottom paper roll drive
 
 #. Print 3 paper roll **link to stl**.
 #. Tap the screw hole with an m3 tap.
-	.. image :: ../IMG/tap_bottom_roll2018_03_18_2927.JPG
+	.. image :: ./IMG/tap_bottom_roll2018_03_18_2927.JPG
 		:align: center
 #. Put an O-ring on the roll throat.
-	.. image :: ../IMG/oring_roll2018_03_18_2930.JPG
+	.. image :: ./IMG/oring_roll2018_03_18_2930.JPG
 		:align: center
 
 Laser cut the box
@@ -62,19 +71,19 @@ Use the dxf files in https://github.com/BrailleRapSP/BrailleRapSP/tree/master/la
 Assemble the box
 -------------------
 Prepare the sides of the box on a flat surface.
-	.. image :: ../IMG/flat_lasercut2018_03_18_2917.JPG
+	.. image :: ./IMG/flat_lasercut2018_03_18_2917.JPG
 			:align: center
 Start to glue left right and back sides of the box on the bottom side with wood glue, 
-		.. image :: ../IMG/3sides_box_2018_03_18_2918.JPG
+		.. image :: ./IMG/3sides_box_2018_03_18_2918.JPG
 			:align: center
 then glue the front side. 
-	.. image :: ../IMG/4sides_box2018_03_18_2919.JPG
+	.. image :: ./IMG/4sides_box2018_03_18_2919.JPG
 			:align: center
 
 Assemble the 4 sides and the bottom, sticking them together with blue tape.
 
 ===================================================== ====================================================== ============================================
-.. image :: ../IMG/bluetape_box12018_03_18_2938.JPG   .. image :: ../IMG/bluetape_box22018_03_18_2939.JPG    .. image :: ../IMG/bluetape_box32018_03_18_2940.JPG
+.. image :: ./IMG/bluetape_box12018_03_18_2938.JPG    .. image :: ./IMG/bluetape_box22018_03_18_2939.JPG     .. image :: ./IMG/bluetape_box32018_03_18_2940.JPG
 			                                                 
 ===================================================== ====================================================== ============================================			         
 			                  

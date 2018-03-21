@@ -2,7 +2,10 @@ Assembling guide
 ================
 
 Consider from 2 up to 4 hours to achieve this build.
-You won't need specific knowledge but some basic tools like:
+You won't need specific knowledge but some basic tools.
+
+Toolkit
+--------
 
 * hallen keys and socket wrench for 2.5, 3, 4 and 5mm bolts and nuts
 * a nose plier 
@@ -11,13 +14,22 @@ You won't need specific knowledge but some basic tools like:
 * a threader (for printed parts receiving screws)
 * a multimeter to test the endstops (optional)
 
+Tips & Conventions
+-------------------
+
+* tape trick for retaining bolts and nuts
+* using Hallen key to maintain screw while tightening
+* "X axis" stands for the embossing head displacement
+* "Y axis" is related to paper sheet movement
+* X axis is assembly from two main parts. The female support is the top one while the male part of the embosser is at the bottom.
+
 
 Machining the embossing "stylus"
-----------------------------
+--------------------------------
 The embossing tool is made of an M3 screw, machined with a dremel like tool. the tip of the tool need to be smooth (avoid sharp tip that will tear the embossed material)
 
 Assemble the embossing tool
----------------------------
+----------------------------
 #. Screw the brace on the electro-magnet axle. 
 #. Screw embossing "stylus" in the brace.
 #. lock the sylus with a counter lock nut.
@@ -202,9 +214,19 @@ Assembling Y Axis
 #. Put the *400* mm linear shaft beetween the left and right top support going throw the hole in the right side of the box. While positionning the linear shaft don't forget to string 3 sand paper paper drive.
 
 
+Electronics & electric installation
+------------------------------------
+
+* Installing MKS Gen1.4 Card
+* Fixing Power supply 
+
+Software
+---------
 
 Calibrating the printer
 -----------------------
 
-Embosser
-...
+* paper placement
+* Embosser calibration
+
+

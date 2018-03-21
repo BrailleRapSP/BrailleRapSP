@@ -6,6 +6,8 @@ You won't need specific knowledge but some basic tools like:
 
 * hallen keys and socket wrench for 2.5, 3, 4 and 5mm bolts and nuts
 * a nose plier 
+* wood glue
+* tape
 * a threader (for printed parts receiving screws)
 * a multimeter to test the endstops (optional)
 
@@ -25,7 +27,7 @@ Assemble the embossing tool
 
 Prepare top paper roll drive
 ------------------------------
-We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stick on ABS so we prepare the parts with light sanding and cyanoacrilat glue. Be careful with cyanoacrilat glue, don't stick your finger.
+We use epoxy glue to stick the sand paper on abs printed parts. Epoxy don't stick on ABS so we prepare the parts with light sanding and cyanoacrilat glue. Be careful with cyanoacrilat glue, don't stick your finger. Will start assembly with this part to let the glue gets dry.
  
 #. Print 3 paper roll **link to stl**.
 #. Laser cut some piece of 180 sand paper.
@@ -70,6 +72,9 @@ Use the dxf files in https://github.com/BrailleRapSP/BrailleRapSP/tree/master/la
 
 Assemble the box
 -------------------
+Depending on the lasercutter used, you may want to sand the cutted parts before starting assembly.
+    .. image :: ./IMG/sanding_box2018_03_21_2946-2017-01-27.JPG
+
 Prepare the sides of the box on a flat surface.
 	.. image :: ./IMG/flat_lasercut2018_03_18_2917.JPG
 			:align: center
@@ -80,20 +85,71 @@ then glue the front side.
 	.. image :: ./IMG/4sides_box2018_03_18_2919.JPG
 			:align: center
 
-Assemble the 4 sides and the bottom, sticking them together with blue tape.
+Assemble the 4 sides and the bottom, sticking them together with masking tape.
 
 ===================================================== ====================================================== ============================================
 .. image :: ./IMG/bluetape_box12018_03_18_2938.JPG    .. image :: ./IMG/bluetape_box22018_03_18_2939.JPG     .. image :: ./IMG/bluetape_box32018_03_18_2940.JPG
 			                                                 
 ===================================================== ====================================================== ============================================			         
 			                  
-											
+While the glue is drying (time depends on the glue you'll use), let's start assembling the right and left supports.
 
 
-When the glue is dry (the time depending of the glue you have used), Start assembling the Y axis.
+Right support assembly
+-----------------------
+
+Attach the right_axes_mount.stl printed part to the X axis stepper's motor.
+
+.. image :: ./IMG/right-axes-mount2018_03_21_2952-2017-01-27.JPG
+
+Insert M3 bolts into the right X axis support
+
+.. image :: ./IMG/right-axes-mountM32018_03_21_2952-2017-01-27.JPG
+
+Add the BTR M3x14mm screws into the dedicated spaces. You should obtain this:
+
+.. image :: ./IMG/right-axes-mount-Global2018_03_21_2955-2017-01-27.JPG
 
 
-...
+Add the coupler right onto the motor axis. Be sure to tight the screw correctly
+
+.. image :: ./IMG/right-axes-mount-Coupler2018_03_21_2974-2017-01-27.JPG
+
+
+Now it's time to install the support into the right side of the wooden chassis, using 4 BTR M4 screws. You'll add right after the KP08 according to the photo.
+
+.. image :: ./IMG/right-axes-mount-kp08-2018_03_21_2975-2017-01-27.JPG
+
+Be aware that KP08 parts are symetrically installed. The rings looking up for the upper part, facing down for the lower part. You should get this result:
+
+.. image :: ./IMG/right-axes-mount-right-install2018_03_21_2980-2017-01-27.JPG
+
+In order to perfectly align the KP08, you'll use a 8mm rod before tighten the Nylstop screws.
+
+
+Left support assembly
+======================
+
+Position M3 bolts into the X axis' left support
+
+Then you'll place the M3x14mm BTR screws so that the nuts stay in place
+
+Pulley assembly
+Add the pulleys on the left support 
+Locked these supports uing 2 M3x30mm BTR bolts and nylstop M3 bolts.
+Be sure that pulley support allowing the endstop attachment is in right into the lower part.
+Install pulleys into dedicated supports
+You should now obtain something similar to this photo
+
+
+Installing the electro-magnet
+==============================
+
+TBA, magnet sourcing is changing
+
+
+
+
 
 Preparing Y Axis
 ----------------

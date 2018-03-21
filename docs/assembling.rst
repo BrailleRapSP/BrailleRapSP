@@ -142,33 +142,33 @@ In order to perfectly align the KP08, you'll use a 8mm rod before tighten the Ny
 Left support assembly
 ======================
 
-.. image :: ./IMG/Left-Mount-00-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-00-2018_03_21_2957-2017-01-27
 
-.. image :: ./IMG/Left-Mount-01-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-01-2018_03_21_2958-2017-01-27
 
-.. image :: ./IMG/Left-Mount-02-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-02-2018_03_21_2959-2017-01-27
 
-.. image :: ./IMG/Left-Mount-03-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-03-2018_03_21_2960-2017-01-27
 
-.. image :: ./IMG/Left-Mount-04-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-04-2018_03_21_2961-2017-01-27
 
-.. image :: ./IMG/Left-Mount-05-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-05-2018_03_21_2962-2017-01-27
 
-.. image :: ./IMG/Left-Mount-06-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-06-2018_03_21_2963-2017-01-27
 
-.. image :: ./IMG/Left-Mount-07-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-07-2018_03_21_2964-2017-01-27
 
-.. image :: ./IMG/Left-Mount-08-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-08-2018_03_21_2965-2017-01-27
 
-.. image :: ./IMG/Left-Mount-09-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-09-2018_03_21_2966-2017-01-27
 
-.. image :: ./IMG/Left-Mount-10-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-10-2018_03_21_2967-2017-01-27
 
-.. image :: ./IMG/Left-Mount-11-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-11-2018_03_21_2968-2017-01-27
 
-.. image :: ./IMG/Left-Mount-12-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-12-2018_03_21_2969-2017-01-27
 
-.. image :: ./IMG/Left-Mount-13-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-13-2018_03_21_2970-2017-01-27
 
 Position M3 bolts into the X axis' left support
 
@@ -186,7 +186,7 @@ Install pulleys into dedicated supports
 
 You should now obtain something similar to this photo
 
-.. image :: ./IMG/Left-Mount-14-2018_03_21_2971-2017-01-27.JPG
+.. image :: ./IMG/Left-Mount-14-2018_03_21_2971-2017-01-27
 
 
 Installing the electro-magnet

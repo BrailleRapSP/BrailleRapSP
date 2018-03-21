@@ -138,7 +138,7 @@ Pulley assembly
 
 Add the pulleys on the left support 
 
-Locked these supports uing 2 M3x30mm BTR bolts and nylstop M3 bolts
+Locked these supports using 2 M3x30mm BTR and nylstop M3 bolts
 
 Be sure that pulley support allowing the endstop attachment is in right into the lower part
 

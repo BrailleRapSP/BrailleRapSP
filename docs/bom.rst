@@ -11,7 +11,7 @@ https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
 Printed parts
 -------------
 
-All parts are printed in ABS, 50% infill, 3 perimeters. We used eSun ABS natural filament.
+All parts are printed in ABS, 50% infill, 3 perimeters. We used eSun ABS Natural filament.
 
 .. table:: Printed parts
 	:widths: auto

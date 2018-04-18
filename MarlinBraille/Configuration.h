@@ -152,9 +152,10 @@
   #endif
 #endif
 */
-#define BEEPER_PIN 33 // beeper on Aux 4
-#define LCD_FEEDBACK_FREQUENCY_HZ 440
-#define LCD_FEEDBACK_FREQUENCY_DURATION_MS 250
+//#define HAS_BUZZER 1
+//#define BEEPER_PIN 33 // beeper on Aux 4
+//#define LCD_FEEDBACK_FREQUENCY_HZ 440
+//#define LCD_FEEDBACK_FREQUENCY_DURATION_MS 250
 
 // FIN BRAILLE RAP CONFIG
 

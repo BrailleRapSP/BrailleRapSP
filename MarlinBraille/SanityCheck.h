@@ -1148,6 +1148,17 @@ static_assert(1 >= 0
 
 // Delta and Cartesian use 3 homing endstops
 #if !IS_SCARA
+#if PAPER_LOADING_HOME_Y
+  #if X_HOME_DIR < 0 && DISABLED(USE_XMIN_PLUG)
+    #error "Enable USE_XMIN_PLUG when homing X to MIN."
+  #elif X_HOME_DIR > 0 && DISABLED(USE_XMAX_PLUG)
+    #error "Enable USE_XMAX_PLUG when homing X to MAX."
+  #elif Y_HOME_DIR < 0 && DISABLED(USE_YMIN_PLUG)
+    #error "Enable USE_YMIN_PLUG when homing Y to MIN."
+  #elif Y_HOME_DIR > 0 && DISABLED(USE_YMIN_PLUG)
+    #error "Enable USE_YMIN_PLUG when homing Y from MAX."
+  #endif
+  #else
   #if X_HOME_DIR < 0 && DISABLED(USE_XMIN_PLUG)
     #error "Enable USE_XMIN_PLUG when homing X to MIN."
   #elif X_HOME_DIR > 0 && DISABLED(USE_XMAX_PLUG)
@@ -1156,6 +1167,7 @@ static_assert(1 >= 0
     #error "Enable USE_YMIN_PLUG when homing Y to MIN."
   #elif Y_HOME_DIR > 0 && DISABLED(USE_YMAX_PLUG)
     #error "Enable USE_YMAX_PLUG when homing Y to MAX."
+  #endif
   #endif
 #endif
 #if Z_HOME_DIR < 0 && DISABLED(USE_ZMIN_PLUG)

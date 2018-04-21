@@ -2894,6 +2894,218 @@ static void do_homing_move(const AxisEnum axis, const float distance, const floa
   }
 #endif
 
+
+#if PAPER_LOADING_HOME_Y
+static void homeaxis_paperload (const AxisEnum axis)
+{
+  if (axis != Y_AXIS)
+    return;
+  #if ENABLED(DEBUG_LEVELING_FEATURE)
+    if (DEBUGGING(LEVELING)) {
+      SERIAL_ECHOPAIR(">>> homeaxis_paperload(", axis_codes[axis]);
+      SERIAL_CHAR(')');
+      SERIAL_EOL();
+    }
+  #endif
+  // update endstop
+  do_homing_move(axis, -home_dir(axis), get_homing_bump_feedrate(axis));
+  
+  int ends = Endstops::current_endstop_bits;
+  
+  #if ENABLED(DEBUG_LEVELING_FEATURE)
+    if (DEBUGGING(LEVELING)) {
+      SERIAL_ECHOPAIR(">>> endstop status (", ends );
+      SERIAL_CHAR(')');
+	  SERIAL_ECHOLN (ends);
+	  SERIAL_ECHOLN ("plop");
+      SERIAL_EOL();
+    }
+  #endif
+  
+  
+  const int axis_home_dir =  home_dir(axis);
+
+  while (Endstops::current_endstop_bits & _BV (Y_MIN))
+  {
+	#if ENABLED(DEBUG_LEVELING_FEATURE)
+		if (DEBUGGING(LEVELING)) {
+			  SERIAL_ECHOPAIR(">>> bumping move  (", -Y_HOME_BUMP_MM );
+			  SERIAL_CHAR(')');
+			  SERIAL_EOL();
+		}
+	#endif
+	endstops.enable(false);
+	do_homing_move(axis, -Y_HOME_BUMP_MM, get_homing_bump_feedrate(axis));
+	endstops.enable(true);
+	do_homing_move(axis, -axis_home_dir, get_homing_bump_feedrate(axis));
+  }
+
+  #if ENABLED(DEBUG_LEVELING_FEATURE)
+    if (DEBUGGING(LEVELING)) {
+      SERIAL_ECHOPAIR(">>> postbump endstop status (", Endstops::current_endstop_bits );
+      SERIAL_CHAR(')');
+	  SERIAL_ECHOLN (ends);
+	  SERIAL_ECHOLN ("plop");
+      SERIAL_EOL();
+    }
+  #endif
+  // Set flags for X, Y, Z motor locking
+  #if ENABLED(X_DUAL_ENDSTOPS)
+    if (axis == X_AXIS) stepper.set_homing_flag_x(true);
+  #endif
+  #if ENABLED(Y_DUAL_ENDSTOPS)
+    if (axis == Y_AXIS) stepper.set_homing_flag_y(true);
+  #endif
+  #if ENABLED(Z_DUAL_ENDSTOPS)
+    if (axis == Z_AXIS) stepper.set_homing_flag_z(true);
+  #endif
+
+  // Disable stealthChop if used. Enable diag1 pin on driver.
+  #if ENABLED(SENSORLESS_HOMING)
+    #if ENABLED(X_IS_TMC2130)
+      if (axis == X_AXIS) tmc_sensorless_homing(stepperX);
+    #endif
+    #if ENABLED(Y_IS_TMC2130)
+      if (axis == Y_AXIS) tmc_sensorless_homing(stepperY);
+    #endif
+  #endif
+
+  // Fast move towards endstop until triggered
+  #if ENABLED(DEBUG_LEVELING_FEATURE)
+    if (DEBUGGING(LEVELING)) SERIAL_ECHOLNPGM("Home 1 Fast:");
+  #endif
+  do_homing_move(axis, 1.5 * max_length(axis) * axis_home_dir);
+
+  //sgn
+  // For cartesian/core machines,
+    // set the axis to its home position
+    set_axis_is_at_home(axis);
+    sync_plan_position();
+
+    destination[axis] = current_position[axis];
+  // fsgn
+  
+  // When homing Z with probe respect probe clearance
+  const float bump = axis_home_dir * (
+    #if HOMING_Z_WITH_PROBE
+      (axis == Z_AXIS) ? max(Z_CLEARANCE_BETWEEN_PROBES, home_bump_mm(Z_AXIS)) :
+    #endif
+    home_bump_mm(axis)
+  );
+
+  // If a second homing move is configured...
+  if (bump) {
+    // Move away from the endstop by the axis HOME_BUMP_MM
+    #if ENABLED(DEBUG_LEVELING_FEATURE)
+      if (DEBUGGING(LEVELING)) SERIAL_ECHOLNPGM("Move Away:");
+    #endif
+	endstops.enable(false);
+    do_homing_move(axis, -bump);
+
+    // Slow move towards endstop until triggered
+    #if ENABLED(DEBUG_LEVELING_FEATURE)
+      if (DEBUGGING(LEVELING)) SERIAL_ECHOLNPGM("Home 2 Slow:");
+    #endif
+	endstops.enable(true);
+    do_homing_move(axis, 2 * bump, get_homing_bump_feedrate(axis));
+  }
+
+  /**
+   * Home axes that have dual endstops... differently
+   */
+  #if ENABLED(X_DUAL_ENDSTOPS) || ENABLED(Y_DUAL_ENDSTOPS) || ENABLED(Z_DUAL_ENDSTOPS)
+    const bool pos_dir = axis_home_dir > 0;
+    #if ENABLED(X_DUAL_ENDSTOPS)
+      if (axis == X_AXIS) {
+        const bool lock_x1 = pos_dir ? (x_endstop_adj > 0) : (x_endstop_adj < 0);
+        const float adj = FABS(x_endstop_adj);
+        if (lock_x1) stepper.set_x_lock(true); else stepper.set_x2_lock(true);
+        do_homing_move(axis, pos_dir ? -adj : adj);
+        if (lock_x1) stepper.set_x_lock(false); else stepper.set_x2_lock(false);
+        stepper.set_homing_flag_x(false);
+      }
+    #endif
+    #if ENABLED(Y_DUAL_ENDSTOPS)
+      if (axis == Y_AXIS) {
+        const bool lock_y1 = pos_dir ? (y_endstop_adj > 0) : (y_endstop_adj < 0);
+        const float adj = FABS(y_endstop_adj);
+        if (lock_y1) stepper.set_y_lock(true); else stepper.set_y2_lock(true);
+        do_homing_move(axis, pos_dir ? -adj : adj);
+        if (lock_y1) stepper.set_y_lock(false); else stepper.set_y2_lock(false);
+        stepper.set_homing_flag_y(false);
+      }
+    #endif
+    #if ENABLED(Z_DUAL_ENDSTOPS)
+      if (axis == Z_AXIS) {
+        const bool lock_z1 = pos_dir ? (z_endstop_adj > 0) : (z_endstop_adj < 0);
+        const float adj = FABS(z_endstop_adj);
+        if (lock_z1) stepper.set_z_lock(true); else stepper.set_z2_lock(true);
+        do_homing_move(axis, pos_dir ? -adj : adj);
+        if (lock_z1) stepper.set_z_lock(false); else stepper.set_z2_lock(false);
+        stepper.set_homing_flag_z(false);
+      }
+    #endif
+  #endif
+
+  #if IS_SCARA
+
+    set_axis_is_at_home(axis);
+    SYNC_PLAN_POSITION_KINEMATIC();
+
+  #elif ENABLED(DELTA)
+
+    // Delta has already moved all three towers up in G28
+    // so here it re-homes each tower in turn.
+    // Delta homing treats the axes as normal linear axes.
+
+    // retrace by the amount specified in delta_endstop_adj + additional 0.1mm in order to have minimum steps
+    if (delta_endstop_adj[axis] * Z_HOME_DIR <= 0) {
+      #if ENABLED(DEBUG_LEVELING_FEATURE)
+        if (DEBUGGING(LEVELING)) SERIAL_ECHOLNPGM("delta_endstop_adj:");
+      #endif
+      do_homing_move(axis, delta_endstop_adj[axis] - 0.1 * Z_HOME_DIR);
+    }
+
+  #else
+
+    // For cartesian/core machines,
+    // set the axis to its home position
+    set_axis_is_at_home(axis);
+    sync_plan_position();
+
+    destination[axis] = current_position[axis];
+
+    #if ENABLED(DEBUG_LEVELING_FEATURE)
+      if (DEBUGGING(LEVELING)) DEBUG_POS("> AFTER set_axis_is_at_home", current_position);
+    #endif
+
+  #endif
+
+  // Re-enable stealthChop if used. Disable diag1 pin on driver.
+  #if ENABLED(SENSORLESS_HOMING)
+    #if ENABLED(X_IS_TMC2130)
+      if (axis == X_AXIS) tmc_sensorless_homing(stepperX, false);
+    #endif
+    #if ENABLED(Y_IS_TMC2130)
+      if (axis == Y_AXIS) tmc_sensorless_homing(stepperY, false);
+    #endif
+  #endif
+
+  // Put away the Z probe
+  #if HOMING_Z_WITH_PROBE
+    if (axis == Z_AXIS && STOW_PROBE()) return;
+  #endif
+
+  #if ENABLED(DEBUG_LEVELING_FEATURE)
+    if (DEBUGGING(LEVELING)) {
+      SERIAL_ECHOPAIR("<<< homeaxis(", axis_codes[axis]);
+      SERIAL_CHAR(')');
+      SERIAL_EOL();
+    }
+  #endif
+}
+#endif
+
 /**
  * Home an individual "raw axis" to its endstop.
  * This applies to XYZ on Cartesian and Core robots, and
@@ -4061,8 +4273,12 @@ inline void gcode_G28(const bool always_home_all) {
 
       // Home Y
       if (home_all || homeY) {
+		#if PAPER_LOADING_HOME_Y
+		homeaxis_paperload(Y_AXIS);
+		#else
         HOMEAXIS(Y);
-        #if ENABLED(DEBUG_LEVELING_FEATURE)
+		#endif
+		#if ENABLED(DEBUG_LEVELING_FEATURE)
           if (DEBUGGING(LEVELING)) DEBUG_POS("> homeY", current_position);
         #endif
       }
@@ -4104,7 +4320,11 @@ inline void gcode_G28(const bool always_home_all) {
     #if DISABLED(HOME_Y_BEFORE_X)
       // Home Y
       if (home_all || homeY) {
+        #if PAPER_LOADING_HOME_Y
+		homeaxis_paperload(Y_AXIS);
+		#else
         HOMEAXIS(Y);
+		#endif
         #if ENABLED(DEBUG_LEVELING_FEATURE)
           if (DEBUGGING(LEVELING)) DEBUG_POS("> homeY", current_position);
         #endif

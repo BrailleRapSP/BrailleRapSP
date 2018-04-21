@@ -465,18 +465,25 @@ void Endstops::update() {
       #endif
     }
     else { // +direction
-      #if HAS_Y_MAX
-        #if ENABLED(Y_DUAL_ENDSTOPS)
-          UPDATE_ENDSTOP_BIT(Y, MAX);
-          #if HAS_Y2_MAX
-            UPDATE_ENDSTOP_BIT(Y2, MAX);
-          #else
-            COPY_BIT(current_endstop_bits, Y_MAX, Y2_MAX);
-          #endif
-          test_dual_y_endstops(Y_MAX, Y2_MAX);
-        #else
-          UPDATE_ENDSTOP(Y, MAX);
-        #endif
+		#if PAPER_LOADING_HOME_Y
+			#if HAS_Y_MIN
+				UPDATE_ENDSTOP(Y, MIN);
+			#endif
+		#else		
+			#if HAS_Y_MAX
+			#if ENABLED(Y_DUAL_ENDSTOPS)
+			  UPDATE_ENDSTOP_BIT(Y, MAX);
+			  #if HAS_Y2_MAX
+				UPDATE_ENDSTOP_BIT(Y2, MAX);
+			  #else
+				COPY_BIT(current_endstop_bits, Y_MAX, Y2_MAX);
+			  #endif
+			  test_dual_y_endstops(Y_MAX, Y2_MAX);
+			#else
+					UPDATE_ENDSTOP(Y, MAX);
+				
+			#endif
+		#endif
       #endif
     }
   }

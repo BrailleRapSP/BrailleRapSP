@@ -11,8 +11,8 @@
 
 
 
-Welcome to BrailleRap-SP's documentation !
-=========================================
+Bienvenue sur la documentation BrailleRap-SP
+============================================
 
 Contents:
 

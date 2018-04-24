@@ -20,12 +20,12 @@ Contents:
    :maxdepth: 2
 
    history
-   license
+   licence
    bom
    flybackboard
    assemblage
    marlin
 
-.. index:: history, license, bom, marlin, assemblage, flybackboard
+.. index:: history, licence, bom, marlin, assemblage, flybackboard
 
 

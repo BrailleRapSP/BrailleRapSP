@@ -8,14 +8,13 @@ En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium en col
 pour modifier ds imprimantes 3D pour embosser du Braille `sur du papier 160g <https://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/>`_,
 Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_.
 
-
 Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mettre au point un hardware spécialisé qui serait 
 également facile à reproduire.
 
 
 OpenBraille
 -----------
-En 2017 Carlos Campos demarre leprojer OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
+En 2017 Carlos Campos demarre le projet OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
 déplacer une feuille de papier avec suffisammant de précision dans une embosseuse braille. 
 
 BrailleRap-SP

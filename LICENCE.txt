@@ -86,7 +86,6 @@ Traduction de la licence CERN Open Hardware Licence v1.2
 
 Nota Bene: à l’exception de ce "nota bene", tout ce qui suit dans cette section, est la traduction de la CERN Open Hardware Licence v1.2 (selon l'information préalable située dans la section ci-dessus). Pour faciliter la lecture de cette traduction, et la cohésion avec la renommée de cette licence, le terme "CERN OHL", abréviation du terme anglais "CERN Open Hardware Licence", a été conservé tel quel, tandis que le terme "CERN Open Hardware Licence" a lui été traduit par "Licence CERN Matériel Ouvert v1.2". Les termes de traduction "Concessionnaire" et "Concédant" ont été choisis pour traduire les termes anglais "Licensee" et "Licensor".
 
----
 
 Licence CERN Matériel Ouvert v1.2
 Préambule

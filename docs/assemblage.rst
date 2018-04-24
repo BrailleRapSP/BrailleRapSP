@@ -171,10 +171,20 @@ Matériel :
 
 * 1 électro-aimant
 * 1 entretoise de 18mm
-* 1 vis sans tête M3-12 pointeau liméé
+* 1 vis sans tête M3-12 pointeau liméé (cf Préparation du pointeau male)
+* 1 écrou M3
+* 1 rondelle M3
 
-#. Visser l’entretoise à fond sur l’électro-aimant (photo)
-#. Visser la vis M3-12 pointeau liméé en la laissant dépasser de ± 6mm de l’entretoise (photo)
+#. Visser l’entretoise à fond sur l’électro-aimant.
+
+ .. image :: ./IMG/BrailleRAP-V5.16.jpg
+       :align: center
+
+#. Visser la vis M3-12 pointeau liméé en la laissant dépasser de ± 6mm de l’entretoise.
+
+ .. image :: ./IMG/BrailleRAP-V5.17.jpg
+       :align: center
+
 
 Montage du chariot bas (étape 1)
 ---------------------------------
@@ -196,7 +206,7 @@ Montage du chariot bas (étape 2)
 
 Matériel :
 
-* Ensemble électro-aimant pré assemblé
+* Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
 * ELECTRO_MAGNET_housing (impression 3D)
 * ELECTRO_MAGNET_guide (impression 3D)
 * 2 vis M3- 8
@@ -205,9 +215,21 @@ Matériel :
 * 1 rondelle M3
 * 1 écrou M3
 
-#. Fixer l’électro-aimant sur son support avec les 2 vis M3-8 (photo)
-#. Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide (photo) 
-#. Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne rentre pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide l’entretoise. (photo)
+#. Fixer l’électro-aimant sur son support avec les 2 vis M3-8 (NOTE : respecter le côté de sortie des fils).
+
+ .. image :: ./IMG/BrailleRAP-V5.19.jpg
+       :align: center
+
+#. Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide.
+
+ .. image :: ./IMG/BrailleRAP-V5.20.jpg
+       :align: center
+
+
+#. Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide l’entretoise.
+
+ .. image :: ./IMG/BrailleRAP-V5.21.jpg
+       :align: center
 
 
 

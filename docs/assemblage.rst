@@ -1,6 +1,10 @@
 Manuel de montage BrailleRAP-SP
 ===============================
 
+.. note::
+
+  Some note.
+
 Collage de la caisse bois
 --------------------------
 

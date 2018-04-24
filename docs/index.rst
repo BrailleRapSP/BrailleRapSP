@@ -26,6 +26,6 @@ Contents:
    assemblage
    marlin
 
-.. index:: history, license, bom, marlin, assembling, flybackboard
+.. index:: history, license, bom, marlin, assemblage, flybackboard
 
 

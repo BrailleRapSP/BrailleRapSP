@@ -129,10 +129,19 @@ Matériel :
 * BOTTOM_AXIS_left (impression 3D) préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 * BOTTOM_AXIS_right (impression 3D) préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 * 4 vis BTR M3-16
-* 4 rondelles M3 
+* 8 rondelles M3 
 * 4 écrous NYL M3
 
-#. Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (photo)
+#. Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur).
+
+ .. image :: ./IMG/BrailleRAP-V5.12.jpg
+       :align: center
+
+
+ .. image :: ./IMG/BrailleRAP-V5.13.jpg
+       :align: center
+
+
 
 
 Préparation des logements IGUS

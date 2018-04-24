@@ -59,10 +59,35 @@ Matériel :
 * 2 vis M3-12
 * 2 rondelles M3
 
-#. Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe. (photo)
-#. Monter le moteur sur son support avec les 4 vis M3-8 (photo).
-#. Introduire les écrous NYL M3 dans le support moteur. (photo)
-#. Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs. (photo)
+#. Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
+
+ .. image :: ./IMG/BrailleRAP-V5.03.jpg
+       :align: center
+
+
+#. Monter le moteur sur son support avec les 4 vis M3-8.
+
+ .. image :: ./IMG/BrailleRAP-V5.04.jpg
+       :align: center
+
+
+#. Introduire les écrous NYL M3 dans le support moteur.
+
+ .. image :: ./IMG/BrailleRAP-V5.05.jpg
+       :align: center
+
+
+#. Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
+
+ .. image :: ./IMG/BrailleRAP-V5.06.jpg
+       :align: center
+
+ .. image :: ./IMG/BrailleRAP-V5.07.jpg
+       :align: center
+
+
+
+
 
 Préparation de supports d’axes
 --------------------------------

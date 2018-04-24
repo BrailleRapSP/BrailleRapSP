@@ -132,7 +132,7 @@ Matériel :
 * 8 rondelles M3 
 * 4 écrous NYL M3
 
-#. Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur).
+#. Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront gérées quand l'ensemble du chariot bas sera en place.
 
  .. image :: ./IMG/BrailleRAP-V5.12.jpg
        :align: center
@@ -154,8 +154,15 @@ Matériel :
 * 6 IGUS_housing (impression 3D)
 * 6 vis M3-3 sans tête
 
-#. Tarauder en M3 les trous des IGUS_housing (photo)
+#. Tarauder en M3 les trous des IGUS_housing.
+
+ .. image :: ./IMG/BrailleRAP-V5.14.jpg
+       :align: center
+
 #. Introduire le palier dans son logement et visser la vis M3-3 sans tête juste assez pour lui éviter de glisser dans son logement .
+
+ .. image :: ./IMG/BrailleRAP-V5.15.jpg
+       :align: center
 
 Préparation de l’électro-aimant
 --------------------------------

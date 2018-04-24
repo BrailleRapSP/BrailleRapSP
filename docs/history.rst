@@ -14,7 +14,7 @@ Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstr
 
 OpenBraille
 -----------
-En 2017 Carlos Campos demarre le projet OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
+En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
 déplacer une feuille de papier avec suffisammant de précision dans une embosseuse braille. 
 
 BrailleRap-SP

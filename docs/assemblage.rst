@@ -19,7 +19,7 @@ Matériel:
  .. image :: ./IMG/BrailleRAP-V5.02.jpg
        :align: center
 
-#. Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage.
+#. Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant.
 
   .. image :: ./IMG/BrailleRAP-V5.01.jpg
        :align: center
@@ -92,7 +92,14 @@ Matériel :
 Préparation de supports d’axes
 --------------------------------
 
-#. Selon la qualité d’impression des pièces en plastique, veillez à ce que les barres de 8mm coulissent dans leur logement. Le cas échéant, repercer le trou avec un foret de 8.
+* BOTTOM_AXIS_left (impression 3D)
+* BOTTOM_AXIS_right (impression 3D)
+* 2X TOP_AXIS_left (impression 3D)
+* 1 foret de 8mm
+* 4 écrous M3
+* 4 vis sans tête M3-12
+
+#. Selon la qualité d’impression des pièces en plastique, veillez à ce que les barres de 8mm coulissent dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
 #. Introduisez un écrou M3 dans chacun des 8 trous rectangulaires. Vissez les vis sans tête M3-12. (photo) 
 #. L’extrémité de la vis ne doit pas dépasser dans le logement des barres de 8mm.
 
@@ -102,8 +109,8 @@ Fixation des supports des axes du chariot bas
 
 Matériel : 
 
-* BOTTOM_AXIS_left (impression 3D)
-* BOTTOM_AXIS_right (impression 3D)
+* BOTTOM_AXIS_left (impression 3D) préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+* BOTTOM_AXIS_right (impression 3D) préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 * 4 vis BTR M3-16
 * 4 rondelles M3 
 * 4 écrous NYL M3
@@ -122,7 +129,7 @@ Matériel :
 * 6 vis M3-3 sans tête
 
 #. Tarauder en M3 les trous des IGUS_housing (photo)
-#. Introduire le palier dans son logement et visser la vis M3-3 sans tête juste pour lui éviter de glisser dans son logement .
+#. Introduire le palier dans son logement et visser la vis M3-3 sans tête juste assez pour lui éviter de glisser dans son logement .
 
 Préparation de l’électro-aimant
 --------------------------------
@@ -455,6 +462,9 @@ Montage du support switch sur la caisse
 ----------------------------------------
 
 Montage des guide-papier sur la plaque
+--------------------------------------
+
+Fixation des clips sur le couvercle
 --------------------------------------
 
 #. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis de IGUS_housing.

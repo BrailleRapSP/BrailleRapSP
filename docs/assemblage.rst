@@ -6,12 +6,16 @@ Collage de la caisse bois
 
 Matériel:
 
-* 5 parties en contre plaqué de 5mm découpées au laser.
+* FACE (contre-plaqué de 5mm découpée au laser).
+* BACK (contre-plaqué de 5mm découpée au laser).
+* BOTTOM (contre-plaqué de 5mm découpée au laser).
+* LEFT_SIDE (contre-plaqué de 5mm découpée au laser).
+* RIGHT_SIDE (contre-plaqué de 5mm découpée au laser).
 * Colle à bois.
 * Scotch de peintre.
 
-#. Préparer le 5 éléments en CP de 5mm : Façade, Arrière, côté gauche, côté droit et fond.
-#. Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage.
+#. Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM .(photo)
+#. Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage.(photo)
 
 Préparation du pointeau femelle
 --------------------------------

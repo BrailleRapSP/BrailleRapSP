@@ -201,12 +201,13 @@ Matériel :
 #. Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu (photo)
 
 
-Montage du chariot bas (étape 2)
+Montage du chariot bas (étape 1)
 ---------------------------------
 
 Matériel :
 
 * Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
+* BOTTOM_trolley (impression 3D)
 * ELECTRO_MAGNET_housing (impression 3D)
 * ELECTRO_MAGNET_guide (impression 3D)
 * 2 vis M3- 8
@@ -231,6 +232,20 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.21.jpg
        :align: center
 
+
+Montage du chariot bas (étape 2)
+---------------------------------
+
+Matériel :
+
+* 2 vis M3-20
+* 2 écrous M3
+* 6 vis M3-14
+* 6 écrous M3 NYL
+
+
+#. Monter les vis M3-20 et les écrous M3 (photo)
+#. Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu (photo)
 
 
 Montage du chariot bas (étape 3)

@@ -1,26 +1,28 @@
-BrailleRap-SP Project History
-=============================
+BrailleRap-SP Historique du projet
+==================================
 
-The beginning
--------------
+Le commencement
+---------------
 
-Formarly in 2016 MyHumanKit organize an Hackaton called Fabrikarium with Airbus industries. During the Fabrikarium some test where made to hack a 3d printer to 
-embosse braille on `160g paper sheet <https://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/>`_,
-the project was called `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_.
+En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium en collaboration avec Airbus Industrie. Pendant le Fabrikarium plusieurs travaux on été réalisés 
+pour modifier ds imprimantes 3D pour embosser du Braille `sur du papier 160g <https://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/>`_,
+Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_.
 
 
-We thougt on the BrailleRap-SP team that it was a proof a concept and that we need some custom hardware to emboss braille easyly than with hacked 3D printer
+Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mettre au point un hardware spécialisé qui serait 
+également facile à reproduire.
+
 
 OpenBraille
 -----------
-
-In 2017 Carlos Campos start the project OpenBraille and build a braille embosser base on recycled printers parts, the project demonstrate that we can move the 
-paper sheet in the machine. http://www.instructables.com/id/OpenBraille-a-DIY-Braille-Embosser/
+En 2017 Carlos Campos demarre leprojer OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
+déplacer une feuille de papier avec suffisammant de précision dans une embosseuse braille. 
 
 BrailleRap-SP
 -------------
-In January 2018 we start with some linear rail, printed parts and nema, tying to build a Braille embosser. Further step later we started to show some samples 
-of embossed paper and everyone was enthousiast, BrailleRAP-SP was born.
+En Janvier 2018 nous avons commencés avec quelques rails linéaires, des moteurs Nema et des pièces imprimés pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard,
+nous avons commencés à montrer des exemples de texte embossés en Braille, et tout le monde êtaient très entousiastes. Le projet BrailleRAP-SP était né.  
+ 
 
 .. raw:: html
 

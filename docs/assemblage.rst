@@ -226,7 +226,7 @@ Matériel :
        :align: center
 
 
-#. Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide l’entretoise.
+#. Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
 
  .. image :: ./IMG/BrailleRAP-V5.21.jpg
        :align: center

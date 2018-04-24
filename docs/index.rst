@@ -23,7 +23,7 @@ Contents:
    license
    bom
    flybackboard
-   assembling
+   assemblage
    marlin
 
 .. index:: history, license, bom, marlin, assembling, flybackboard

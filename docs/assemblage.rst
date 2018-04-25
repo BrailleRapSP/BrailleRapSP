@@ -399,17 +399,6 @@ Matériel :
 #. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
 #. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
 
-Montage de la poulie de renvoi du chariot bas (étape 2) 
---------------------------------------------------------
-
-Matériel :
-
-* 1 poulie libre GT2 bore 3mm
-* 1 vis M3-30
-* 1 écrou M3 NYL
-
-#. Assembler la poulie sur son support (photo)
-
 Montage de la courroie du chariot bas
 --------------------------------------
 

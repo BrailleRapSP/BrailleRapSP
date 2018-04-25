@@ -276,7 +276,7 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.26.jpg
        :align: center
 
-#. Visser les 4 vis sans tête des supports des axes.
+#. Visser les 4 vis sans tête des supports des axes suffisamment pour éviter que les axes puissent coulisser dans leur logements.
 
  .. image :: ./IMG/BrailleRAP-V5.27.jpg
        :align: center
@@ -284,6 +284,10 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.29.jpg
        :align: center
 
+#. Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.
+
+ .. image :: ./IMG/BrailleRAP-V5.30.jpg
+       :align: center
 
 
 

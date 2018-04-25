@@ -303,8 +303,18 @@ Matériel :
 * 2 écrous M3 NYL
 * 4 rondelles M3
 
-#. Visser le moteur sur son support en laissant du jeu et en respectant la position du connecteur (photo)
-#. Visser l’ensemble moteur/support sur la caisse en laissant du jeu (photo)
+#. Visser le moteur sur son support en laissant un peu jeu et en respectant la position du connecteur. Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
+
+ .. image :: ./IMG/BrailleRAP-V5.31.jpg
+       :align: center
+
+#. Visser l’ensemble moteur/support sur la caisse en laissant du jeu.
+
+ .. image :: ./IMG/BrailleRAP-V5.32.jpg
+       :align: center
+
+ .. image :: ./IMG/BrailleRAP-V5.33.jpg
+       :align: center
 
 
 Montage de l’axe vertical (étape 2)

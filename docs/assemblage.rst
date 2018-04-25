@@ -333,14 +333,14 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
 
- .. image :: ./IMG/BrailleRAP-V5.36.jpg
-       :align: center
 
 #. Visser en laissant un peu de jeu Le support imprimé et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08.
 
  .. image :: ./IMG/BrailleRAP-V5.34.jpg
        :align: center
 
+ .. image :: ./IMG/BrailleRAP-V5.36.jpg
+       :align: center
 
  .. image :: ./IMG/BrailleRAP-V5.35.jpg
        :align: center

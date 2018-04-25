@@ -325,9 +325,19 @@ Matériel :
 * 2 KP08
 * KP08_support (impression 3D)
 * 4 vis M5-22
+* 4 rondelles M5
 * 4 écrous M5 NYL
 
-#. Visser en laissant un peu de jeu Le support imprimé et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08 (photo)
+#. Visser en laissant un peu de jeu Le support imprimé et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08.
+
+ .. image :: ./IMG/BrailleRAP-V5.34.jpg
+       :align: center
+
+ .. image :: ./IMG/BrailleRAP-V5.35.jpg
+       :align: center
+
+ .. image :: ./IMG/BrailleRAP-V5.36.jpg
+       :align: center
 
 
 Montage de l’axe vertical (étape 3)
@@ -341,7 +351,7 @@ Matériel :
 #. Enfiler le coupleur sur l’axe du (photo)
 #. Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur. (photo)
 #. Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés.
-#. Les trous du support moteur sont oblongs et permettent ainsi un alignement dans les 2 dimensions
+#. Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
 #. Visser les 2 premières vis du moteur sur son support (photo)
 #. Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
 #. Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. (photo)

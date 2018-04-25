@@ -328,6 +328,14 @@ Matériel :
 * 4 rondelles M5
 * 4 écrous M5 NYL
 
+#. Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner afin de le redresser.
+
+ .. image :: ./IMG/BrailleRAP-V5.40.jpg
+       :align: center
+
+ .. image :: ./IMG/BrailleRAP-V5.36.jpg
+       :align: center
+
 #. Visser en laissant un peu de jeu Le support imprimé et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08.
 
  .. image :: ./IMG/BrailleRAP-V5.34.jpg
@@ -337,13 +345,6 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.35.jpg
        :align: center
 
-#. Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner afin de le redresser.
-
- .. image :: ./IMG/BrailleRAP-V5.40.jpg
-       :align: center
-
- .. image :: ./IMG/BrailleRAP-V5.36.jpg
-       :align: center
 
 
 Montage de l’axe vertical (étape 3)

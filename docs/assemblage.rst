@@ -24,6 +24,17 @@ Matériel:
   .. image :: ./IMG/BrailleRAP-V5.01.jpg
        :align: center
 
+Collage des bloqueurs de trappe
+-------------------------------
+
+Matériel:
+
+* Caisse bois assemblée.
+* 6 disques en bois récupérés de la découpe laser du couvercle.
+* Colle à bois.
+
+#. Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse.Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. 
+
 
 Préparation du pointeau femelle
 --------------------------------

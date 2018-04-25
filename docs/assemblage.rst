@@ -64,7 +64,7 @@ Matériel :
 
 * 1 moteur Nema 17
 * 1 poulie GT2 20 dents bore 5mm
-* YMOTOR_support_200 ou YMOTOR_support_220 (selon la taille la courroie fermée GT2) (impression 3D)
+* YMOTOR_support_200 ou YMOTOR_support_220 (impression 3D) (selon la longueur la courroie fermée GT2)
 * 4 vis M3-8
 * 2 écrous NYL M3
 * 2 vis M3-12
@@ -77,7 +77,7 @@ Matériel :
 
 
 #. Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
-	NOTE : L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+#. NOTE : L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
  .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center

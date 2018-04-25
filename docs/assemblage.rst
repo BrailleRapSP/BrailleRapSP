@@ -218,7 +218,7 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
 
-#. Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide.
+#. Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide. Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
 
  .. image :: ./IMG/BrailleRAP-V5.20.jpg
        :align: center

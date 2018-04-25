@@ -362,7 +362,7 @@ Matériel :
 #. Visser les 2 premières vis du moteur sur son support (photo)
 #. Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
 #. Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. (photo)
-#. Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support et le support sur la caisse
+#. Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support puis le support sur la caisse
 
 
 Montage de l’axe vertical (étape 4)
@@ -372,12 +372,12 @@ Matériel :
 
 * 2 poulies GT2 20 dents bore 8mm
 
-#. Visser les 2 vis en bas du coupleur sur l’axe du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur. (photo)
+#. Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur. (photo)
 #. Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leur position) et le coupleur. (photo)
 #. Visser les 2 vis en haut du coupleur sur l’axe vertical. (photo)
 #. Laisser les poulies libres sans les visser.
 #. Visser les vis des bagues de serrage des KP08. (photo)
-#. S’assurer que l’axe tourne aisément et que le moteur n’ait pas d’oscillation. Sinon, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement. (vidéo)
+#. S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement. (vidéo)
 
 
 Montage de la poulie de renvoi du chariot bas (étape 1) :
@@ -385,18 +385,18 @@ Montage de la poulie de renvoi du chariot bas (étape 1) :
 
 Matériel :
 
-* 1 switch
-* 2 fils électriques
+* 1 interrupteur fin de course.
+* 2 fils électriques.
 * 2 vis M2.5-14
 * 2 écrous M2.5
-* DRIVEN_PULLEY_3 (impression 3D)
-* DRIVEN_PULLEY_4 (impression 3D)
+* DRIVEN_PULLEY_1 (impression 3D)
+* DRIVEN_PULLEY_2 (impression 3D)
 * 2 vis M3-20
 * 2 rondelles M3
 * 2 écrous M3 NYL
 
-* Souder les fils sur le switch  (photo)
-* Fixer le switch sur son support en laissant un peu de jeu pour le régler ultérieurement(photo)
+* Souder les fils sur l'interrupteur fin de course  (photo)
+* Fixer l'interrupteur fin de course sur son support en laissant un peu de jeu pour le régler ultérieurement(photo)
 * Fixer les 2 parties imprimées sur la caisses à l’aide des vis M3-20, les rondelles M3 et les écrous M3 NYL
 
 
@@ -447,7 +447,7 @@ Matériel :
 #. Mettre les joints toriques sur les 3 ROOL_joint  (photo)
 #. Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 (photo)
 #. Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. (photo)
-#. Mettre la courroie fermée sur la poulie du moteur Y et la poulie de l’axe (photo)
+#. Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe (photo)
 #. Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm (photo)
 #. Serrer les vis des bagues des KFL8 (photo)
 
@@ -455,13 +455,13 @@ Montage de l’axe Y (étape 2)
 -----------------------------
 
 #. Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée et serrer les 2 vis. (photo)
-#. Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement puis serrer ses vis . (photo)
+#. Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur puis serrer ses vis . (photo)
 #. Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. (photo)
 #. Quand les ROLL_joint sont bien en place, serrer leur vis sans tête. (photo)
 #. Retirer la plaque en CP
 #. Dans chaque molette, Introduire les écrous M3 dans leur logement et la vis M3-12 sans tête (photo)
 #. Enfoncer une molette de part et d’autre de l’axe et serrer les vis M3-12 sans tête afin de les maintenir sur l’axe (photo)
-#. S’assurer que les molettes font bien tourner l’axe, la courroie et le moteur Y. (vidéo)
+#. Tourner les molettes à la main afin de s'assurer que l'axe entraine bien la courroie et le moteur Y. (vidéo)
 
 
 Fixation des supports des axes du chariot haut
@@ -520,8 +520,8 @@ Montage de la poulie de renvoi du chariot haut
 
 Matériel :
 
-* DRIVEN_PULLEY_1 (impression 3D)
-* DRIVEN_PULLEY_2 (impression 3D)
+* DRIVEN_PULLEY_3 (impression 3D)
+* DRIVEN_PULLEY_4 (impression 3D)
 * 2 vis M3-20
 * 2 rondelles M3
 * 2 écrous M3 NYL

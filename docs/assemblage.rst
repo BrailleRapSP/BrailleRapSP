@@ -258,7 +258,7 @@ Montage du chariot bas (étape 3)
 
 Matériel :
 
-* 2 barres lisses diamètre : 8mm, longueur : 330mm
+* 2 barres lisses Ø 8mm, longueur : 330mm
 
 #. Enfiler les barres à mi-course par l’extérieur de la caisse.
 
@@ -345,10 +345,10 @@ Montage de l’axe vertical (étape 3)
 
 Matériel :
 
-* 1 barre lisse diamètre : 8mm, longueur : 100mm
-* 1 Coupleur 5x8
+* 1 barre lisse Ø 8mm, longueur : 100mm
+* 1 Coupleur 5*8mm
  
-#. Enfiler le coupleur sur l’axe du (photo)
+#. Enfiler le coupleur sur l’arbre du moteur(photo)
 #. Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur. (photo)
 #. Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés.
 #. Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
@@ -499,7 +499,7 @@ Montage du chariot haut (étape 2)
 
 Matériel :
 
-* 2 barres lisses diamètre : 8mm, longueur : 330mm
+* 2 barres lisses Ø 8mm, longueur : 330mm
 
 #. Enfiler les barres à mi-course par l’extérieur de la caisse (photo)
 #. Enfiler le chariot bas sur les barres lisses (photo)

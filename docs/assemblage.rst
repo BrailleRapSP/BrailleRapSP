@@ -33,7 +33,7 @@ Matériel:
 * 6 disques en bois récupérés de la découpe laser du couvercle.
 * Colle à bois.
 
-#. Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse.Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. 
+#. Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. (photo avant et arrière)
 
 
 Préparation du pointeau femelle
@@ -77,6 +77,7 @@ Matériel :
 
 
 #. Monter le moteur sur son support avec les 4 vis M3-8.
+#. NOTE :L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
  .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center

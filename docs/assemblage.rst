@@ -246,7 +246,7 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.22.jpg
        :align: center
 
-#. Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu. Les vis seront serrées quand le charriot sera en place.
+#. Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu. Les vis seront serrées quand le chariot sera en place.
 
  .. image :: ./IMG/BrailleRAP-V5.23.jpg
        :align: center
@@ -260,11 +260,31 @@ Matériel :
 
 * 2 barres lisses diamètre : 8mm, longueur : 330mm
 
-#. Enfiler les barres à mi-course par l’extérieur de la caisse (photo)
-#. Enfiler le chariot bas sur les barres lisses (photo)
-#. Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse) (photo)
-#. Serrer les vis des supports d’axes sur la caisse. (photo)
-#. Visser les vis sans tête des supports des axes (photo)
+#. Enfiler les barres à mi-course par l’extérieur de la caisse.
+
+ .. image :: ./IMG/BrailleRAP-V5.24.jpg
+       :align: center
+
+#. Enfiler le chariot bas sur les barres lisses.
+
+ .. image :: ./IMG/BrailleRAP-V5.25.jpg
+       :align: center
+
+#. Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
+#. Serrer les 4 vis des supports d’axes sur la caisse.
+
+ .. image :: ./IMG/BrailleRAP-V5.26.jpg
+       :align: center
+
+#. Visser les 4 vis sans tête des supports des axes.
+
+ .. image :: ./IMG/BrailleRAP-V5.27.jpg
+       :align: center
+
+ .. image :: ./IMG/BrailleRAP-V5.28.jpg
+       :align: center
+
+
 
 
 Montage de l’axe vertical (étape 1)

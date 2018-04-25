@@ -1,10 +1,12 @@
-Flyback board
-=============
+PCB diode de roue libre 
+=======================
 
 
 Introduction
 ------------
-We use the bed connector to control the electromagnet (has you can control a CNC spindle with a ramps board), electro-magnet are coil based component, you **MUST** use a flyback back diode between the RAMPS bed connector and the electromagnet to protect the RAMPS.
+
+Nous utilisons le connecteur de bed pour contrôler l'electro-aimant (comme on pourrait le faire avec une tête de CNC piloter par une carte RAMPS). Les electro-aimant sont des composants disposant d'une bobine, vous **devez absolument** utilisser une diode de roue libre 
+entre le connecteur de Bed et le connecteur de l'electro-aimant pour protéger la carte RAMPS.
 
 .. image :: flyback.png
     :align: center

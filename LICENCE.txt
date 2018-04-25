@@ -19,7 +19,7 @@ Chacun est autorisé à copier et distribuer des copies conformes de cette tradu
 
 Le texte original de la licence ﻿CERN Open Hardware Licence v1.2 , se trouve à l'adresse internet suivante ;
 
-    http://www.ohwr.org/licenses/cern-ohl/v1.2
+  	https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2
 
 Cette traduction libre est réalisée dans le cadre des travaux du projet de matériel libre VOOSILLA, par 4k5ADllF0cok6 4kHq.ruL70FDI [1] en octobre 2015. Ce document est disponible via le site de CERN-OHL.
 

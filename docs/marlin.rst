@@ -1,13 +1,14 @@
-Marlin Firmware for Ramps or compatible
-=======================================
+Marlin Firmware pour cartes Ramps ou compatible
+===============================================
 
 
 
 Notes
 -----
-Standard marlin firmware is used to control the embosser. We use the CNC configuration to control the electro-magnet with the spindle / pen / laser commands (M3 / M4).
+Le firmware marlin est utilisé pour controler l'embosseuse Braille. Nous utlisons la configuration CNC pour controler l'electro-aimant avec les commandes associées au moteur de CNC / stylo / laser (GCODE M3 et M4)
 
-Board configuration
+
+Configuration Marlin
 -------------------
 
 in configuration.h 
@@ -63,7 +64,7 @@ Jerk ::
    #define DEFAULT_ZJERK                 0.3
    #define DEFAULT_EJERK                 5.0
 
-
+Dans la version présente sur le github du projet BrailleRapSP, d'autre fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin de course de l'axe Y.
  
  
 

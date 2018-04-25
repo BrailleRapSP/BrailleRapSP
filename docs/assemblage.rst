@@ -396,9 +396,8 @@ Matériel :
 
 #. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
 #. Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-#. Assembler la poulie sur son support dans DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
-#. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois.(photo)
-
+#. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
+#. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
 
 Montage de la poulie de renvoi du chariot bas (étape 2) 
 --------------------------------------------------------
@@ -531,8 +530,8 @@ Matériel :
 
 #. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
 #. Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-#. Assembler la poulie sur son support dans DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
-#. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois.(photo)
+#. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
+#. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
 
 
 Montage de la carte électronique sur la caisse

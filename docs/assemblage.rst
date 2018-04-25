@@ -333,7 +333,13 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.34.jpg
        :align: center
 
+
  .. image :: ./IMG/BrailleRAP-V5.35.jpg
+       :align: center
+
+#. Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner afin de le redresser.
+
+ .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
 
  .. image :: ./IMG/BrailleRAP-V5.36.jpg

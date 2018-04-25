@@ -281,7 +281,7 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.27.jpg
        :align: center
 
- .. image :: ./IMG/BrailleRAP-V5.28.jpg
+ .. image :: ./IMG/BrailleRAP-V5.29.jpg
        :align: center
 
 

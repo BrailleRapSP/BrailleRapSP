@@ -3,18 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-.. image :: braillerapV3_001.png 
-  :width: 800px
-  :height: 100px
-  :align: center
-
-
-
 Bienvenue sur la documentation BrailleRap-SP
 ============================================
 
-Contents:
+.. image :: ./IMG/braillerapV3_001.png 
+  :width: 400px
+  :height: 100px
+  :align: center
+
+Contenu:
 
 .. toctree::
    :maxdepth: 2

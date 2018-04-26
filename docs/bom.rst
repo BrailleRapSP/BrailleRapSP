@@ -17,7 +17,7 @@ Toute les pièces sont imprimées en ABS, 50% infill, 3 perimetres exterieure. N
 .. table:: Pièces imprimées
 	:widths: auto
 === ======================== ===========================================================================================================
-Qté Piece                    Fichier STL 
+Qté Pièce                    Fichier STL 
 === ======================== ===========================================================================================================
 1   Y motor mount            https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/Ymotor_mount.stl
 1   Eletro-magnet mount      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/electroMagnet_mount.stl

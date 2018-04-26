@@ -432,8 +432,8 @@ Matériel :
 #. Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
 #. Tendre la courroie et fixer la deuxième extrémité de la courroie sur sa vis avec un collier (photo)
 #. Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse.(photo)
-#. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis des IGUS_housing.
-Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.	 (photo)
+#. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis des IGUS_housing. 
+ .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.	 (photo)
 
 Montage de l’axe Y (étape 1)
 -----------------------------

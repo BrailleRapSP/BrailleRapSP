@@ -262,12 +262,26 @@ Montage du chariot bas (étape 3)
 
 Matériel :
 
-* 2 barres lisses Ø 8mm, longueur : 330mm
+* ENDSTOP_support (impression 3D)
+* 2 barres lisses Ø8mm, longueur : 330mm
+* 1 fin de course
+* 1 vis sans tête M3-12
+* 1 écrou M3
+* 2 vis M2.5-12
+* 2 écrous M2.5
+
+#. Souder les fils sur le fin de course. (photo)
+
+#. Introduire un écrou dans le logement du ENDSTOP_support et une vis sans tête M3-12.(photo)
+
+#. Fixer le fin de course sur le ENDSTOP_support avec les 2 vis M2.5-12 et les écrous M2.5. (photo)
 
 #. Enfiler les barres à mi-course par l’extérieur de la caisse.
 
  .. image :: ./IMG/BrailleRAP-V5.24.jpg
        :align: center
+
+#. Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.(photo)
 
 #. Enfiler le chariot bas sur les barres lisses.
 
@@ -414,8 +428,9 @@ Matériel :
 #. Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier (photo)
 #. Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
 #. Tendre la courroie et fixer la deuxième extrémité de la courroie sur sa vis avec un collier (photo)
-#. Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse.
+#. Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse.(photo)
 #. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis des IGUS_housing.
+Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.	 (photo)
 
 Montage de l’axe Y (étape 1)
 -----------------------------
@@ -428,7 +443,7 @@ Matériel :
 * 3 vis M3-3 sans tête
 * 2 KFL8
 * 1 poulie GT2 20 dents bore 8mm
-* 1 barre lisse diamètre : 8mm, longueur : 364mm
+* 1 barre lisse Ø 8mm, longueur : 364mm
 * 4 vis M5-18
 * 4 écrous M5 NYL
 * 2 x SCROLL_wheel (impression 3D)
@@ -449,7 +464,7 @@ Matériel :
 #. Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 (photo)
 #. Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. (photo)
 #. Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe (photo)
-#. Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm (photo)
+#. Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse (photo)
 #. Serrer les vis des bagues des KFL8 (photo)
 
 Montage de l’axe Y (étape 2)
@@ -596,10 +611,10 @@ Montage des guide-papier sur la plaque
 Fixation des clips sur le couvercle
 --------------------------------------
 
-#. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis de IGUS_housing.
 
 A ne pas oublier
 #. Serrer les poulies sur l’axe vertical
+#. Serrer la vis du endstop X
 
 
 

@@ -19,8 +19,8 @@ Contenu:
    history
    licence
    bom
-   flybackboard
    assemblage
+   flybackboard
    marlin
 
 .. index:: history, licence, bom, marlin, assemblage, flybackboard

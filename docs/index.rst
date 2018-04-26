@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 
-.. image :: braillerapV3_001.png 
+.. image :: ./IMG/braillerapV3_001.png 
   :width: 800px
   :height: 100px
   :align: center

@@ -29,11 +29,11 @@ Collage des bloqueurs de trappe
 
 Matériel:
 
-* Caisse bois assemblée.
-* 6 disques en bois récupérés de la découpe laser du couvercle.
-* Colle à bois.
+  * Caisse bois assemblée.
+  * 6 disques en bois récupérés de la découpe laser du couvercle.
+  * Colle à bois.
 
-#. Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. (photo avant et arrière)
+* Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. (photo avant et arrière)
 
 
 Préparation du pointeau femelle
@@ -41,10 +41,10 @@ Préparation du pointeau femelle
 
 Matériel: 
 
-* 1 vis sans tête M3-30
-* 1 écrou M3 borgne
-* 1 taraud M3
-* FEMALE_shape (impression 3D)
+  * 1 vis sans tête M3-30
+  * 1 écrou M3 borgne
+  * 1 taraud M3
+  * FEMALE_shape (impression 3D)
 
 
 Préparation du pointeau male
@@ -52,9 +52,9 @@ Préparation du pointeau male
 
 Matériel : 
 
-* 1 vis sans tête M3-12 bout téton
+  * 1 vis sans tête M3-12 bout téton
 
-#. Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré (photo)
+* Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré (photo)
 
 
 Moteur Y
@@ -62,21 +62,21 @@ Moteur Y
 
 Matériel : 
 
-* 1 moteur Nema 17
-* 1 poulie GT2 20 dents bore 5mm
-* YMOTOR_support_200 ou YMOTOR_support_220 (impression 3D) (selon la longueur la courroie fermée GT2)
-* 4 vis M3-8
-* 2 écrous NYL M3
-* 2 vis M3-12
-* 2 rondelles M3
+  * 1 moteur Nema 17
+  * 1 poulie GT2 20 dents bore 5mm
+  * YMOTOR_support_200 ou YMOTOR_support_220 (impression 3D) (selon la longueur la courroie fermée GT2)
+  * 4 vis M3-8
+  * 2 écrous NYL M3
+  * 2 vis M3-12
+  * 2 rondelles M3
 
-#. Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
+* Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
 
   .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
 
 
-#. Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
+* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
 
  .. Note:: L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
@@ -84,13 +84,13 @@ Matériel :
        :align: center
 
 
-#. Introduire les écrous NYL M3 dans le support moteur.
+* Introduire les écrous NYL M3 dans le support moteur.
 
  .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
 
 
-#. Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
+* Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
 
  .. image :: ./IMG/BrailleRAP-V5.06.jpg
        :align: center

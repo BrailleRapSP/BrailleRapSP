@@ -14,7 +14,7 @@ Bienvenue sur la documentation BrailleRap-SP
 Contenu:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    history
    licence

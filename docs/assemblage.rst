@@ -510,16 +510,21 @@ Matériel :
 * Taraud M3
 * TOP_trolley (impression 3D)
 * FEMALE_shape (impression 3D)
-* Ensemble vis sans tête/écrou borgne collé 
+
+* 1 vis sans tête M3-30
+* 1 écrou borgne M3
+ 
 * 2 vis M3-10
 * 2 rondelles M3
 * 2 vis M3-20
 * 4 écrous M3 NYL
-* 3 IGUS_housing + IGUs pré-montés
+
+* 3 IGUS_housing + IGUS assemblés
 * 6 vis M3-14
 * 6 écrous M3 NYL
 
-#. Tarauder la FEMALE_shape (photo)
+#. Coller et visser l'écrou borgne sur la vis sans tête M3-30 (photo pour ne pas se tromper de sens de collage)
+#. Tarauder la FEMALE_shape au 2/3 en partant du haut (photo)
 #. Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser de 0,5mm (photo)
 #. Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-10, les rondelles M3 et les écrous M3 NYL en laissant du jeu. (photo)
 #. Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu (photo)

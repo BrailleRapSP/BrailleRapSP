@@ -1,4 +1,4 @@
-Bill of material
+Liste du matériel
 ================
 
 Découpe laser
@@ -11,7 +11,7 @@ https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
 
 Pièces imprimées
 -------------
-Toute les pièces sont imprimées en ABS, 50% infill, 3 perimetres exterieure. Nous utilisons le fil eSun ABS Natural.
+Toutes les pièces sont imprimées en ABS, 50% infill, 3 périmètres exterieurs. Nous utilisons le filament eSun ABS Natural.
 
 
 .. table:: Pièces imprimées

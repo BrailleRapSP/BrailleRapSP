@@ -3,6 +3,7 @@ Manuel de montage BrailleRAP-SP
 
 Collage de la caisse bois
 --------------------------
+.. seealso:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
 
 Matériel:
 

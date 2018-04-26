@@ -44,7 +44,7 @@ Matériel:
     * 1 vis sans tête M3-30
     * 1 écrou M3 borgne
     * 1 taraud M3
-    * FEMALE_shape **Pièce(s) imprimée(s) en 3D** : 
+    * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape 
 
 
 Préparation du pointeau male
@@ -140,8 +140,8 @@ Fixation des supports des axes du chariot bas
 
 Matériel : 
 
-  * BOTTOM_AXIS_left **Pièce(s) imprimée(s) en 3D** :  préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * BOTTOM_AXIS_right **Pièce(s) imprimée(s) en 3D** :  préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * 4 vis BTR M3-16
   * 8 rondelles M3 
   * 4 écrous NYL M3
@@ -262,7 +262,7 @@ Montage du chariot bas (étape 3)
 
 Matériel :
 
-  * ENDSTOP_support **Pièce(s) imprimée(s) en 3D** : ENDSTOP_support 
+  * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_support 
   * 2 barres lisses Ø8mm, longueur : 330mm
   * 1 fin de course
   * 1 vis sans tête M3-12
@@ -370,7 +370,7 @@ Montage de l’axe vertical (étape 3)
 Matériel :
 
   * 1 barre lisse Ø 8mm, longueur : 100mm
-  * 1 Coupleur 5  *8mm
+  * 1 Coupleur 5*8mm
  
 * Enfiler le coupleur sur l’arbre du moteur(photo)
 * Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur. (photo)
@@ -402,8 +402,8 @@ Montage de la poulie de renvoi du chariot bas
 
 Matériel :
 
-  * DRIVEN_PULLEY_support **Pièce(s) imprimée(s) en 3D** : 
-  * DRIVEN_PULLEY_housing **Pièce(s) imprimée(s) en 3D** : 
+  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_support 
+  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_housing 
   * 1 poulie libre GT2 bore 3mm
   * 2 rondelles M3
   * 4 écrous M3 NYL

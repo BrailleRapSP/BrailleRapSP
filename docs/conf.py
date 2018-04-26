@@ -44,8 +44,8 @@ pygments_style = 'sphinx'
 #}
 htmlhelp_basename = 'BrailleRapSPdoc'
 latex_documents = [
-    ('index', 'ReadTheDocs.tex', u'Read the Docs Documentation',
-     u'Eric Holscher, Charlie Leifer, Bobby Grace', 'manual'),
+    ('index', 'BrailleRapSP.tex', u'BrailleRapSP Documentation',
+     u'BrailleRapSP Team', 'manual'),
 ]
 
 #man_pages = [

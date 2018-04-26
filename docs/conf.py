@@ -18,7 +18,7 @@ sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
-    'doc_extensions',
+    
 ]
 templates_path = ['_templates']
 

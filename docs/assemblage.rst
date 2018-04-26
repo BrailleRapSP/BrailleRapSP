@@ -414,7 +414,8 @@ Matériel :
 #. Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier (photo)
 #. Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
 #. Tendre la courroie et fixer la deuxième extrémité de la courroie sur sa vis avec un collier (photo)
-#. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis de IGUS_housing.
+#. Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse.
+#. S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis des IGUS_housing.
 
 Montage de l’axe Y (étape 1)
 -----------------------------
@@ -435,8 +436,16 @@ Matériel :
 * 2 écrous M3
 * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
 
-#. Tarauder les ROLL_joint et visser les vis M3-3 sans tête (photo)
-#. Mettre les joints toriques sur les 3 ROOL_joint  (photo)
+#. Tarauder les ROLL_joint et visser les vis M3-3 sans tête.
+
+ .. image :: ./IMG/BrailleRAP-V5.41.jpg
+       :align: center
+
+#. Mettre les joints toriques dans la gorge des 3 ROLL_joint.
+
+ .. image :: ./IMG/BrailleRAP-V5.42.jpg
+       :align: center
+
 #. Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 (photo)
 #. Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. (photo)
 #. Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe (photo)

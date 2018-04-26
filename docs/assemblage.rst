@@ -52,7 +52,7 @@ Préparation du pointeau male
 
 Matériel : 
 
-* 1 vis sans tête M3-12 pointeau
+* 1 vis sans tête M3-12 bout téton
 
 #. Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré (photo)
 

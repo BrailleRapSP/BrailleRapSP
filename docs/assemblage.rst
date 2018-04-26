@@ -5,6 +5,8 @@ Collage de la caisse bois
 --------------------------
 .. seealso:: This is a simple note. Other inline directive may be included but not al of them.
 
+**seealso** note. Other inline directive may be included
+
 Matériel:
 
 * FACE (contre-plaqué de 5mm découpée au laser).

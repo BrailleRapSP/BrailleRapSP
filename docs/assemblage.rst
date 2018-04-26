@@ -3,7 +3,7 @@ Manuel de montage BrailleRAP-SP
 
 Collage de la caisse bois
 --------------------------
-.. seealso:: This is a simple note. Other inline directive may be included but not al of them.
+.. Note:: This is a simple note. Other inline directive may be included but not al of them.
 
 **seealso** note. Other inline directive may be included
 
@@ -453,15 +453,16 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
 
+#. Mettre les joints toriques dans la gorge des 3 ROLL_joint.
+
+ .. image :: ./IMG/BrailleRAP-V5.42.jpg
+       :align: center
+
 #. Visser les vis M3-3 sans tête.
 
  .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
 
-#. Mettre les joints toriques dans la gorge des 3 ROLL_joint.
-
- .. image :: ./IMG/BrailleRAP-V5.42.jpg
-       :align: center
 
 #. Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 (photo)
 #. Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. (photo)

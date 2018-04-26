@@ -14,12 +14,12 @@ Matériel:
     * Colle à bois.
     * Scotch de peintre.
 
-* Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM .
+#. Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM .
 
 .. image :: ./IMG/BrailleRAP-V5.02.jpg
        :align: center
 
-* Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant.
+#. Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant.
 
   .. image :: ./IMG/BrailleRAP-V5.01.jpg
        :align: center

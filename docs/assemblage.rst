@@ -340,7 +340,7 @@ Montage de l’axe vertical (étape 2)
 Matériel :
 
   * 2 KP08
-  * KP08_support **pièce(s) imprimée(s) en 3D**
+  * **Pièce(s) imprimée(s) en 3D** : KP08_support 
   * 4 vis M5-22
   * 4 rondelles M5
   * 4 écrous M5 NYL

@@ -80,9 +80,9 @@ Matériel :
 
   NOTE : L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
-#. Test::
+#. Test
 
-NOTE : L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+::NOTE : L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
  .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center

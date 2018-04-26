@@ -6,15 +6,15 @@ Collage de la caisse bois
 
 Matériel:
 
-* FACE (contre-plaqué de 5mm découpée au laser).
-* BACK (contre-plaqué de 5mm découpée au laser).
-* BOTTOM (contre-plaqué de 5mm découpée au laser).
-* LEFT_SIDE (contre-plaqué de 5mm découpée au laser).
-* RIGHT_SIDE (contre-plaqué de 5mm découpée au laser).
-* Colle à bois.
-* Scotch de peintre.
+  * FACE (contre-plaqué de 5mm découpée au laser).
+  * BACK (contre-plaqué de 5mm découpée au laser).
+  * BOTTOM (contre-plaqué de 5mm découpée au laser).
+  * LEFT_SIDE (contre-plaqué de 5mm découpée au laser).
+  * RIGHT_SIDE (contre-plaqué de 5mm découpée au laser).
+  * Colle à bois.
+  * Scotch de peintre.
 
-*. Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM .
+* Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM .
 
  .. image :: ./IMG/BrailleRAP-V5.02.jpg
        :align: center

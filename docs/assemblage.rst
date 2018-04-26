@@ -72,7 +72,7 @@ Matériel :
 
 #. Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
 
- .. image :: ./IMG/BrailleRAP-V5.03.jpg
+  .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
 
 

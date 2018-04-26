@@ -70,13 +70,13 @@ Matériel :
 * 2 vis M3-12
 * 2 rondelles M3
 
-#. Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
+*. Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
 
   .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
 
 
-#. Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
+*. Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
 #. NOTE : L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
  .. image :: ./IMG/BrailleRAP-V5.04.jpg

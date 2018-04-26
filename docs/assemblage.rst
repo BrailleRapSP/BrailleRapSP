@@ -283,10 +283,7 @@ Matériel :
 
 #. Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.(photo)
 
-#. Enfiler le chariot bas sur les barres lisses.
-
- .. image :: ./IMG/BrailleRAP-V5.25.jpg
-       :align: center
+#. Enfiler le chariot bas sur les barres lisses.(photo)
 
 #. Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
 #. Serrer les 4 vis des supports d’axes sur la caisse.
@@ -451,9 +448,14 @@ Matériel :
 * 2 écrous M3
 * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
 
-#. Tarauder les ROLL_joint et visser les vis M3-3 sans tête.
+#. Tarauder les 3 ROLL_joint.
 
  .. image :: ./IMG/BrailleRAP-V5.41.jpg
+       :align: center
+
+#. Visser les vis M3-3 sans tête.
+
+ .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
 
 #. Mettre les joints toriques dans la gorge des 3 ROLL_joint.

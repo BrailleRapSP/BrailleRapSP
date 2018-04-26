@@ -54,7 +54,7 @@ Matériel :
 
     * 1 vis sans tête M3-12 bout téton
 
-* Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré (photo)
+* Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré **(Ajouter image)** : 
 
 
 Moteur Y
@@ -270,20 +270,20 @@ Matériel :
   * 2 vis M2.5-12
   * 2 écrous M2.5
 
-* Souder les fils sur le fin de course. (photo)
+* Souder les fils sur le fin de course. **(Ajouter image)** : 
 
-* Introduire un écrou dans le logement du ENDSTOP_support et une vis sans tête M3-12.(photo)
+* Introduire un écrou dans le logement du ENDSTOP_support et une vis sans tête M3-12.**(Ajouter image)** : 
 
-* Fixer le fin de course sur le ENDSTOP_support avec les 2 vis M2.5-12 et les écrous M2.5. (photo)
+* Fixer le fin de course sur le ENDSTOP_support avec les 2 vis M2.5-12 et les écrous M2.5. **(Ajouter image)** : 
 
 * Enfiler les barres à mi-course par l’extérieur de la caisse.
 
  .. image :: ./IMG/BrailleRAP-V5.24.jpg
        :align: center
 
-* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.(photo)
+* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.**(Ajouter image)** : 
 
-* Enfiler le chariot bas sur les barres lisses.(photo)
+* Enfiler le chariot bas sur les barres lisses.**(Ajouter image)** : 
 
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
 * Serrer les 4 vis des supports d’axes sur la caisse.
@@ -372,13 +372,13 @@ Matériel :
   * 1 barre lisse Ø 8mm, longueur : 100mm
   * 1 Coupleur 5*8mm
  
-* Enfiler le coupleur sur l’arbre du moteur(photo)
-* Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur. (photo)
+* Enfiler le coupleur sur l’arbre du moteur**(Ajouter image)** : 
+* Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur. **(Ajouter image)** : 
 * Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés.
 * Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
-* Visser les 2 premières vis du moteur sur son support (photo)
+* Visser les 2 premières vis du moteur sur son support **(Ajouter image)** : 
 * Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
-* Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. (photo)
+* Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **(Ajouter image)** : 
 * Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support puis le support sur la caisse
 
 
@@ -389,11 +389,11 @@ Matériel :
 
   * 2 poulies GT2 20 dents bore 8mm
 
-* Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur. (photo)
-* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leur position) et le coupleur. (photo)
-* Visser les 2 vis en haut du coupleur sur l’axe vertical. (photo)
+* Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur. **(Ajouter image)** : 
+* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leur position) et le coupleur. **(Ajouter image)** : 
+* Visser les 2 vis en haut du coupleur sur l’axe vertical. **(Ajouter image)** : 
 * Laisser les poulies libres sans les visser.
-* Visser les vis des bagues de serrage des KP08. (photo)
+* Visser les vis des bagues de serrage des KP08. **(Ajouter image)** : 
 * S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement. (vidéo)
 
 
@@ -417,8 +417,8 @@ Matériel :
        :align: center
 
 * Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
-* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
-* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
+* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.**(Ajouter image)** : 
+* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.**(Ajouter image)** : 
 
 Montage de la courroie du chariot bas
 --------------------------------------
@@ -428,12 +428,12 @@ Matériel :
   * 1 courroie GT2 longueur ?????mm
   * 2 colliers
 
-* Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier (photo)
+* Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier **(Ajouter image)** : 
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
-* Tendre la courroie et fixer la deuxième extrémité de la courroie sur sa vis avec un collier (photo)
-* Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse.(photo)
+* Tendre la courroie et fixer la deuxième extrémité de la courroie sur sa vis avec un collier **(Ajouter image)** : 
+* Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse.**(Ajouter image)** : 
 * S’assurer à la main que le déplacement du chariot est fluide puis serrer petit a petit les vis des IGUS_housing. 
- .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.	 (photo)
+ .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.	 **(Ajouter image)** : 
 
 Montage de l’axe Y (étape 1)
 -----------------------------
@@ -470,22 +470,22 @@ Matériel :
        :align: center
 
 
-* Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 (photo)
-* Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. (photo)
-* Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe (photo)
-* Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse (photo)
-* Serrer les vis des bagues des KFL8 (photo)
+* Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 **(Ajouter image)** : 
+* Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. **(Ajouter image)** : 
+* Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe **(Ajouter image)** : 
+* Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse **(Ajouter image)** : 
+* Serrer les vis des bagues des KFL8 **(Ajouter image)** : 
 
 Montage de l’axe Y (étape 2)
 -----------------------------
 
-* Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée et serrer les 2 vis. (photo)
-* Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur puis serrer ses vis . (photo)
-* Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. (photo)
-* Quand les ROLL_joint sont bien en place, serrer leur vis sans tête. (photo)
+* Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée et serrer les 2 vis. **(Ajouter image)** : 
+* Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur puis serrer ses vis . **(Ajouter image)** : 
+* Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. **(Ajouter image)** : 
+* Quand les ROLL_joint sont bien en place, serrer leur vis sans tête. **(Ajouter image)** : 
 * Retirer la plaque en CP
-* Dans chaque molette, Introduire les écrous M3 dans leur logement et la vis M3-12 sans tête (photo)
-* Enfoncer une molette de part et d’autre de l’axe et serrer les vis M3-12 sans tête afin de les maintenir sur l’axe (photo)
+* Dans chaque molette, Introduire les écrous M3 dans leur logement et la vis M3-12 sans tête **(Ajouter image)** : 
+* Enfoncer une molette de part et d’autre de l’axe et serrer les vis M3-12 sans tête afin de les maintenir sur l’axe **(Ajouter image)** : 
 * Tourner les molettes à la main afin de s'assurer que l'axe entraine bien la courroie et le moteur Y. (vidéo)
 
 
@@ -499,7 +499,7 @@ Matériel :
   * 4 rondelles M3 
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse en laissant un peu de jeu (photo)
+* Fixer les supports d’axe sur la caisse en laissant un peu de jeu **(Ajouter image)** : 
 
 
 Montage du chariot haut (étape 1)
@@ -524,11 +524,11 @@ Matériel :
   * 6 écrous M3 NYL
 
 * Coller et visser l'écrou borgne sur la vis sans tête M3-30 (photo pour ne pas se tromper de sens de collage)
-* Tarauder la FEMALE_shape au 2/3 en partant du haut (photo)
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser de 0,5mm (photo)
-* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-10, les rondelles M3 et les écrous M3 NYL en laissant du jeu. (photo)
-* Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu (photo)
-* Monter les vis M3-20 et les écrous M3 (photo)
+* Tarauder la FEMALE_shape au 2/3 en partant du haut **(Ajouter image)** : 
+* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser de 0,5mm **(Ajouter image)** : 
+* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-10, les rondelles M3 et les écrous M3 NYL en laissant du jeu. **(Ajouter image)** : 
+* Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu **(Ajouter image)** : 
+* Monter les vis M3-20 et les écrous M3 **(Ajouter image)** : 
 
 
 Montage du chariot haut (étape 2)
@@ -538,11 +538,11 @@ Matériel :
 
   * 2 barres lisses Ø 8mm, longueur : 330mm
 
-* Enfiler les barres à mi-course par l’extérieur de la caisse (photo)
-* Enfiler le chariot bas sur les barres lisses (photo)
-* Terminer d’enfiler les barres (elles ne doivent pas dépasser dans le bois de la caisse) (photo)
-* Serrer les vis des supports d’axes sur la caisse. (photo)
-* Visser les vis sans tête des supports des axes (photo)
+* Enfiler les barres à mi-course par l’extérieur de la caisse **(Ajouter image)** : 
+* Enfiler le chariot bas sur les barres lisses **(Ajouter image)** : 
+* Terminer d’enfiler les barres (elles ne doivent pas dépasser dans le bois de la caisse) **(Ajouter image)** : 
+* Serrer les vis des supports d’axes sur la caisse. **(Ajouter image)** : 
+* Visser les vis sans tête des supports des axes **(Ajouter image)** : 
 
 
 Montage de la poulie de renvoi du chariot haut
@@ -561,8 +561,8 @@ Matériel :
 
 * Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
 * Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
-* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
+* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.**(Ajouter image)** : 
+* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.**(Ajouter image)** : 
 
 
 Montage de la carte électronique sur la caisse
@@ -574,8 +574,8 @@ Matériel :
   * 4 entretoise M3-10
   * 8 vis M3-10
 
-* Assembler les 4 entretoises sur la carte  (photo)
-* Assembler la carte sur la caisse  (photo)
+* Assembler les 4 entretoises sur la carte  **(Ajouter image)** : 
+* Assembler la carte sur la caisse  **(Ajouter image)** : 
 
 
 Assemblage des presse-papier :
@@ -594,11 +594,11 @@ Pose des drivers sur la carte électronique
 Matériel :
 
   * Carte MKS GEN 1.4
-  * 2 Drivers 8825
+  * 2 Drivers DRV8825
   * 6 cavaliers
 
-* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements X et Y (photo)
-* Enfoncer les drivers à leur emplacement  (photo)
+* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y **(Ajouter image)** : 
+* Enfoncer les drivers à leur emplacement  **(Ajouter image)** : 
 
 
 Raccordement des moteurs à la carte
@@ -625,9 +625,16 @@ Montage des guide-papier sur la plaque
 Fixation des clips sur le couvercle
 --------------------------------------
 
+Alignement vertical des deux chariots
+--------------------------------------
+* Serrer les poulies sur l’axe vertical **(Ajouter image)** : 
+
+Alignement horizontal de l'emprunte du chariot haut
+--------------------------------------
+
 
 A ne pas oublier
-* Serrer les poulies sur l’axe vertical
+
 * Serrer la vis du endstop X
 
 

@@ -411,10 +411,14 @@ Matériel :
 * 1 vis M3-20
 * 1 vis M3-25
 
-#. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
 #. Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-#. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
+
+ .. image :: ./IMG/BrailleRAP-V5.34.jpg
+       :align: center
+
+#. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
 #. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
+#. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
 
 Montage de la courroie du chariot bas
 --------------------------------------

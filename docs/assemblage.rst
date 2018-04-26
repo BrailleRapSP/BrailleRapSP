@@ -112,7 +112,7 @@ Préparation de supports d’axes
 * 4 écrous M3
 * 4 vis sans tête M3-12
 
-#. Selon la qualité d’impression des pièces en plastique, veillez à ce que les barres de 8mm coulissent dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
+ .. Note:: Selon la qualité d’impression des pièces en plastique, veillez à ce que les barres de 8mm coulissent dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
 #. Introduisez un écrou M3 dans chacun des 8 trous rectangulaires. Vissez les vis sans tête M3-12.
 
  .. image :: ./IMG/BrailleRAP-V5.08.jpg
@@ -219,7 +219,9 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
 
-#. Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide. Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
+#. Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide.
+
+ .. Note:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
 
  .. image :: ./IMG/BrailleRAP-V5.20.jpg
        :align: center
@@ -315,7 +317,9 @@ Matériel :
 * 2 écrous M3 NYL
 * 4 rondelles M3
 
-#. Visser le moteur sur son support en laissant un peu jeu et en respectant la position du connecteur. Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
+#. Visser le moteur sur son support en laissant un peu jeu et en respectant la position du connecteur.
+
+ .. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
 
  .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center

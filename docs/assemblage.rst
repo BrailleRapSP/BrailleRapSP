@@ -44,7 +44,7 @@ Matériel:
     * 1 vis sans tête M3-30
     * 1 écrou M3 borgne
     * 1 taraud M3
-    * FEMALE_shape (pièce(s) imprimée(s) en 3D)
+    * FEMALE_shape **Pièce(s) imprimée(s) en 3D** : 
 
 
 Préparation du pointeau male
@@ -64,7 +64,7 @@ Matériel :
 
     * 1 moteur Nema 17
     * 1 poulie GT2 20 dents bore 5mm
-    * YMOTOR_support_200 ou YMOTOR_support_220 (pièce(s) imprimée(s) en 3D) (selon la longueur la courroie fermée GT2)
+    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur la courroie fermée GT2)
     * 4 vis M3-8
     * 2 écrous NYL M3
     * 2 vis M3-12
@@ -105,9 +105,9 @@ Matériel :
 Préparation de supports d’axes
 --------------------------------
 
-  * BOTTOM_AXIS_left (pièce(s) imprimée(s) en 3D)
-  * BOTTOM_AXIS_right (pièce(s) imprimée(s) en 3D)
-  * 2X TOP_AXIS_left (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left 
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right 
+  * **Pièce(s) imprimée(s) en 3D** : 2X TOP_AXIS_left 
   * 1 foret de 8mm
   * 4 écrous M3
   * 4 vis sans tête M3-12
@@ -140,8 +140,8 @@ Fixation des supports des axes du chariot bas
 
 Matériel : 
 
-  * BOTTOM_AXIS_left (pièce(s) imprimée(s) en 3D) préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * BOTTOM_AXIS_right (pièce(s) imprimée(s) en 3D) préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * BOTTOM_AXIS_left **Pièce(s) imprimée(s) en 3D** :  préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * BOTTOM_AXIS_right **Pièce(s) imprimée(s) en 3D** :  préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * 4 vis BTR M3-16
   * 8 rondelles M3 
   * 4 écrous NYL M3
@@ -165,7 +165,7 @@ Matériel :
 
   * 1 taraud M3
   * 6 paliers IGUS
-  * 6 IGUS_housing (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : 6 IGUS_housing 
   * 6 vis M3-3 sans tête
 
 * Tarauder en M3 les trous des IGUS_housing.
@@ -185,7 +185,7 @@ Matériel :
 
   * 1 électro-aimant
   * 1 entretoise de 18mm
-  * 1 vis sans tête M3-12 pointeau liméé (cf Préparation du pointeau male)
+  * 1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau male)
   * 1 écrou M3
   * 1 rondelle M3
 
@@ -194,7 +194,7 @@ Matériel :
  .. image :: ./IMG/BrailleRAP-V5.16.jpg
        :align: center
 
-* Visser la vis M3-12 pointeau liméé en la laissant dépasser de ± 6mm de l’entretoise.
+* Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
 
  .. image :: ./IMG/BrailleRAP-V5.17.jpg
        :align: center
@@ -206,9 +206,9 @@ Montage du chariot bas (étape 1)
 Matériel :
 
   * Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
-  * BOTTOM_trolley (pièce(s) imprimée(s) en 3D)
-  * ELECTRO_MAGNET_housing (pièce(s) imprimée(s) en 3D)
-  * ELECTRO_MAGNET_guide (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley 
+  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing 
+  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide 
   * 2 vis M3- 8
   * 2 vis M3-16
   * écrou M3 NYL
@@ -262,7 +262,7 @@ Montage du chariot bas (étape 3)
 
 Matériel :
 
-  * ENDSTOP_support (pièce(s) imprimée(s) en 3D)
+  * ENDSTOP_support **Pièce(s) imprimée(s) en 3D** : ENDSTOP_support 
   * 2 barres lisses Ø8mm, longueur : 330mm
   * 1 fin de course
   * 1 vis sans tête M3-12
@@ -313,7 +313,7 @@ Matériel :
 
   * 1 moteur NEMA 17
   * 4 vis M3-8
-  * XMOTOR_support (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support 
   * 2 vis M3-16
   * 2 écrous M3 NYL
   * 4 rondelles M3
@@ -339,8 +339,8 @@ Montage de l’axe vertical (étape 2)
 
 Matériel :
 
-  * 2 KP08
-  * **Pièce(s) imprimée(s) en 3D** : KP08_support 
+  * **Pièce(s) imprimée(s) en 3D** : KP08_support
+  * 2 KP08 
   * 4 vis M5-22
   * 4 rondelles M5
   * 4 écrous M5 NYL
@@ -402,8 +402,8 @@ Montage de la poulie de renvoi du chariot bas
 
 Matériel :
 
-  * DRIVEN_PULLEY_support (pièce(s) imprimée(s) en 3D)
-  * DRIVEN_PULLEY_housing (pièce(s) imprimée(s) en 3D)
+  * DRIVEN_PULLEY_support **Pièce(s) imprimée(s) en 3D** : 
+  * DRIVEN_PULLEY_housing **Pièce(s) imprimée(s) en 3D** : 
   * 1 poulie libre GT2 bore 3mm
   * 2 rondelles M3
   * 4 écrous M3 NYL
@@ -441,7 +441,7 @@ Montage de l’axe Y (étape 1)
 Matériel :
 
   * 1 taraud M3
-  * 3 x ROLL_joint (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** :3 x ROLL_joint  
   * 3 joints toriques
   * 3 vis M3-3 sans tête
   * 2 KFL8
@@ -449,7 +449,7 @@ Matériel :
   * 1 barre lisse Ø 8mm, longueur : 364mm
   * 4 vis M5-18
   * 4 écrous M5 NYL
-  * 2 x SCROLL_wheel (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel 
   * 2 vis M3-12 sans tête
   * 2 écrous M3
   * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
@@ -494,7 +494,7 @@ Fixation des supports des axes du chariot haut
 
 Matériel : 
 
-  * 2 x TOP_AXIS (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : 2 x TOP_AXIS 
   * 4 vis BTR M3-16
   * 4 rondelles M3 
   * 4 écrous NYL M3
@@ -508,8 +508,8 @@ Montage du chariot haut (étape 1)
 Matériel : 
 
   * Taraud M3
-  * TOP_trolley (pièce(s) imprimée(s) en 3D)
-  * FEMALE_shape (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley 
+  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape 
 
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3
@@ -550,8 +550,8 @@ Montage de la poulie de renvoi du chariot haut
 
 Matériel :
 
-  * DRIVEN_PULLEY_support (pièce(s) imprimée(s) en 3D)
-  * DRIVEN_PULLEY_housing (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_support 
+  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_housing 
   * 1 poulie libre GT2 bore 3mm
   * 2 rondelles M3
   * 4 écrous M3 NYL
@@ -583,7 +583,7 @@ Assemblage des presse-papier :
 
 Matériel :
 
-  * 3 CLIPBOARD (pièce(s) imprimée(s) en 3D)
+  * **Pièce(s) imprimée(s) en 3D** : 3 CLIPBOARD 
   * 3 vis M4-20
   * 3 écrous M4 NYL
   * 3 clapets (voir dimensions exactes)

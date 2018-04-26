@@ -35,8 +35,8 @@ source_parsers = {
 }
 
 master_doc = 'index'
-project = u'Read the Docs'
-copyright = '2010-{}, Read the Docs, Inc & contributors'.format(
+project = u'BrailleRap-SP'
+copyright = '2018-{}, BrailleRap-SP Team'.format(
     timezone.now().year
 )
 version = '1.0'
@@ -44,30 +44,32 @@ release = '1.0'
 exclude_patterns = ['_build']
 default_role = 'obj'
 pygments_style = 'sphinx'
-intersphinx_mapping = {
-    'python': ('http://python.readthedocs.io/en/latest/', None),
-    'django': ('http://django.readthedocs.io/en/1.8.x/', None),
-    'sphinx': ('http://sphinx.readthedocs.io/en/latest/', None),
-}
-htmlhelp_basename = 'ReadTheDocsdoc'
+
+#intersphinx_mapping = {
+#    'python': ('http://python.readthedocs.io/en/latest/', None),
+#    'django': ('http://django.readthedocs.io/en/1.8.x/', None),
+#    'sphinx': ('http://sphinx.readthedocs.io/en/latest/', None),
+#}
+htmlhelp_basename = 'BrailleRapSPdoc'
 latex_documents = [
     ('index', 'ReadTheDocs.tex', u'Read the Docs Documentation',
      u'Eric Holscher, Charlie Leifer, Bobby Grace', 'manual'),
 ]
-man_pages = [
-    ('index', 'read-the-docs', u'Read the Docs Documentation',
-     [u'Eric Holscher, Charlie Leifer, Bobby Grace'], 1)
-]
+
+#man_pages = [
+#    ('index', 'read-the-docs', u'Read the Docs Documentation',
+#     [u'Eric Holscher, Charlie Leifer, Bobby Grace'], 1)
+#]
 
 exclude_patterns = [
     # 'api' # needed for ``make gettext`` to not die.
 ]
 
-language = 'en'
+language = 'fr'
 
-locale_dirs = [
-    'locale/',
-]
+#locale_dirs = [
+#    'locale/',
+#]
 gettext_compact = False
 
 html_theme = 'sphinx_rtd_theme'

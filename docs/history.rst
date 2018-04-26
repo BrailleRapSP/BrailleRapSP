@@ -1,26 +1,24 @@
-BrailleRap-SP Historique du projet
+Historique du projet
 ==================================
 
 Le commencement
 ---------------
 
-En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium en collaboration avec Airbus Industrie. Pendant le Fabrikarium plusieurs travaux on été réalisés 
-pour modifier ds imprimantes 3D pour embosser du Braille `sur du papier 160g <https://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/>`_,
+En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium en collaboration avec Airbus Industrie. Pendant le Fabrikarium plusieurs travaux ont été réalisés 
+pour modifier des imprimantes 3D afin d'embosser du Braille `sur du papier 160g <https://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/>`_,
 Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_.
 
-Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mettre au point un hardware spécialisé qui serait 
-également facile à reproduire.
+Dans l'equipe de BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mieux mettre au point une machine spécialisée facile à reproduire.
 
 
 OpenBraille
 -----------
 En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
-déplacer une feuille de papier avec suffisammant de précision dans une embosseuse braille. 
+déplacer une feuille de papier avec suffisamment de précision dans une embosseuse braille. 
 
 BrailleRap-SP
 -------------
-En Janvier 2018 nous avons commencés avec quelques rails linéaires, des moteurs Nema et des pièces imprimés pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard,
-nous avons commencés à montrer des exemples de texte embossés en Braille, et tout le monde êtaient très entousiastes. Le projet BrailleRAP-SP était né.  
+En Janvier 2018 nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard,nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né.  
  
 
 .. raw:: html

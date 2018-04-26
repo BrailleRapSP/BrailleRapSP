@@ -380,36 +380,24 @@ Matériel :
 #. S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement. (vidéo)
 
 
-Montage de la poulie de renvoi du chariot bas (étape 1) :
-----------------------------------------------------------
+Montage de la poulie de renvoi du chariot bas
+-----------------------------------------------
 
 Matériel :
 
-* 1 interrupteur fin de course.
-* 2 fils électriques.
-* 2 vis M2.5-14
-* 2 écrous M2.5
-* DRIVEN_PULLEY_1 (impression 3D)
-* DRIVEN_PULLEY_2 (impression 3D)
-* 2 vis M3-20
-* 2 rondelles M3
-* 2 écrous M3 NYL
-
-* Souder les fils sur l'interrupteur fin de course  (photo)
-* Fixer l'interrupteur fin de course sur son support en laissant un peu de jeu pour le régler ultérieurement(photo)
-* Fixer les 2 parties imprimées sur la caisses à l’aide des vis M3-20, les rondelles M3 et les écrous M3 NYL
-
-
-Montage de la poulie de renvoi du chariot bas (étape 2) 
---------------------------------------------------------
-
-Matériel :
-
+* DRIVEN_PULLEY_support (impression 3D)
+* DRIVEN_PULLEY_housing (impression 3D)
 * 1 poulie libre GT2 bore 3mm
-* 1 vis M3-30
-* 1 écrou M3 NYL
+* 2 rondelles M3
+* 4 écrous M3 NYL
+* 2 vis M3-16
+* 1 vis M3-20
+* 1 vis M3-25
 
-#. Assembler la poulie sur son support (photo)
+#. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
+#. Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
+#. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
+#. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
 
 Montage de la courroie du chariot bas
 --------------------------------------
@@ -520,17 +508,19 @@ Montage de la poulie de renvoi du chariot haut
 
 Matériel :
 
-* DRIVEN_PULLEY_3 (impression 3D)
-* DRIVEN_PULLEY_4 (impression 3D)
-* 2 vis M3-20
-* 2 rondelles M3
-* 2 écrous M3 NYL
+* DRIVEN_PULLEY_support (impression 3D)
+* DRIVEN_PULLEY_housing (impression 3D)
 * 1 poulie libre GT2 bore 3mm
-* 1 vis M3-30
-* 1 écrou M3 NYL
+* 2 rondelles M3
+* 4 écrous M3 NYL
+* 2 vis M3-16
+* 1 vis M3-20
+* 1 vis M3-25
 
-#. Fixer les 2 parties imprimées sur la caisses à l’aide des vis M3-20, les rondelles M3 et les écrous M3 NYL
-#. Assembler la poulie sur son support (photo)
+#. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
+#. Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
+#. Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.(photo)
+#. Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.(photo)
 
 
 Montage de la carte électronique sur la caisse
@@ -575,7 +565,7 @@ Raccordement des moteurs à la carte
 Câblage de l’électro-aimant
 ----------------------------
 
-Câblage du fin de course X
+Câblage et montage du fin de course X
 ---------------------------
 
 Câblage du fin de course Y

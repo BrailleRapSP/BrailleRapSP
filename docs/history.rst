@@ -13,12 +13,12 @@ Dans l'equipe de BrailleRAP-SP nous pensions que ces travaux êtaient une démon
 
 OpenBraille
 -----------
-En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille a partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
+En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille à partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
 déplacer une feuille de papier avec suffisamment de précision dans une embosseuse braille. 
 
 BrailleRap-SP
 -------------
-En Janvier 2018 nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard,nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né.  
+En Janvier 2018, nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard, nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né.  
  
 
 .. raw:: html

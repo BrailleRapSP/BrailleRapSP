@@ -413,7 +413,7 @@ Matériel :
 
 #. Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
 
- .. image :: ./IMG/BrailleRAP-V5.34.jpg
+ .. image :: ./IMG/BrailleRAP-V5.44.jpg
        :align: center
 
 #. Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.

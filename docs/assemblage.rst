@@ -280,12 +280,20 @@ Matériel :
 
 * Enfiler les barres à mi-course par l’extérieur de la caisse.
 
-.. image :: ./IMG/BrailleRAP-V5.24.jpg
+.. image :: ./IMG/BrailleRAP-V5.51.jpg
        :align: center
 
-* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant. **AJOUTER IMAGE**
+* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.
 
-* Enfiler le chariot bas sur les barres lisses. **AJOUTER IMAGE**
+.. image :: ./IMG/BrailleRAP-V5.52.jpg
+       :align: center
+
+
+* Enfiler le chariot bas sur les barres lisses.
+
+.. image :: ./IMG/BrailleRAP-V5.53.jpg
+       :align: center
+
 
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
 * Serrer les 4 vis des supports d’axes sur la caisse.
@@ -295,10 +303,10 @@ Matériel :
 
 * Visser les 4 vis sans tête des supports des axes suffisamment pour éviter que les axes puissent coulisser dans leur logements.
 
-.. image :: ./IMG/BrailleRAP-V5.27.jpg
+.. image :: ./IMG/BrailleRAP-V5.54.jpg
        :align: center
 
-.. image :: ./IMG/BrailleRAP-V5.29.jpg
+.. image :: ./IMG/BrailleRAP-V5.55.jpg
        :align: center
 
 * Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.

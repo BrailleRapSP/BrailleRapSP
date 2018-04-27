@@ -41,10 +41,10 @@ Préparation du pointeau femelle
 
 Matériel: 
 
+    * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape 
     * 1 vis sans tête M3-30
     * 1 écrou M3 borgne
     * 1 taraud M3
-    * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape 
 
 
 Préparation du pointeau male
@@ -62,9 +62,9 @@ Moteur Y
 
 Matériel : 
 
+    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur la courroie fermée GT2)
     * 1 moteur Nema 17
     * 1 poulie GT2 20 dents bore 5mm
-    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur la courroie fermée GT2)
     * 4 vis M3-8
     * 2 écrous NYL M3
     * 2 vis M3-12
@@ -163,9 +163,9 @@ Préparation des logements IGUS
 
 Matériel :
 
+  * **Pièce(s) imprimée(s) en 3D** : 6 IGUS_housing 
   * 1 taraud M3
   * 6 paliers IGUS
-  * **Pièce(s) imprimée(s) en 3D** : 6 IGUS_housing 
   * 6 vis M3-3 sans tête
 
 * Tarauder en M3 les trous des IGUS_housing.
@@ -312,9 +312,9 @@ Montage de l’axe vertical (étape 1)
 
 Matériel :
 
+  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support 
   * 1 moteur NEMA 17
   * 4 vis M3-8
-  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support 
   * 2 vis M3-16
   * 2 écrous M3 NYL
   * 4 rondelles M3
@@ -455,8 +455,8 @@ Montage de l’axe Y (étape 1)
 
 Matériel :
 
-  * 1 taraud M3
-  * **Pièce(s) imprimée(s) en 3D** :3 x ROLL_joint  
+  * **Pièce(s) imprimée(s) en 3D** :3 x ROLL_joint
+  * 1 taraud M3  
   * 3 joints toriques
   * 3 vis M3-3 sans tête
   * 2 KFL8
@@ -522,9 +522,9 @@ Montage du chariot haut (étape 1)
 
 Matériel : 
 
-  * Taraud M3
   * **Pièce(s) imprimée(s) en 3D** : TOP_trolley 
-  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape 
+  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
+  * Taraud M3 
 
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3

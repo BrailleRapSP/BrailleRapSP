@@ -1,7 +1,7 @@
 Manuel de montage BrailleRAP-SP
 ===============================
 
-:ref:`RST Overview`
+:ref:`RST Préparation des logements IGUS`
 
 Préparation des logements IGUS
 -------------------------------

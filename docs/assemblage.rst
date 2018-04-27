@@ -34,7 +34,7 @@ Matériel:
     * 6 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. (photo avant et arrière)
+* Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. **photo avant et arrière**
 
 
 Préparation du pointeau femelle
@@ -55,7 +55,10 @@ Matériel :
 
     * 1 vis sans tête M3-12 bout téton
 
-* Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré **AJOUTER IMAGE**
+* Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré
+
+.. image :: ./IMG/BrailleRAP-V5.56.jpg
+       :align: center
 
 
 Moteur Y
@@ -296,7 +299,7 @@ Matériel :
 
 
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
-* Serrer les 4 vis des supports d’axes sur la caisse.
+* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit).
 
 .. image :: ./IMG/BrailleRAP-V5.26.jpg
        :align: center

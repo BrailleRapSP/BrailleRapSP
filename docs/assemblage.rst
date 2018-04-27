@@ -1,6 +1,11 @@
 Manuel de montage BrailleRAP-SP
 ===============================
 
+.. _arbitrary-anchor:
+
+Some Arbitrary Line
+    This is actually a definition
+
 Collage de la caisse bois
 --------------------------
 
@@ -649,7 +654,7 @@ A ne pas oublier
 
 * Serrer la vis du endstop X
 
-
+Lorem ipsum :ref:`here is the anchor link <arbitrary-anchor>` dolor sit amet
 
 
 

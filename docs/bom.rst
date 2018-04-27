@@ -16,6 +16,8 @@ Toutes les pièces sont imprimées en ABS, 50% infill, 3 périmètres exterieurs
 
 .. table:: Pièces imprimées
 	:widths: auto
+
+blabla
 	
 ======================== === ===========================================================================================================
 Pièce                    Qté Fichier STL 
@@ -50,7 +52,7 @@ ENDSTOP_support		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/mast
 CLIPBOARD		         3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/CLIPBOARD.stl
 
 ...
-=== ======================== ===========================================================================================================
+======================== === ===========================================================================================================
 
 
 

@@ -75,36 +75,21 @@ Matériel :
     * 2 rondelles M3
 
 * Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
-
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
-
-
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
-
 .. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
-
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
-
-
 * Introduire les écrous NYL M3 dans le support moteur.
-
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
 
-
 * Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
-
 .. image :: ./IMG/BrailleRAP-V5.06.jpg
        :align: center
-
 .. image :: ./IMG/BrailleRAP-V5.07.jpg
        :align: center
-
-
-
-
 
 Préparation de supports d’axes
 --------------------------------
@@ -116,28 +101,17 @@ Préparation de supports d’axes
   * 4 écrous M3
   * 4 vis sans tête M3-12
 
-.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veillez à ce que les barres de 8mm coulissent dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
-
+.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent facilement dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
 * Introduisez un écrou M3 dans chacun des 8 trous rectangulaires. Vissez les vis sans tête M3-12.
-
 .. image :: ./IMG/BrailleRAP-V5.08.jpg
        :align: center
-
-
 .. image :: ./IMG/BrailleRAP-V5.09.jpg
        :align: center
-
- 
 * L’extrémité de la vis ne doit pas dépasser dans le logement des barres de 8mm.
-
 .. image :: ./IMG/BrailleRAP-V5.10.jpg
        :align: center
-
-
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
        :align: center
-
-
 
 Fixation des supports des axes du chariot bas
 ----------------------------------------------
@@ -151,16 +125,10 @@ Matériel :
   * 4 écrous NYL M3
 
 * Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront gérées quand l'ensemble du chariot bas sera en place.
-
 .. image :: ./IMG/BrailleRAP-V5.12.jpg
        :align: center
-
-
 .. image :: ./IMG/BrailleRAP-V5.13.jpg
        :align: center
-
-
-
 
 Préparation des logements IGUS
 -------------------------------
@@ -173,12 +141,9 @@ Matériel :
   * 6 vis M3-3 sans tête
 
 * Tarauder en M3 les trous des IGUS_housing.
-
 .. image :: ./IMG/BrailleRAP-V5.14.jpg
        :align: center
-
 * Introduire le palier dans son logement et visser la vis M3-3 sans tête juste assez pour lui éviter de glisser dans son logement .
-
 .. image :: ./IMG/BrailleRAP-V5.15.jpg
        :align: center
 

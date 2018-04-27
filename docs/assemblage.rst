@@ -1,12 +1,8 @@
 Manuel de montage BrailleRAP-SP
 ===============================
 
-:ref:`RST Préparation des logements IGUS`
 
-Préparation des logements IGUS
--------------------------------
-
-Collage de la caisse bois
+Collage de la caisse en bois
 --------------------------
 
 Matériel:
@@ -83,7 +79,7 @@ Matériel :
 
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
 
-.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 2OOmm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
@@ -403,28 +399,43 @@ Matériel :
 * S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement. **vidéo**
 
 
-Montage de la poulie de renvoi du chariot bas
+Montage des 2 poulies renvoi du chariot
 -----------------------------------------------
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_support 
-  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_housing 
-  * 1 poulie libre GT2 bore 3mm
-  * 2 rondelles M3
-  * 4 écrous M3 NYL
-  * 2 vis M3-16
-  * 1 vis M3-20
-  * 1 vis M3-25
+  * **Pièce(s) imprimée(s) en 3D** : 2X DRIVEN_PULLEY_support 
+  * **Pièce(s) imprimée(s) en 3D** : 2X DRIVEN_PULLEY_housing 
+  * 2 poulies libre GT2 bore 3mm
+  * 6 rondelles M3
+  * 8 écrous M3 NYL
+  * 4 vis M3-16
+  * 2 vis M3-20
+  * 2 vis M3-25
 
 * Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
 
-.. image :: ./IMG/BrailleRAP-V5.44.jpg
+.. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
 
 * Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
-* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.  **AJOUTER IMAGE**
-* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer. **AJOUTER IMAGE**
+
+.. image :: ./IMG/BrailleRAP-V5.46.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.47.jpg
+       :align: center
+
+* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.
+
+.. image :: ./IMG/BrailleRAP-V5.48.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.49.jpg
+       :align: center
+
+* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.
+
+.. image :: ./IMG/BrailleRAP-V5.50.jpg
+       :align: center
 
 Assemblage du fin de course X
 ---------------------------

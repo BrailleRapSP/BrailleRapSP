@@ -282,9 +282,9 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.24.jpg
        :align: center
 
-* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.**AJOUTER IMAGE**
+* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant. **AJOUTER IMAGE**
 
-* Enfiler le chariot bas sur les barres lisses.**AJOUTER IMAGE**
+* Enfiler le chariot bas sur les barres lisses. **AJOUTER IMAGE**
 
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
 * Serrer les 4 vis des supports d’axes sur la caisse.
@@ -418,7 +418,7 @@ Matériel :
        :align: center
 
 * Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
-* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn. **AJOUTER IMAGE**
+* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.  **AJOUTER IMAGE**
 * Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer. **AJOUTER IMAGE**
 
 Assemblage du fin de course X

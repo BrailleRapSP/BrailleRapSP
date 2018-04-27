@@ -124,7 +124,7 @@ Matériel :
   * 8 rondelles M3 
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront gérées quand l'ensemble du chariot bas sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront serées quand l'ensemble du chariot bas sera en place.
 .. image :: ./IMG/BrailleRAP-V5.12.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.13.jpg
@@ -159,15 +159,11 @@ Matériel :
   * 1 rondelle M3
 
 * Visser l’entretoise à fond sur l’électro-aimant.
-
 .. image :: ./IMG/BrailleRAP-V5.16.jpg
        :align: center
-
 * Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
-
 .. image :: ./IMG/BrailleRAP-V5.17.jpg
        :align: center
-
 
 Montage du chariot bas (étape 1)
 ---------------------------------
@@ -186,20 +182,13 @@ Matériel :
 
 * Fixer l’électro-aimant sur son support avec les 2 vis M3-8
 .. ATTENTION:: Respecter le côté de sortie des fils).
-
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
-
 * Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide.
-
 .. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
-
 .. image :: ./IMG/BrailleRAP-V5.20.jpg
        :align: center
-
-
 * Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
-
 .. image :: ./IMG/BrailleRAP-V5.21.jpg
        :align: center
 
@@ -216,16 +205,11 @@ Matériel :
 
 
 * Monter les vis M3-20 et les écrous M3.
-
 .. image :: ./IMG/BrailleRAP-V5.22.jpg
        :align: center
-
 * Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu. Les vis seront serrées quand le chariot sera en place.
-
 .. image :: ./IMG/BrailleRAP-V5.23.jpg
        :align: center
-
-
 
 Montage du chariot bas (étape 3)
 ---------------------------------
@@ -241,48 +225,29 @@ Matériel :
   * 2 écrous M2.5
 
 * Souder les fils sur le fin de course. **AJOUTER IMAGE**
-
 * Introduire un écrou dans le logement du ENDSTOP_support et une vis sans tête M3-12. **AJOUTER IMAGE**
-
 * Fixer le fin de course sur le ENDSTOP_support avec les 2 vis M2.5-12 et les écrous M2.5. **AJOUTER IMAGE**
-
 * Enfiler les barres à mi-course par l’extérieur de la caisse.
-
 .. image :: ./IMG/BrailleRAP-V5.51.jpg
        :align: center
-
 * Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.
-
 .. image :: ./IMG/BrailleRAP-V5.52.jpg
        :align: center
-
-
 * Enfiler le chariot bas sur les barres lisses.
-
 .. image :: ./IMG/BrailleRAP-V5.53.jpg
        :align: center
-
-
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
 * Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit).
-
 .. image :: ./IMG/BrailleRAP-V5.26.jpg
        :align: center
-
 * Visser les 4 vis sans tête des supports des axes suffisamment pour éviter que les axes puissent coulisser dans leur logements.
-
 .. image :: ./IMG/BrailleRAP-V5.54.jpg
        :align: center
-
 .. image :: ./IMG/BrailleRAP-V5.55.jpg
        :align: center
-
 * Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.
-
 .. image :: ./IMG/BrailleRAP-V5.30.jpg
        :align: center
-
-
 
 Montage de l’axe vertical (étape 1)
 ------------------------------------
@@ -297,20 +262,14 @@ Matériel :
   * 4 rondelles M3
 
 * Visser le moteur sur son support en laissant un peu jeu et en respectant la position du connecteur.
-
 .. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
-
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
-
 * Visser l’ensemble moteur/support sur la caisse en laissant du jeu.
-
 .. image :: ./IMG/BrailleRAP-V5.32.jpg
        :align: center
-
 .. image :: ./IMG/BrailleRAP-V5.33.jpg
        :align: center
-
 
 Montage de l’axe vertical (étape 2)
 ------------------------------------
@@ -324,23 +283,15 @@ Matériel :
   * 4 écrous M5 NYL
 
 * Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de le redresser.
-
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
-
-
 * Visser en laissant un peu de jeu KP08_support et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08.
-
 .. image :: ./IMG/BrailleRAP-V5.34.jpg
        :align: center
-
 .. image :: ./IMG/BrailleRAP-V5.36.jpg
        :align: center
-
 .. image :: ./IMG/BrailleRAP-V5.35.jpg
        :align: center
-
-
 
 Montage de l’axe vertical (étape 3)
 ------------------------------------
@@ -390,26 +341,19 @@ Matériel :
   * 2 vis M3-25
 
 * Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-
 .. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
-
 * Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
-
 .. image :: ./IMG/BrailleRAP-V5.46.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.47.jpg
        :align: center
-
 * Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.
-
 .. image :: ./IMG/BrailleRAP-V5.48.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.49.jpg
        :align: center
-
 * Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.
-
 .. image :: ./IMG/BrailleRAP-V5.50.jpg
        :align: center
 
@@ -462,21 +406,14 @@ Matériel :
   * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
 
 * Tarauder les 3 ROLL_joint.
-
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
-
 * Mettre les joints toriques dans la gorge des 3 ROLL_joint.
-
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
-
 * Visser les vis M3-3 sans tête.
-
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
-
-
 * Enfiler la barre lisse à mi course depuis le côté gauche à travers la caisse et le KFL8 **AJOUTER IMAGE**
 * Dans l’ordre, enfiler les 3 ROLL_joint (attention à la position du joint torique) , poulie GT2 et la courroie fermée. **AJOUTER IMAGE**
 * Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe **AJOUTER IMAGE**

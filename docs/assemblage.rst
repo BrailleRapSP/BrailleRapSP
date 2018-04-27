@@ -421,6 +421,20 @@ Matériel :
 * Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn. **AJOUTER IMAGE**
 * Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer. **AJOUTER IMAGE**
 
+Assemblage du fin de course X
+---------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : ENDSTOPX_support
+  * 2 vis M3-12 sans tête
+  * 1 écrou M3
+  * I interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
+
+* Introduire un écrou M3 et une vis sans tête M3-12 dans le ENDSTOPX_support
+.. image :: ./IMG/BrailleRAP-V5.45.jpg
+       :align: center
+
 Montage de la courroie du chariot bas
 --------------------------------------
 
@@ -608,10 +622,7 @@ Raccordement des moteurs à la carte
 Câblage de l’électro-aimant
 ----------------------------
 
-Câblage et montage du fin de course X
----------------------------
-
-Câblage du fin de course Y
+Câblage des interrupteurs fin de course
 ---------------------------
 
 Montage des presse-papier sur la caisse

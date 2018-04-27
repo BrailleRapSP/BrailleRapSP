@@ -1,6 +1,11 @@
 Manuel de montage BrailleRAP-SP
 ===============================
 
+.. _RST Overview:
+
+Préparation des logements IGUS
+-------------------------------
+
 Collage de la caisse bois
 --------------------------
 

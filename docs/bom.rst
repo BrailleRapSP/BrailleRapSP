@@ -16,30 +16,39 @@ Toutes les pièces sont imprimées en ABS, 50% infill, 3 périmètres exterieurs
 
 .. table:: Pièces imprimées
 	:widths: auto
-=== ======================== ===========================================================================================================
-Qté Pièce                    Fichier STL 
-=== ======================== ===========================================================================================================
-1   Y motor mount            https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/Ymotor_mount.stl
-1   Eletro-magnet mount      https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/electroMagnet_mount.stl
-1   End stop mount			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/endstopY_mount.stl
-1	Embosser				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/femal_embosser_mount.stl
-6   igus housing	 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/igus_housing.stl
-2   Y axis support			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/kp08_suport.stl
-1	Left axis mount			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/left_axes_mount.stl
-4   top plate lock			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/lock_top.stl
-1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_L1.stl
-1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_L2.stl
-1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_L3.stl
-1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_R1.stl
-1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_R2.stl
-1   paper guide				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/paper_guide_R3.stl
-1   End Stop mount		     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/pulleyEndstop_mount.stl
-1   pulley mount			 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/pulley_mount.stl
-1   right axis mount	     https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/right_axes_mount.stl
-3   Oring roll		 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/roll_Oring.stl
-3   sand paper roll				 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/roll_sandPaper.stl
-2   wheel					 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/sroll_wheel.stl
-1   troley					 https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/trolley_up.stl
+	
+======================== === ===========================================================================================================
+Pièce                    Qté Fichier STL 
+======================== === ===========================================================================================================
+Y motor mount            0   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/Ymotor_mount.stl
+
+SCROLL_wheel			 2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/SCROLL_wheel.stl
+KP08_support		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/KP08_support.stl
+IGUS_housing		     6   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/IGUS_housing.stl
+YMOTOR_support_220		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/YMOTOR_support_220.stl
+YMOTOR_support_200		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/YMOTOR_support_200.stl
+XMOTOR_support		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/XMOTOR_support.stl
+ROLL_joint		         3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/ROLL_joint.stl
+BOTTOM_trolley		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/BOTTOM_trolley.stl
+ELECTRO_MAGNET_housing	 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/ELECTRO_MAGNET_housing.stl
+ELECTRO_MAGNET_guide	 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/ELECTRO_MAGNET_guide.stl
+TOP_trolley		         1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/TOP_trolley.stl
+FEMALE_shape		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/FEMALE_shape.stl
+TOP_AXIS		         2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/TOP_AXIS.stl
+LID_LOCK		         2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/LID_LOCK.stl
+BOTTOM_AXIS_left		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/BOTTOM_AXIS_left.stl
+BOTTOM_AXIS_right		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/BOTTOM_AXIS_right.stl
+DRIVEN_PULLEY_support	 2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/DRIVEN_PULLEY_support.stl
+DRIVEN_PULLEY_housing	 2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/DRIVEN_PULLEY_housing.stl
+PAPER_GUIDE_left_1		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/PAPER_GUIDE_left_1.stl
+PAPER_GUIDE_left_2		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/PAPER_GUIDE_left_2.stl
+PAPER_GUIDE_right_1		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/PAPER_GUIDE_right_1.stl
+PAPER_GUIDE_right_2		 1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/PAPER_GUIDE_right_2.stl
+SWITCH_support		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/SWITCH_support.stl
+PAPER_RAISER		     3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/PAPER_RAISER.stl
+ENDSTOP_support		     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/ENDSTOP_support.stl
+CLIPBOARD		         3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/CLIPBOARD.stl
+
 ...
 === ======================== ===========================================================================================================
 

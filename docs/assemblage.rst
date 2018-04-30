@@ -16,12 +16,10 @@ Matériel:
     * Scotch de peintre.
 
 * Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM .
-
 .. image :: ./IMG/BrailleRAP-V5.02.jpg
        :align: center
 
 * Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant.
-
 .. image :: ./IMG/BrailleRAP-V5.01.jpg
        :align: center
 
@@ -56,7 +54,6 @@ Matériel :
     * 1 vis sans tête M3-12 bout téton
 
 * Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré
-
 .. image :: ./IMG/BrailleRAP-V5.56.jpg
        :align: center
 
@@ -128,23 +125,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.12.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.13.jpg
-       :align: center
-
-Préparation des logements IGUS
--------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 6 IGUS_housing 
-  * 1 taraud M3
-  * 6 paliers IGUS
-  * 6 vis M3-3 sans tête
-
-* Tarauder en M3 les trous des IGUS_housing.
-.. image :: ./IMG/BrailleRAP-V5.14.jpg
-       :align: center
-* Introduire le palier dans son logement et visser la vis M3-3 sans tête juste assez pour lui éviter de glisser dans son logement .
-.. image :: ./IMG/BrailleRAP-V5.15.jpg
        :align: center
 
 Préparation de l’électro-aimant

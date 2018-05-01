@@ -133,6 +133,43 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.13.jpg
        :align: center
 
+Fixation des supports des axes du chariot haut
+----------------------------------------------
+
+Matériel : 
+
+  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * 4 vis BTR M3-16
+  * 8 rondelles M3 
+  * 4 écrous NYL M3
+
+* Fixer les supports d’axe sur la caisse le TOP_AXIS_left à gauche et le TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront serrées quand l'ensemble du chariot bas sera en place.
+.. Note:: Les illustrations montrent le montage du TOP_AXIS_left. Le principe est le même pour le BOTTOM_AXIS_right.
+.. image :: ./IMG/BrailleRAP-V5.13.1.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.13.2.jpg
+       :align: center
+
+Fixation des tendeurs de courroie
+----------------------------------------------
+
+Matériel : 
+
+  * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
+  * 2 vis BTR M3-20 
+  * 2 écrous NYL M3
+
+.. Note:: Les illustrations montrent le montage du tendeur de courroie haut. Le principe est le même pour le tendeur de courroie bas.
+* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-2N et une rondelle.
+.. image :: ./IMG/BrailleRAP-V5.13.3.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.13.5.jpg
+       :align: center
+* Laisser un jeu de ±5mm
+.. image :: ./IMG/BrailleRAP-V5.13.4.jpg
+       :align: center
+
 Préparation de l’électro-aimant
 --------------------------------
 

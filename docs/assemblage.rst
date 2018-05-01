@@ -123,7 +123,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 
-  * 4 vis BTR M3-16
+  * 4 vis BTR M3-14
   * 4 rondelles M3 
   * 4 écrous NYL M3
 
@@ -142,7 +142,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * 4 vis BTR M3-16
+  * 4 vis BTR M3-14
   * 4 rondelles M3 
   * 4 écrous NYL M3
 
@@ -170,6 +170,20 @@ Matériel :
        :align: center
 * Laisser un jeu de ±5mm
 .. image :: ./IMG/BrailleRAP-V5.13.4.jpg
+       :align: center
+
+Pose des poulies libres de renvoi
+----------------------------------------------
+
+Matériel : 
+
+  * 2 poulies libres 20 dents bore 3mm
+  * 2 vis BTR M3-25  
+  * 2 écrous NYL M3
+
+
+* Commencer par le renvoi du bas. Insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer
+.. image :: ./IMG/BrailleRAP-V5.13.6.jpg
        :align: center
 
 Préparation de l’électro-aimant

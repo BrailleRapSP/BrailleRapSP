@@ -126,7 +126,8 @@ Matériel :
   * 8 rondelles M3 
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront serées quand l'ensemble du chariot bas sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left à gauche et le BOTTOM_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et rondelle+écrou à l'intérieur). Les vis seront serrées quand l'ensemble du chariot bas sera en place.
+.. Note:: Les illustrations montrent le montage du BOTTOM_AXIS_left. Le principe est le même pour le BOTTOM_AXIS_right.
 .. image :: ./IMG/BrailleRAP-V5.12.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.13.jpg

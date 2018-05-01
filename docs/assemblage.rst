@@ -32,7 +32,11 @@ Matériel:
     * 6 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine. **photo avant et arrière**
+* Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine.
+.. image :: ./IMG/BrailleRAP-V5.01.2.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.01.3.jpg
+       :align: center
 
 
 Préparation du pointeau femelle

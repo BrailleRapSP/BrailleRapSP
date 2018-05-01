@@ -212,23 +212,36 @@ Matériel :
   * Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley 
   * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing 
-  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide 
-  * 2 vis M3- 8
-  * 2 vis M3-16
-  * écrou M3 NYL
-  * 1 rondelle M3
-  * 1 écrou M3
+  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide
+  * **Pièce(s) imprimée(s) en 3D** : 3 X IGUS_housing
+  * 2 vis M3-8
+  * 3 IGUS
+  * 6 vis M3-12
+  * 10 écrous M3 NYL
+  * 2 vis M3-18
+  * 2 vis M3-20
+
 
 * Fixer l’électro-aimant sur son support avec les 2 vis M3-8
 .. ATTENTION:: Respecter le côté de sortie des fils).
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
-* Assembler les 3 parties imprimées avec les 2 vis M3-16 et les écrous NYL M3 en s’assurant que l’entretoise coulisse bien dans son guide.
+* Introduire les 3 IGUS dans leur logement (IGUS_housing)
+.. ATTENTION:: Respecter le côté du rainurage).
+.. image :: ./IMG/BrailleRAP-V5.14.1.jpg
+       :align: center
+* Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL
+.. image :: ./IMG/BrailleRAP-V5.14.2.jpg
+       :align: center
+* Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
 .. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
-.. image :: ./IMG/BrailleRAP-V5.20.jpg
+.. image :: ./IMG/BrailleRAP-V5.14.3.jpg
+       :align: center
+* Visser les deux vis M3-20 et 2 écrous M3 NYL avec la t^te de vis en dessous.
+.. image :: ./IMG/BrailleRAP-V5.14.4.jpg
        :align: center
 * Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
-.. image :: ./IMG/BrailleRAP-V5.21.jpg
+.. image :: ./IMG/BrailleRAP-V5.14.5.jpg
        :align: center
 
 

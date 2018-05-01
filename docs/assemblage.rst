@@ -87,9 +87,9 @@ Matériel :
        :align: center
 
 * Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
-.. image :: ./IMG/BrailleRAP-V5.06.jpg
+.. image :: ./IMG/BrailleRAP-V5.06.1.jpg
        :align: center
-.. image :: ./IMG/BrailleRAP-V5.07.jpg
+.. image :: ./IMG/BrailleRAP-V5.07.1.jpg
        :align: center
 
 Préparation de supports d’axes

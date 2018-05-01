@@ -97,10 +97,11 @@ Préparation de supports d’axes
 
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left 
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right 
-  * **Pièce(s) imprimée(s) en 3D** : 2X TOP_AXIS_left 
+  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left
+  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right 
   * 1 foret de 8mm
-  * 4 écrous M3
-  * 4 vis sans tête M3-12
+  * 8 écrous M3
+  * 8 vis sans tête M3-12
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
 * Introduire un écrou M3 dans chacun des 8 trous rectangulaires. Visser les vis sans tête M3-12.

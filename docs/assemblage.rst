@@ -223,11 +223,11 @@ Matériel :
 
 
 * Fixer l’électro-aimant sur son support avec les 2 vis M3-8
-.. ATTENTION:: Respecter le côté de sortie des fils).
+.. ATTENTION:: Respecter le côté de sortie des fils.
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
 * Introduire les 3 IGUS dans leur logement (IGUS_housing)
-.. ATTENTION:: Respecter le côté du rainurage).
+.. ATTENTION:: Respecter le côté du rainurage.
 .. image :: ./IMG/BrailleRAP-V5.14.1.jpg
        :align: center
 * Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL
@@ -237,7 +237,7 @@ Matériel :
 .. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
 .. image :: ./IMG/BrailleRAP-V5.14.3.jpg
        :align: center
-* Visser les deux vis M3-20 et 2 écrous M3 NYL avec la t^te de vis en dessous.
+* Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous.
 .. image :: ./IMG/BrailleRAP-V5.14.4.jpg
        :align: center
 * Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
@@ -245,25 +245,7 @@ Matériel :
        :align: center
 
 
-Montage du chariot bas (étape 2)
----------------------------------
-
-Matériel :
-
-  * 2 vis M3-20
-  * 2 écrous M3
-  * 6 vis M3-14
-  * 6 écrous M3 NYL
-
-
-* Monter les vis M3-20 et les écrous M3.
-.. image :: ./IMG/BrailleRAP-V5.22.jpg
-       :align: center
-* Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu. Les vis seront serrées quand le chariot sera en place.
-.. image :: ./IMG/BrailleRAP-V5.23.jpg
-       :align: center
-
-Montage du chariot bas (étape 3)
+Montage du chariot bas (étape 2)
 ---------------------------------
 
 Matériel :

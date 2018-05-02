@@ -276,7 +276,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.51.1.jpg
        :align: center
 * Enfiler le fin de course et son support sur la barre Ø8mm côte face arrière.
-.. NOTE:: la vis lu support de l'interrupteur sera serrée plus tard lors du réglage.
+.. NOTE:: la vis du support de l'interrupteur sera serrée plus tard lors du réglage.
 .. image :: ./IMG/BrailleRAP-V5.51.2.jpg
        :align: center
 * Enfiler le chariot bas sur les barres lisses.

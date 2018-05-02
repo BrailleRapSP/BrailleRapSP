@@ -104,10 +104,10 @@ Préparation de supports d’axes
   * 8 vis sans tête M3-12
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
-* Introduire un écrou M3 dans chacun des 8 trous rectangulaires. Visser les vis sans tête M3-12.
+* Pour chacune des 4 pièces, introduire un écrou M3 les trous rectangulaires. Visser les vis sans tête M3-12.
 .. image :: ./IMG/BrailleRAP-V5.08.jpg
        :align: center
-.. image :: ./IMG/BrailleRAP-V5.09.jpg
+.. image :: ./IMG/BrailleRAP-V5.09.1.jpg
        :align: center
 * L’extrémité de la vis ne doit pas le passage des barres de Ø 8mm.
 .. image :: ./IMG/BrailleRAP-V5.10.jpg
@@ -231,6 +231,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.14.1.jpg
        :align: center
 * Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL
+.. ATTENTION:: Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera en place sur ses rails de guidage.
 .. image :: ./IMG/BrailleRAP-V5.14.2.jpg
        :align: center
 * Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
@@ -244,6 +245,28 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.14.5.jpg
        :align: center
 
+
+
+Montage de l'interrupteur de fin de course X
+---------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support 
+  * 2 barres lisses Ø8mm, longueur : 330mm
+  * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
+  * 1 vis sans tête M3-12
+  * 1 écrou M3
+  * 2 vis M2.5-12
+  * 2 écrous M2.5
+
+* Introduire un écrou M3 et visser une vis sans tête M3-12
+.. image :: ./IMG/BrailleRAP-V5.57.jpg
+       :align: center
+* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5
+.. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
+.. image :: ./IMG/BrailleRAP-V5.58.jpg
+       :align: center
 
 Montage du chariot bas (étape 2)
 ---------------------------------

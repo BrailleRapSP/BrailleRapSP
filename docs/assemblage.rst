@@ -309,9 +309,9 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
 * Visser l’ensemble moteur/support sur la caisse en laissant du jeu.
-.. image :: ./IMG/BrailleRAP-V5.32.jpg
+.. image :: ./IMG/BrailleRAP-V5.32.1.jpg
        :align: center
-.. image :: ./IMG/BrailleRAP-V5.33.jpg
+.. image :: ./IMG/BrailleRAP-V5.33.1.jpg
        :align: center
 
 Montage de l’axe vertical (étape 2)
@@ -319,7 +319,7 @@ Montage de l’axe vertical (étape 2)
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : KP08_support
+  * **Pièce(s) imprimée(s) en 3D** : 2 X KP08_support
   * 2 KP08 
   * 4 vis M5-22
   * 4 rondelles M5
@@ -328,12 +328,12 @@ Matériel :
 * Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de le redresser.
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
-* Visser en laissant un peu de jeu KP08_support et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08.
-.. image :: ./IMG/BrailleRAP-V5.34.jpg
+* Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse en respectant la position des bagues de serrage des KP08.
+.. image :: ./IMG/BrailleRAP-V5.34.1.jpg
        :align: center
-.. image :: ./IMG/BrailleRAP-V5.36.jpg
+.. image :: ./IMG/BrailleRAP-V5.36.1.jpg
        :align: center
-.. image :: ./IMG/BrailleRAP-V5.35.jpg
+.. image :: ./IMG/BrailleRAP-V5.35.1.jpg
        :align: center
 
 Montage de l’axe vertical (étape 3)

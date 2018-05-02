@@ -325,10 +325,10 @@ Matériel :
   * 4 rondelles M5
   * 4 écrous M5 NYL
 
-* Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de le redresser.
+.. NOTE:: Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de le redresser.
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
-* Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse.
+* Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse avec les vis M5-22, les rondelles M5 et les écrous M5 NYL.
 .. image :: ./IMG/BrailleRAP-V5.34.1.jpg
        :align: center
 * Respecter la position des bagues de serrage des KP08.
@@ -351,7 +351,11 @@ Matériel :
 * Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur.
 .. image :: ./IMG/BrailleRAP-V5.60.jpg
        :align: center
+.. image :: ./IMG/BrailleRAP-V5.60.1.jpg
+       :align: center
 * Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés.
+.. image :: ./IMG/BrailleRAP-V5.60.2.jpg
+       :align: center
 * Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
 * Visser les 2 premières vis du moteur sur son support **AJOUTER IMAGE**
 * Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.

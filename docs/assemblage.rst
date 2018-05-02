@@ -184,6 +184,26 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.13.6.jpg
        :align: center
 
+Montage de l'interrupteur de fin de course X
+---------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support 
+  * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
+  * 1 vis sans tête M3-12
+  * 1 écrou M3
+  * 2 vis M2.5-12
+  * 2 écrous M2.5
+
+* Introduire un écrou M3 et visser une vis sans tête M3-12
+.. image :: ./IMG/BrailleRAP-V5.57.jpg
+       :align: center
+* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5
+.. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
+.. image :: ./IMG/BrailleRAP-V5.58.jpg
+       :align: center
+
 Préparation de l’électro-aimant
 --------------------------------
 
@@ -244,64 +264,32 @@ Matériel :
        :align: center
 
 
-
-Montage de l'interrupteur de fin de course X
----------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support 
-  * 2 barres lisses Ø8mm, longueur : 330mm
-  * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
-  * 1 vis sans tête M3-12
-  * 1 écrou M3
-  * 2 vis M2.5-12
-  * 2 écrous M2.5
-
-* Introduire un écrou M3 et visser une vis sans tête M3-12
-.. image :: ./IMG/BrailleRAP-V5.57.jpg
-       :align: center
-* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5
-.. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
-.. image :: ./IMG/BrailleRAP-V5.58.jpg
-       :align: center
-
 Montage du chariot bas (étape 2)
 ---------------------------------
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_support 
   * 2 barres lisses Ø8mm, longueur : 330mm
-  * 1 fin de course
-  * 1 vis sans tête M3-12
-  * 1 écrou M3
-  * 2 vis M2.5-12
-  * 2 écrous M2.5
 
-* Souder les fils sur le fin de course. **AJOUTER IMAGE**
-* Introduire un écrou dans le logement du ENDSTOP_support et une vis sans tête M3-12. **AJOUTER IMAGE**
-* Fixer le fin de course sur le ENDSTOP_support avec les 2 vis M2.5-12 et les écrous M2.5. **AJOUTER IMAGE**
+.. NOTE:: Nous n'avons pas représenté la façade pour des raisons de lisibilité.
 * Enfiler les barres à mi-course par l’extérieur de la caisse.
-.. image :: ./IMG/BrailleRAP-V5.51.jpg
+.. image :: ./IMG/BrailleRAP-V5.51.1.jpg
        :align: center
-* Enfiler le fin de course et son support sur la barre Ø8mm côte face avant.
-.. image :: ./IMG/BrailleRAP-V5.52.jpg
+* Enfiler le fin de course et son support sur la barre Ø8mm côte face arrière.
+.. NOTE:: la vis lu support de l'interrupteur sera serrée plus tard lors du réglage.
+.. image :: ./IMG/BrailleRAP-V5.51.2.jpg
        :align: center
 * Enfiler le chariot bas sur les barres lisses.
-.. image :: ./IMG/BrailleRAP-V5.53.jpg
+.. image :: ./IMG/BrailleRAP-V5.51.3.jpg
        :align: center
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
-* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit).
-.. image :: ./IMG/BrailleRAP-V5.26.jpg
+* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour éviter que les axes puissent coulisser dans leur logement.
+.. image :: ./IMG/BrailleRAP-V5.51.4.jpg
        :align: center
-* Visser les 4 vis sans tête des supports des axes suffisamment pour éviter que les axes puissent coulisser dans leur logements.
-.. image :: ./IMG/BrailleRAP-V5.54.jpg
-       :align: center
-.. image :: ./IMG/BrailleRAP-V5.55.jpg
+.. image :: ./IMG/BrailleRAP-V5.51.5.jpg
        :align: center
 * Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.
-.. image :: ./IMG/BrailleRAP-V5.30.jpg
+.. image :: ./IMG/BrailleRAP-V5.51.6.jpg
        :align: center
 
 Montage de l’axe vertical (étape 1)

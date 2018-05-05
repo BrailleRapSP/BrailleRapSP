@@ -278,14 +278,14 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.51.1.jpg
        :align: center
 * Enfiler le fin de course et son support sur la barre Ø8mm côte face arrière.
-.. NOTE:: la vis du support de l'interrupteur sera serrée plus tard lors du réglage.
 .. image :: ./IMG/BrailleRAP-V5.51.2.jpg
        :align: center
+.. NOTE:: la vis du support de l'interrupteur sera serrée plus tard lors du réglage.	
 * Enfiler le chariot bas sur les barres lisses.
 .. image :: ./IMG/BrailleRAP-V5.51.3.jpg
        :align: center
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
-* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour éviter que les axes puissent coulisser dans leur logement.
+* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leur logement.
 .. image :: ./IMG/BrailleRAP-V5.51.4.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.51.5.jpg
@@ -372,19 +372,27 @@ Matériel :
 
   * 2 poulies GT2 20 dents bore 8mm
 
-* Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur. **AJOUTER IMAGE**
-* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leur position) et le coupleur. **AJOUTER IMAGE**
-* Visser les 2 vis en haut du coupleur sur l’axe vertical. **AJOUTER IMAGE**
-* Laisser les poulies libres sans les visser.
-* Visser les vis des bagues de serrage des KP08. **AJOUTER IMAGE**
-* S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement.
+* Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur.
+.. image :: ./IMG/BrailleRAP-V5.62.jpg
+       :align: center
+* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leur position) et le coupleur.
+.. image :: ./IMG/BrailleRAP-V5.63.jpg
+       :align: center
+* Visser les 2 vis en haut du coupleur sur l’axe vertical.
+.. image :: ./IMG/BrailleRAP-V5.64.jpg
+       :align: center
+* Laisser les poulies libres sans les visser sur l'axe.Elles seront vissées quand la courroie sera en place
+* Visser les vis des bagues de serrage des KP08 (2 vis par bague).
+.. image :: ./IMG/BrailleRAP-V5.65.jpg
+       :align: center
+* S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement.
 
 Montage de la courroie du chariot bas
 --------------------------------------
 
 Matériel :
 
-  * 1 courroie GT2 longueur ?????mm
+  * 1 courroie GT2 longueur ± 620mm
   * 2 colliers
 
 * Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier **AJOUTER IMAGE**
@@ -495,26 +503,6 @@ Matériel :
 * Terminer d’enfiler les barres (elles ne doivent pas dépasser dans le bois de la caisse) **AJOUTER IMAGE**
 * Serrer les vis des supports d’axes sur la caisse. **AJOUTER IMAGE**
 * Visser les vis sans tête des supports des axes **AJOUTER IMAGE**
-
-
-Montage de la poulie de renvoi du chariot haut
------------------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_support 
-  * **Pièce(s) imprimée(s) en 3D** : DRIVEN_PULLEY_housing 
-  * 1 poulie libre GT2 bore 3mm
-  * 2 rondelles M3
-  * 4 écrous M3 NYL
-  * 2 vis M3-16
-  * 1 vis M3-20
-  * 1 vis M3-25
-
-* Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
-* Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.**AJOUTER IMAGE**
-* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.**AJOUTER IMAGE**
 
 
 Montage de la carte électronique sur la caisse

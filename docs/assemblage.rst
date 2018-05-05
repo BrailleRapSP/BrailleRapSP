@@ -162,6 +162,8 @@ Matériel :
 
 
 * Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-2N et une rondelle.
+.. image :: ./IMG/BrailleRAP-V5.44.jpg
+       :align: center
 .. image :: ./IMG/BrailleRAP-V5.13.3.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.13.5.jpg
@@ -349,15 +351,15 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.59.jpg
        :align: center
 * Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur.
-.. image :: ./IMG/BrailleRAP-V5.60.jpg
-       :align: center
 .. image :: ./IMG/BrailleRAP-V5.60.1.jpg
        :align: center
 * Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés.
 .. image :: ./IMG/BrailleRAP-V5.60.2.jpg
        :align: center
 * Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
-* Visser les 2 premières vis du moteur sur son support **AJOUTER IMAGE**
+* Visser les 2 premières vis du moteur sur son support;
+.. image :: ./IMG/BrailleRAP-V5.61.jpg
+       :align: center
 * Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
 * Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**
 * Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support puis le support sur la caisse
@@ -375,53 +377,7 @@ Matériel :
 * Visser les 2 vis en haut du coupleur sur l’axe vertical. **AJOUTER IMAGE**
 * Laisser les poulies libres sans les visser.
 * Visser les vis des bagues de serrage des KP08. **AJOUTER IMAGE**
-* S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement. **vidéo**
-
-
-Montage des 2 poulies renvoi du chariot
------------------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 2X DRIVEN_PULLEY_support 
-  * **Pièce(s) imprimée(s) en 3D** : 2X DRIVEN_PULLEY_housing 
-  * 2 poulies libre GT2 bore 3mm
-  * 6 rondelles M3
-  * 8 écrous M3 NYL
-  * 4 vis M3-16
-  * 2 vis M3-20
-  * 2 vis M3-25
-
-* Incruster un écrou M3 NYL dans le DRIVEN_PULLEY_housing.
-.. image :: ./IMG/BrailleRAP-V5.45.jpg
-       :align: center
-* Fixer DRIVEN_PULLEY_support sur la caisses à l’aide des vis M3-16, les rondelles M3 et les écrous M3 NYL.
-.. image :: ./IMG/BrailleRAP-V5.46.jpg
-       :align: center
-.. image :: ./IMG/BrailleRAP-V5.47.jpg
-       :align: center
-* Glisser le DRIVEN_PULLEY_housing et sa poulie dans le DRIVEN_PULLEY_support et le maintenir avec une rondelle M3 et une vis M3-20 côté bois en lui laissant un débattement de ± 5mn.
-.. image :: ./IMG/BrailleRAP-V5.48.jpg
-       :align: center
-.. image :: ./IMG/BrailleRAP-V5.49.jpg
-       :align: center
-* Assembler la poulie dans le DRIVEN_PULLEY_housing avec la vis M3-25 et un écrou M3 NYL sans trop serrer.
-.. image :: ./IMG/BrailleRAP-V5.50.jpg
-       :align: center
-
-Assemblage du fin de course X
----------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : ENDSTOPX_support
-  * 2 vis M3-12 sans tête
-  * 1 écrou M3
-  * I interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
-
-* Introduire un écrou M3 et une vis sans tête M3-12 dans le ENDSTOPX_support
-.. image :: ./IMG/BrailleRAP-V5.45.jpg
-       :align: center
+* S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support pour leur donner du jeu et refaire l’alignement.
 
 Montage de la courroie du chariot bas
 --------------------------------------

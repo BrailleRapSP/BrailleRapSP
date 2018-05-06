@@ -50,14 +50,15 @@ Matériel:
     * 1 taraud M3
 
 
-Préparation du pointeau male
+Préparation du pointeau mâle
 -----------------------------
 
 Matériel : 
 
+    * 1 lime pour métaux ou de la toile émeri ou une Dremel
     * 1 vis sans tête M3-12 bout téton
 
-* Limer le pointeau de la vis  afin d’obtenir un profil approchant de celui illustré
+* Limer l'arête du téton afin d’obtenir un profil approchant de celui illustré
 .. image :: ./IMG/BrailleRAP-V5.56.jpg
        :align: center
 
@@ -75,13 +76,13 @@ Matériel :
     * 2 vis M3-12
     * 2 rondelles M3
 
-* Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe.
+* Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe du moteur.
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
-.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
+.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 * Introduire les écrous NYL M3 dans le support moteur.
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
@@ -107,7 +108,7 @@ Préparation de supports d’axes
 * Pour chacune des 4 pièces, introduire un écrou M3 les trous rectangulaires. Visser les vis sans tête M3-12.
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
        :align: center
-* L’extrémité de la vis ne doit pas le passage des barres de Ø 8mm.
+* L’extrémité de la vis ne doit pas dépasser dans le passage des barres de Ø 8mm.
 .. image :: ./IMG/BrailleRAP-V5.10.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
@@ -182,7 +183,7 @@ Matériel :
   * 2 écrous NYL M3
 
 
-* Commencer par le renvoi du bas. Insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer
+* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer
 .. image :: ./IMG/BrailleRAP-V5.13.6.jpg
        :align: center
 
@@ -213,7 +214,7 @@ Matériel :
 
   * 1 électro-aimant
   * 1 entretoise de 18mm
-  * 1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau male)
+  * 1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)
   * 1 écrou M3
   * 1 rondelle M3
 
@@ -397,7 +398,7 @@ Matériel :
 
 * Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier **AJOUTER IMAGE**
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
-* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier **AJOUTER IMAGE**
+* Tendre la courroie en retenant le chariot et fixer la deuxième 	de la courroie sur sa vis avec un collier **AJOUTER IMAGE**
 * Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. **AJOUTER IMAGE**
 .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
 .. image :: ./IMG/BrailleRAP-V5.66.jpg

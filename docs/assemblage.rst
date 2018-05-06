@@ -354,7 +354,7 @@ Matériel :
 * Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur.
 .. image :: ./IMG/BrailleRAP-V5.60.1.jpg
        :align: center
-* Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés.
+* Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés et que l'axe continue à tourner librement.
 .. image :: ./IMG/BrailleRAP-V5.60.2.jpg
        :align: center
 * Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
@@ -382,7 +382,7 @@ Matériel :
 * Visser les 2 vis en haut du coupleur sur l’axe vertical.
 .. image :: ./IMG/BrailleRAP-V5.64.jpg
        :align: center
-* Laisser les poulies libres sans les visser sur l'axe.Elles seront vissées quand la courroie sera en place
+* Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place
 * Visser les vis des bagues de serrage des KP08 (2 vis par bague).
 .. image :: ./IMG/BrailleRAP-V5.65.jpg
        :align: center

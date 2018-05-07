@@ -8,7 +8,6 @@ Bienvenue sur la documentation BrailleRap-SP
 
 .. image :: ./IMG/braillerapV3_001.png 
   :width: 400px
-  :height: 100px
   :align: center
 
 Contenu:

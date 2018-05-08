@@ -50,6 +50,11 @@ Matériel:
     * 1 taraud M3
 
 
+* Tarauder le FEMALE_shape sur les 2/3 de la hauteur en commençant par le haut.
+.. image :: ./IMG/BrailleRAP-V5.80.jpg
+       :align: center
+
+
 Préparation du pointeau mâle
 -----------------------------
 
@@ -509,9 +514,15 @@ Matériel :
   * 6 vis M3-14
   * 6 écrous M3 NYL
 
-* Coller et visser l'écrou borgne sur la vis sans tête M3-30 (photo pour ne pas se tromper de sens de collage)
-* Tarauder la FEMALE_shape au 2/3 en partant du haut **AJOUTER IMAGE**
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser de 0,5mm **AJOUTER IMAGE**
+* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** emprunte allen.
+.. image :: ./IMG/BrailleRAP-V5.79.jpg
+       :align: center
+* Tarauder la FEMALE_shape au 2/3 en partant du haut.
+.. image :: ./IMG/BrailleRAP-V5.80.jpg
+       :align: center
+* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser de 0,5mm;
+.. image :: ./IMG/BrailleRAP-V5.81.jpg
+       :align: center
 * Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-10, les rondelles M3 et les écrous M3 NYL en laissant du jeu. **AJOUTER IMAGE**
 * Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu **AJOUTER IMAGE**
 * Monter les vis M3-20 et les écrous M3 **AJOUTER IMAGE**

@@ -82,7 +82,7 @@ Matériel :
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
-.. !:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 * Introduire les écrous NYL M3 dans le support moteur.
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
@@ -410,19 +410,32 @@ Montage de l’axe Y (étape 1)
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :3 x ROLL_joint
+  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel 
+  * **Pièce(s) imprimée(s) en 3D** : 2 x KFL8_support 
   * 1 taraud M3  
   * 3 joints toriques
   * 3 vis M3-3 sans tête
   * 2 KFL8
+  * 2 vis M5-18
+  * 2 vis M5-35
+  * 4 écrous M5 NYL
+  * 4 rondelles M5
   * 1 poulie GT2 20 dents bore 8mm
   * 1 barre lisse Ø 8mm, longueur : 364mm
-  * 4 vis M5-18
-  * 4 écrous M5 NYL
-  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel 
   * 2 vis M3-12 sans tête
   * 2 écrous M3
   * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
 
+* Fixer les KFL8 à gauche sur la caisse avec les vis M5-18, les rondelles M5 et les écrous M5 NYL.
+.. image :: ./IMG/BrailleRAP-V5.67.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.68.jpg
+       :align: center
+* Fixer les KFL8 à droite sur la caisse avec les KFL8_support, les vis M5-35, les rondelles M5 et les écrous M5 NYL.
+.. image :: ./IMG/BrailleRAP-V5.69.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.70.jpg
+       :align: center
 * Tarauder les 3 ROLL_joint.
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center

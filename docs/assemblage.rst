@@ -486,22 +486,6 @@ Montage de l’axe Y (étape 2)
 * Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. **AJOUTER IMAGE**
 * Quand les ROLL_joint sont bien en place, serrer les vis sans tête. **AJOUTER IMAGE**
 * Retirer la plaque de contre plaqué.
-* Dans chaque molette, Introduire les écrous M3 dans leur logement et une vis M3-12 sans tête **AJOUTER IMAGE**
-* Enfoncer une molette de part et d’autre de l’axe et serrer les vis M3-12 sans tête afin de les maintenir sur l’axe **AJOUTER IMAGE**
-* Tourner les molettes à la main afin de s'assurer que l'axe entraine bien la courroie et le moteur Y.
-
-
-Fixation des supports des axes du chariot haut
------------------------------------------------
-
-Matériel : 
-
-  * **Pièce(s) imprimée(s) en 3D** : 2 x TOP_AXIS 
-  * 4 vis BTR M3-16
-  * 4 rondelles M3 
-  * 4 écrous NYL M3
-
-* Fixer les supports d’axe sur la caisse en laissant un peu de jeu **AJOUTER IMAGE**
 
 
 Montage du chariot haut (étape 1)

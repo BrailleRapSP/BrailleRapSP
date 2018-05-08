@@ -82,7 +82,7 @@ Matériel :
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
-.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+.. !:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 * Introduire les écrous NYL M3 dans le support moteur.
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center

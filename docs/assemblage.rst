@@ -509,7 +509,7 @@ Matériel :
   * 4 écrous M3 NYL
 
   * 3 IGUS_housing + IGUS assemblés
-  * 6 vis M3-14
+  * 6 vis M3-12
   * 6 écrous M3 NYL
 
 * Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** emprunte allen.
@@ -526,8 +526,16 @@ Matériel :
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.83.jpg
        :align: center
-* Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu **AJOUTER IMAGE**
-* Monter les vis M3-20 et les écrous M3 **AJOUTER IMAGE**
+* Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le charriot avec le M3-12 et les écrous M3 NYL.
+.. image :: ./IMG/BrailleRAP-V5.84.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.85.jpg
+       :align: center
+* Monter les vis M3-20 et les écrous M3.
+.. image :: ./IMG/BrailleRAP-V5.87.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.86.jpg
+       :align: center
 
 
 Montage du chariot haut (étape 2)

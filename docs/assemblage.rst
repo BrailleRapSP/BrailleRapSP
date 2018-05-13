@@ -503,7 +503,7 @@ Matériel :
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3
  
-  * 2 vis M3-10
+  * 2 vis M3-12
   * 2 rondelles M3
   * 2 vis M3-20
   * 4 écrous M3 NYL
@@ -521,7 +521,11 @@ Matériel :
 * Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm;
 .. image :: ./IMG/BrailleRAP-V5.81.jpg
        :align: center
-* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-10, les rondelles M3 et les écrous M3 NYL en laissant du jeu. **AJOUTER IMAGE**
+* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
+.. image :: ./IMG/BrailleRAP-V5.82.jpg
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.83.jpg
+       :align: center
 * Monter les IGUS_housing avec les vis M3-14 et les écrous M3 NYL en laissant un léger jeu **AJOUTER IMAGE**
 * Monter les vis M3-20 et les écrous M3 **AJOUTER IMAGE**
 

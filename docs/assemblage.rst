@@ -29,13 +29,11 @@ Collage des bloqueurs de trappe
 Matériel:
 
     * Caisse bois assemblée.
-    * 6 disques en bois récupérés de la découpe laser du couvercle.
+    * 3 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 6 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront les trappes d'accès à l'intérieur de la machine.
+* Coller les 3 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront lA trappe d'accès à l'intérieur de la machine.
 .. image :: ./IMG/BrailleRAP-V5.01.2.jpg
-       :align: center
-.. image :: ./IMG/BrailleRAP-V5.01.3.jpg
        :align: center
 
 
@@ -520,7 +518,7 @@ Matériel :
 * Tarauder la FEMALE_shape au 2/3 en partant du haut.
 .. image :: ./IMG/BrailleRAP-V5.80.jpg
        :align: center
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser de 0,5mm;
+* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm;
 .. image :: ./IMG/BrailleRAP-V5.81.jpg
        :align: center
 * Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-10, les rondelles M3 et les écrous M3 NYL en laissant du jeu. **AJOUTER IMAGE**

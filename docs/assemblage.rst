@@ -508,7 +508,7 @@ Matériel :
   * 2 vis M3-20
   * 4 écrous M3 NYL
 
-  * 3 IGUS_housing + IGUS assemblés
+  * 3 IGUS_housing
   * 6 vis M3-12
   * 6 écrous M3 NYL
 
@@ -526,7 +526,7 @@ Matériel :
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.83.jpg
        :align: center
-* Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le charriot avec le M3-12 et les écrous M3 NYL.
+* Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL.
 .. image :: ./IMG/BrailleRAP-V5.84.jpg
        :align: center
 .. image :: ./IMG/BrailleRAP-V5.85.jpg

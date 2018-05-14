@@ -34,26 +34,9 @@ Matériel:
     * 3 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 3 disques de bois sur la façade arrière et avant à l'intérieur de la caisse. Ces disques maintiendront lA trappe d'accès à l'intérieur de la machine.
+* Coller les 3 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront lA trappe d'accès à l'intérieur de la machine.
 
 .. image :: ./IMG/BrailleRAP-V5.01.2.jpg
-       :align: center
-
-
-Préparation du pointeau femelle
---------------------------------
-
-Matériel: 
-
-    * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape 
-    * 1 vis sans tête M3-30
-    * 1 écrou M3 borgne
-    * 1 taraud M3
-
-
-* Tarauder le FEMALE_shape sur les 2/3 de la hauteur en commençant par le haut.
-
-.. image :: ./IMG/BrailleRAP-V5.80.jpg
        :align: center
 
 
@@ -490,7 +473,7 @@ Matériel :
 
 * Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier **AJOUTER IMAGE**
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
-* Tendre la courroie en retenant le chariot et fixer la deuxième 	de la courroie sur sa vis avec un collier **AJOUTER IMAGE**
+* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier **AJOUTER IMAGE**
 * Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. **AJOUTER IMAGE**
 
 .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
@@ -654,6 +637,9 @@ Matériel :
        :align: center
        
 * Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL.
+
+.. image :: ./IMG/BrailleRAP-V5.88.jpg
+       :align: center
 
 .. image :: ./IMG/BrailleRAP-V5.84.jpg
        :align: center

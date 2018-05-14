@@ -21,7 +21,8 @@ Contenu:
    assemblage
    flybackboard
    marlin
-
+   buildembossingtool
+   
 .. index:: history, licence, bom, marlin, assemblage, flybackboard
 
 

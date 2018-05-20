@@ -67,7 +67,7 @@ Matériel :
     * 2 vis M3-12
     * 2 rondelles M3
 
-* Fixer la poulie sur l’axe du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe du moteur.
+* Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
 
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
@@ -714,6 +714,9 @@ Câblage de l’électro-aimant
 
 Câblage des interrupteurs fin de course
 ----------------------------------------
+
+Fixation de la plaque pour l'embase de l'alim
+-------------------------------------------------	
 
 Montage des presse-papier sur la caisse
 ----------------------------------------

@@ -118,7 +118,7 @@ Préparation de supports d’axes
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
        :align: center
 
-Fixation des supports des axes GAUCHE
+Fixation des supports GAUCHES des axes
 ----------------------------------------------
 
 Matériel : 
@@ -138,7 +138,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.12.2.jpg
        :align: center
 
-Fixation des supports des axes DROIT
+Fixation des supports DROITS des axes
 -------------------------------------
 
 Matériel : 
@@ -170,7 +170,7 @@ Matériel :
   * 2 écrous NYL M3
 
 
-* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-2N et une rondelle.
+* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle.
 
 .. image :: ./IMG/BrailleRAP-V5.44.jpg
        :align: center

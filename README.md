@@ -6,7 +6,7 @@ Travail en cours,ladocumentation complète sera disponible dans quelques jours
 
 La documentation est disponible ici http://braillerapsp.readthedocs.io/fr/latest/index.html
 
-==============================================================================================
+==========================================================================
 
 Open Source Braille embosser
 

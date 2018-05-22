@@ -51,4 +51,4 @@ Dans les options de mise en page, indiquer 31 et 26 dans le nombre de caracter p
 
 .. image :: ./IMG/natbraille_page.png
        :align: center
-	   
+

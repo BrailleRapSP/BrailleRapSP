@@ -46,7 +46,9 @@ COM4 est le port serie utilisé pour communiquer avec l'imprimante
 .. image :: ./IMG/natbraille_embossing.png
        :align: center
 
-.. image :: ./IMG/natbraille_embossing.png
+
+Dans les options de mise en page, indiquer 31 et 26 dans le nombre de caracter par ligne et le nombre de lignes par page
+
+.. image :: ./IMG/natbraille_page.png
        :align: center
-	   
 	   

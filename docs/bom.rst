@@ -98,7 +98,7 @@ x   BTR M4 10
 4   BTR M4 50mm partially threaded. 
 
 3   Joints torique 15.1 mm diametre interieur 20.5 mm de diamètre exterieur (15.1 x 20.5 x 2.7)
-
+3   Clapets de robinet dimension 4x16x6 mm
 ...
 === =========================================
 

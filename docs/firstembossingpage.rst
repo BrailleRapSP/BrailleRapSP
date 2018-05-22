@@ -10,6 +10,7 @@ L'application NatBraille http://natbraille.free.fr
 
 
 Utilisation de l'application BrailleRap
+---------------------------------------
 
 Aller sur la page https://crocsg.github.io/BrailleRap/
 
@@ -20,6 +21,32 @@ Entrer votre texte à l'endroit indiquer, et télécharger ensuite le fichier GC
 .. image :: ./IMG/braillerapapp_download.png
        :align: center
 
-Vous pouvez ensuite utiliser un logiciel comme cura ou pronterface pour envoyer le fichier GCODEà l'imprimante
+Vous pouvez ensuite utiliser un logiciel comme **cura** ou **pronterface** pour envoyer le fichier GCODEà l'imprimante
 
 
+
+Configuration NatBraille
+------------------------
+
+Compiler les programmes dans le repertoire NatBrailleTools du projet
+
+Dans les options générales NatBraille, utiliser **CBFr1252** pour la table braille, Encodage document noir **Automtique**, Encodage document braille **Windows1252**
+
+.. image :: ./IMG/natbraille.png
+       :align: center
+
+Dans les options d'embossage, utiliser **CBFr1252** pour la table braille pour l'embossage
+
+Activer l'option **utiliser une command systeme pour l'embossage**
+
+le paramêtre  pour commande d'impression est : java -jar d:\usr\home\logger\BrailleLogger.jar $f | java -jar d:\usr\home\logger\gcodestreamer.jar COM4 250000 
+en modifiant eventuellement les repertoires d'installation des programmes
+COM4 est le port serie utilisé pour communiquer avec l'imprimante
+
+.. image :: ./IMG/natbraille_embossing.png
+       :align: center
+
+.. image :: ./IMG/natbraille_embossing.png
+       :align: center
+	   
+	   

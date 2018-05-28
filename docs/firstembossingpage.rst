@@ -43,7 +43,7 @@ le paramêtre  pour commande d'impression est : java -jar d:\usr\home\logger\Bra
 en modifiant eventuellement les repertoires d'installation des programmes
 COM4 est le port serie utilisé pour communiquer avec l'imprimante
 
-.. image :: ./IMG/natbrailleembossing.png
+.. image :: ./IMG/natbrailleembossig.png
        :align: center
 
 

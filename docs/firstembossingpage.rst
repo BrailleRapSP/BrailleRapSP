@@ -39,7 +39,7 @@ Dans les options d'embossage, utiliser **CBFr1252** pour la table braille pour l
 
 Activer l'option **utiliser une command systeme pour l'embossage**
 
-le paramêtre  pour commande d'impression est : java -jar d:\usr\home\logger\BrailleLogger.jar $f | java -jar d:\usr\home\logger\gcodestreamer.jar COM4 250000 
+le paramêtre  pour commande d'impression est : **java -jar d:\usr\home\logger\BrailleLogger.jar $f | java -jar d:\usr\home\logger\gcodestreamer.jar COM4 250000**
 en modifiant eventuellement les repertoires d'installation des programmes
 COM4 est le port serie utilisé pour communiquer avec l'imprimante
 

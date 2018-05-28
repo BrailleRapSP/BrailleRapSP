@@ -689,6 +689,21 @@ Matériel :
        :align: center
 
 
+Pose de la courroie du chariot haut
+--------------------------------------
+
+
+Montage des presse-papier :
+------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD 
+  * 4 vis M3-20
+  * 4 écrous M3 NYL
+
+
+
 Montage de la carte électronique sur la caisse
 -----------------------------------------------
 
@@ -702,15 +717,7 @@ Matériel :
 * Assembler la carte sur la caisse  **AJOUTER IMAGE**
 
 
-Assemblage des presse-papier :
-------------------------------
 
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 3 CLIPBOARD 
-  * 3 vis M4-20
-  * 3 écrous M4 NYL
-  * 3 clapets (voir dimensions exactes)
 
 Pose des drivers sur la carte électronique
 -------------------------------------------

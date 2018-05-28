@@ -486,21 +486,19 @@ Montage de l’axe Y (étape 1)
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint 
-  * **Pièce(s) imprimée(s) en 3D** : 2 x KFL8_support 
+  * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint 
   * 1 taraud M3  
-  * 3 joints toriques
-  * 3 vis M3-3 sans tête
+  * 2 joints toriques
+  * 2 vis M3-5 sans tête
   * 2 KFL8
-  * 2 vis M5-18
-  * 2 vis M5-35
+  * 4 vis M5-18
   * 4 écrous M5 NYL
   * 4 rondelles M5
   * 1 poulie GT2 20 dents bore 8mm
   * 1 barre lisse Ø 8mm, longueur : 364mm
   * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
 
-* Fixer les KFL8 à gauche sur la caisse avec les vis M5-18, les rondelles M5 et les écrous M5 NYL.
+* Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et 2 écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.67.jpg
        :align: center
@@ -508,7 +506,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.68.jpg
        :align: center
        
-* Fixer les KFL8 à droite sur la caisse avec les KFL8_support, les vis M5-35, les rondelles M5 et les écrous M5 NYL.
+* Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.69.jpg
        :align: center
@@ -516,23 +514,23 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.70.jpg
        :align: center
        
-* Tarauder les 3 ROLL_joint.
+* Tarauder les 2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
        
-* Mettre les joints toriques dans la gorge des 3 ROLL_joint.
+* Mettre les joints toriques dans la gorge des 2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
        
-* Visser les vis M3-3 sans tête.
+* Visser les vis M3-5 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou.
 
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
        
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
-* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint (attention à la position du joint torique).Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
+* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint ( attention à la position du joint torique ).Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center
@@ -553,15 +551,15 @@ Montage des molettes
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel  
-  * 2 vis M3-12 sans tête
+  * 2 vis M3-8 sans tête
   * 2 écrous M3
 
-* Introduire les écrous M3 dans leur logement et y visser les vis M3-12 sans tête .
+* Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête .
 
 .. image :: ./IMG/BrailleRAP-V5.71.jpg
        :align: center
        
-* Fixer les molettes sur l'axe en vissant les vis M3-12 sans tête .
+* Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête .
 
 .. image :: ./IMG/BrailleRAP-V5.72.jpg
        :align: center

@@ -530,7 +530,7 @@ Matériel :
        :align: center
        
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
-* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint ( attention à la position du joint torique ).Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
+* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint ( attention à la position du joint torique ).Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center
@@ -661,11 +661,32 @@ Matériel :
 
   * 2 barres lisses Ø 8mm, longueur : 330mm
 
-* Enfiler les barres à mi-course par l’extérieur de la caisse **AJOUTER IMAGE**
-* Enfiler le chariot bas sur les barres lisses **AJOUTER IMAGE**
-* Terminer d’enfiler les barres (elles ne doivent pas dépasser dans le bois de la caisse) **AJOUTER IMAGE**
-* Serrer les vis des supports d’axes sur la caisse. **AJOUTER IMAGE**
-* Visser les vis sans tête des supports des axes **AJOUTER IMAGE**
+* Enfiler les barres à mi-course par l’extérieur de la caisse.
+
+.. image :: ./IMG/BrailleRAP-V5;89.jpg
+       :align: center
+
+* Enfiler le chariot bas sur les barres lisses;
+
+.. image :: ./IMG/BrailleRAP-V5.90.jpg
+       :align: center
+
+* Terminer d’enfiler les barres.
+
+.. Note:: La tranche du bois doit restée apparente.
+
+.. image :: ./IMG/BrailleRAP-V5.91.jpg
+       :align: center
+
+* Serrer les vis des supports d’axes sur la caisse à gauche et à droite.
+
+.. image :: ./IMG/BrailleRAP-V5.92.jpg
+       :align: center
+
+* Visser les vis sans tête des supports des axes à gauche et à droite.
+
+.. image :: ./IMG/BrailleRAP-V5.93.jpg
+       :align: center
 
 
 Montage de la carte électronique sur la caisse

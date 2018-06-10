@@ -703,6 +703,9 @@ Matériel :
 
 * Visser les deux les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
 
+.. image :: ./IMG/BrailleRAP-V5.95.jpg
+       :align: center
+
 
 
 Montage des presse-papier :
@@ -722,7 +725,7 @@ Montage de la carte électronique sur la caisse
 Matériel :
 
   * Carte MKS GEN 1.4
-  * 4 entretoise M3-10
+  * 4 entretoises M3-10
   * 8 vis M3-10
 
 * Assembler les 4 entretoises sur la carte  **AJOUTER IMAGE**

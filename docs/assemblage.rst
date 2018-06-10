@@ -707,6 +707,56 @@ Matériel :
        :align: center
 
 
+Collage de la plaque repose papier
+-------------------------------------
+
+Matériel :
+
+  * PAPER_support (contre-plaqué de 5mm découpée au laser).
+  * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
+  * 4 vis à bois 3-10 tête fraisée
+
+* Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant  et la maintenir fermement avec du ruban adhésif pendant la durée du séchage
+
+.. image :: ./IMG/BrailleRAP-V5.96.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.97.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.98.jpg
+       :align: center
+
+Montage des guide-papier sur la plaque
+----------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_1
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_2
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_1
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_2
+  * 4 vis M3-16
+  * 4 écrous M3 NYL
+
+.. NOTE:: Pour plus de clarté, nous avons isolé la partie concernée
+
+.. image :: ./IMG/BrailleRAP-V5.102.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.101.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.99.jpg
+       :align: center
+
+* Vous devez obtenir une vue de dessus comme celle ci :
+
+
+.. image :: ./IMG/BrailleRAP-V5.100.jpg
+       :align: center
+
+
 
 Montage des presse-papier :
 ------------------------------

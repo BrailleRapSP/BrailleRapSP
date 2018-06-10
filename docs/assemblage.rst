@@ -663,7 +663,7 @@ Matériel :
 
 * Enfiler les barres à mi-course par l’extérieur de la caisse.
 
-.. image :: ./IMG/BrailleRAP-V5;89.jpg
+.. image :: ./IMG/BrailleRAP-V5.89.jpg
        :align: center
 
 * Enfiler le chariot bas sur les barres lisses;
@@ -691,6 +691,18 @@ Matériel :
 
 Pose de la courroie du chariot haut
 --------------------------------------
+
+Montage des lève-papier sur la plaque
+----------------------------------------
+
+Matériel :
+
+  * PAPER_support (contre-plaqué de 5mm découpée au laser).
+  * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
+  * 4 vis à bois 3-10 tête fraisée
+
+* Visser les deux les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
+
 
 
 Montage des presse-papier :
@@ -750,8 +762,7 @@ Montage des presse-papier sur la caisse
 Montage du support switch sur la caisse
 ----------------------------------------
 
-Montage des guide-papier sur la plaque
---------------------------------------
+
 
 Fixation des clips sur le couvercle
 --------------------------------------

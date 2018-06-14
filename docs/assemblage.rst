@@ -764,9 +764,46 @@ Montage des presse-papier :
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD 
-  * 4 vis M3-20
+  * 4 vis M3-14
   * 4 écrous M3 NYL
 
+Montage du fin de course Y :
+------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support 
+  * 2 vis M3-14
+  * 2 écrous M3 NYL
+  * 1 interrupteur fin de course à lamelle.
+  * 2 vis M2.5-14
+  * 2 écrous M2.5 NYL
+
+*  **AJOUTER IMAGE**
+*  **AJOUTER IMAGE**
+
+
+Fixation des clips sur le couvercle
+--------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK 
+  * 4 vis M3-14
+  * 4 écrous M3 NYL
+
+*  **AJOUTER IMAGE** 
+
+Fixation de la plaque pour l'embase de l'alim
+-------------------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : POWER_plate 
+  * 4 vis M3-12
+  * 4 écrous M3 NYL
+
+*  **AJOUTER IMAGE** 
 
 
 Montage de la carte électronique sur la caisse
@@ -800,28 +837,24 @@ Matériel :
 Raccordement des moteurs à la carte
 ------------------------------------
 
+* à faire 
+
 Câblage de l’électro-aimant
 ----------------------------
+
+* à faire
 
 Câblage des interrupteurs fin de course
 ----------------------------------------
 
-Fixation de la plaque pour l'embase de l'alim
--------------------------------------------------	
+* à faire
 
-Montage des presse-papier sur la caisse
-----------------------------------------
-
-Montage du support switch sur la caisse
-----------------------------------------
-
-
-
-Fixation des clips sur le couvercle
---------------------------------------
 
 Alignement vertical des deux chariots
 --------------------------------------
+
+* à faire
+
 
 * Serrer les poulies sur l’axe vertical **AJOUTER IMAGE**
 

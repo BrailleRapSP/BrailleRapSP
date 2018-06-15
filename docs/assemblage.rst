@@ -714,7 +714,6 @@ Matériel :
 
   * PAPER_support (contre-plaqué de 5mm découpée au laser).
   * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
-  * 4 vis à bois 3-10 tête fraisée
 
 * Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant  et la maintenir fermement avec du ruban adhésif pendant la durée du séchage
 

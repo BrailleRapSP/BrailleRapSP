@@ -726,7 +726,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.98.jpg
        :align: center
 
-Montage des guide-papier sur la plaque
+Montage des guides-papier sur la plaque
 ----------------------------------------
 
 Matériel :
@@ -746,6 +746,9 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.101.jpg
        :align: center
 
+* Assembler les guides-papier sur la plaque avec les vis M3-16 et les écrous M3 NYL
+
+
 .. image :: ./IMG/BrailleRAP-V5.99.jpg
        :align: center
 
@@ -756,6 +759,12 @@ Matériel :
        :align: center
 
 
+* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaire de l'axe.
+
+
+.. image :: ./IMG/BrailleRAP-V5.103.jpg
+       :align: center
+
 
 Montage des presse-papier :
 ------------------------------
@@ -764,7 +773,21 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD 
   * 4 vis M3-14
+  * 4 rondelles M3 moyennes
   * 4 écrous M3 NYL
+
+
+.. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler l'appui des CLIPBOARD sur le papier.
+
+
+.. image :: ./IMG/BrailleRAP-V5.104.jpg
+       :align: center
+
+
+.. image :: ./IMG/BrailleRAP-V5.105.jpg
+       :align: center
+
+
 
 Montage du fin de course Y :
 ------------------------------
@@ -773,6 +796,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support 
   * 2 vis M3-14
+  * 2 rondelles M3 moyennes
   * 2 écrous M3 NYL
   * 1 interrupteur fin de course à lamelle.
   * 2 vis M2.5-14

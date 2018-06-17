@@ -759,7 +759,7 @@ Matériel :
        :align: center
 
 
-* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaire de l'axe.
+* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe.
 
 
 .. image :: ./IMG/BrailleRAP-V5.103.jpg
@@ -777,7 +777,7 @@ Matériel :
   * 4 écrous M3 NYL
 
 
-.. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler l'appui des CLIPBOARD sur le papier.
+.. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier.
 
 
 .. image :: ./IMG/BrailleRAP-V5.104.jpg

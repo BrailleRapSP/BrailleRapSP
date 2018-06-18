@@ -822,11 +822,11 @@ Matériel :
 * Assembler ensemble 'interrupteur fin de course et SWITCH_Y_support sur la caisse à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
 
 
-.. image :: ./IMG/BrailleRAP-V5.107.jpg
+.. image :: ./IMG/BrailleRAP-V5.108.jpg
        :align: center
 
 
-.. image :: ./IMG/BrailleRAP-V5.107.jpg
+.. image :: ./IMG/BrailleRAP-V5.109.jpg
        :align: center
 
 

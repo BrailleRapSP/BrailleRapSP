@@ -789,7 +789,7 @@ Matériel :
 
 
 
-Montage du fin de course Y :
+Montage du fin de course Y 
 ------------------------------
 
 Matériel :
@@ -819,7 +819,7 @@ Matériel :
 .. NOTE:: La position de l'interrupteur dans les trous oblongs sera réglée à la fin de l'assemblage et les vis serrées.
 
 
-* Assembler ensemble 'interrupteur fin de course et SWITCH_Y_support sur la caisse à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
+* Assembler l'ensemble interrupteur fin de course et SWITCH_Y_support sur la caisse à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
 
 
 .. image :: ./IMG/BrailleRAP-V5.108.jpg
@@ -839,10 +839,21 @@ Matériel :
   * 4 vis M3-14
   * 4 écrous M3 NYL
 
-*  **AJOUTER IMAGE** 
+* Assembler les 2 LID_LOCK sur lcouvercle à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
 
-Fixation de la plaque pour l'embase de l'alim
--------------------------------------------------
+
+.. image :: ./IMG/BrailleRAP-V5.110.jpg
+       :align: center
+
+
+
+.. image :: ./IMG/BrailleRAP-V5.111.jpg
+       :align: center
+
+
+
+Fixation de la plaque pour l'embase de l'alimentation
+-------------------------------------------------------
 
 Matériel :
 

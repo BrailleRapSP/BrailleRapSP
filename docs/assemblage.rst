@@ -46,7 +46,7 @@ Préparation du pointeau mâle
 Matériel : 
 
     * 1 lime pour métaux ou de la toile émeri ou une Dremel
-    * 1 vis sans tête M3-12 bout téton
+    * 1 vis sans tête M3-10 bout téton
 
 * Limer l'arête du téton afin d’obtenir un profil approchant de celui illustré
 
@@ -65,7 +65,7 @@ Matériel :
     * 4 vis M3-8
     * 2 écrous NYL M3
     * 2 vis M3-12
-    * 2 rondelles M3
+    * 2 rondelles M3 larges
 
 * Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
 
@@ -101,7 +101,7 @@ Préparation de supports d’axes
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right 
   * 1 foret de 8mm
   * 8 écrous M3
-  * 8 vis sans tête M3-12
+  * 8 vis M3-12
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
 
@@ -127,7 +127,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 
   * 4 vis BTR M3-14
-  * 4 rondelles M3 
+  * 4 rondelles M3 larges 
   * 4 écrous NYL M3
 
 * Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et  TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
@@ -148,7 +148,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * 4 vis BTR M3-14
-  * 4 rondelles M3 
+  * 4 rondelles M3 larges 
   * 4 écrous NYL M3
 
 * Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right et  TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
@@ -166,7 +166,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
   * 2 vis BTR M3-20 
-  * 2 rondelles M3 
+  * 2 rondelles M3 larges 
   * 2 écrous NYL M3
 
 
@@ -210,7 +210,7 @@ Matériel :
   * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
   * 1 vis sans tête M3-12
   * 1 écrou M3
-  * 2 vis M2.5-12
+  * 2 vis M2.5-12 **Michel, on t'a mis des M2.5-14 ;)**
   * 2 écrous M2.5
 
 * Introduire un écrou M3 et visser une vis sans tête M3-12
@@ -234,7 +234,7 @@ Matériel :
   * 1 entretoise de 18mm
   * 1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)
   * 1 écrou M3
-  * 1 rondelle M3
+  * 1 rondelle M3 moyenne
 
 * Visser l’entretoise à fond sur l’électro-aimant.
 
@@ -353,7 +353,7 @@ Matériel :
   * 4 vis M3-8
   * 2 vis M3-16
   * 2 écrous M3 NYL
-  * 4 rondelles M3
+  * 4 rondelles M3 grandes
 
 * Visser le moteur sur son support en laissant un peu jeu et en respectant la position du connecteur.
 
@@ -489,7 +489,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint 
   * 1 taraud M3  
   * 2 joints toriques
-  * 2 vis M3-5 sans tête
+  * 2 vis M3-6 sans tête
   * 2 KFL8
   * 4 vis M5-18
   * 4 écrous M5 NYL
@@ -551,7 +551,7 @@ Montage des molettes
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel  
-  * 2 vis M3-8 sans tête
+  * 2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**
   * 2 écrous M3
 
 * Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête .
@@ -603,7 +603,7 @@ Matériel :
   * 1 écrou borgne M3
  
   * 2 vis M3-12
-  * 2 rondelles M3
+  * 2 rondelles M3 moyennes
   * 2 vis M3-20
   * 4 écrous M3 NYL
 
@@ -699,7 +699,7 @@ Matériel :
 
   * PAPER_support (contre-plaqué de 5mm découpée au laser).
   * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
-  * 4 vis à bois 3-10 tête fraisée
+  * 4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**
 
 * Visser les deux les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
 
@@ -858,7 +858,7 @@ Fixation de la plaque pour l'embase de l'alimentation
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : POWER_plate 
-  * 4 vis M3-12
+  * 4 vis M3-14
   * 4 écrous M3 NYL
 
 *  **AJOUTER IMAGE** 
@@ -870,7 +870,7 @@ Montage de la carte électronique sur la caisse
 Matériel :
 
   * Carte MKS GEN 1.4
-  * 4 entretoises M3-10
+  * 4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les reçoit**
   * 8 vis M3-10
 
 * Assembler les 4 entretoises sur la carte  **AJOUTER IMAGE**

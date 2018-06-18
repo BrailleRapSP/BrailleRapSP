@@ -802,8 +802,32 @@ Matériel :
   * 2 vis M2.5-14
   * 2 écrous M2.5 NYL
 
-*  **AJOUTER IMAGE**
-*  **AJOUTER IMAGE**
+.. NOTE:: L'interrupteur fin de course à lamelle devra être câblé avant d'être monté sur son support (non représenté).
+
+
+* Assembler l'interrupteur fin de course et le SWITCH_Y_support à l'aide des vis M2.5-14 et des écrous M2.5 NYL.
+
+
+.. image :: ./IMG/BrailleRAP-V5.106.jpg
+       :align: center
+
+
+.. image :: ./IMG/BrailleRAP-V5.107.jpg
+       :align: center
+
+
+.. NOTE:: La position de l'interrupteur dans les trous oblongs sera réglée à la fin de l'assemblage et les vis serrées.
+
+
+* Assembler ensemble 'interrupteur fin de course et SWITCH_Y_support sur la caisse à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
+
+
+.. image :: ./IMG/BrailleRAP-V5.107.jpg
+       :align: center
+
+
+.. image :: ./IMG/BrailleRAP-V5.107.jpg
+       :align: center
 
 
 Fixation des clips sur le couvercle

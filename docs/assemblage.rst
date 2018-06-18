@@ -925,6 +925,18 @@ A ne pas oublier
 * Serrer la vis du endstop X
 
 
+Réglage de la profondeur du point
+----------------------------------------------------
+
+* Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette ), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à developper avec des exemples**
+
+
+
+.. image :: ./IMG/BrailleRAP-V5.112.jpg
+       :align: center
+
+
+
 
 
 

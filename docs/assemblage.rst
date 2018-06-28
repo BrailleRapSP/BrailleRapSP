@@ -7,11 +7,11 @@ Collage de la caisse en bois
 
 Matériel:
 
-    * FACE (contre-plaqué de 5mm découpée au laser).
-    * BACK (contre-plaqué de 5mm découpée au laser).
-    * BOTTOM (contre-plaqué de 5mm découpée au laser).
-    * LEFT_SIDE (contre-plaqué de 5mm découpée au laser).
-    * RIGHT_SIDE (contre-plaqué de 5mm découpée au laser).
+    * FACE (contre-plaqué de 5mm découpé au laser).
+    * BACK (contre-plaqué de 5mm découpé au laser).
+    * BOTTOM (contre-plaqué de 5mm découpé au laser).
+    * LEFT_SIDE (contre-plaqué de 5mm découpé au laser).
+    * RIGHT_SIDE (contre-plaqué de 5mm découpé au laser).
     * Colle à bois.
     * Scotch de peintre.
 
@@ -34,7 +34,7 @@ Matériel:
     * 3 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 3 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront lA trappe d'accès à l'intérieur de la machine.
+* Coller les 3 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
 
 .. image :: ./IMG/BrailleRAP-V5.01.2.jpg
        :align: center
@@ -48,7 +48,7 @@ Matériel :
     * 1 lime pour métaux ou de la toile émeri ou une Dremel
     * 1 vis sans tête M3-10 bout téton
 
-* Limer l'arête du téton afin d’obtenir un profil approchant de celui illustré
+* Limer l'arête du téton afin d’obtenir un profil approchant celui illustré.
 
 .. image :: ./IMG/BrailleRAP-V5.56.jpg
        :align: center
@@ -59,7 +59,7 @@ Moteur Y
 
 Matériel : 
 
-    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur la courroie fermée GT2)
+    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)
     * 1 moteur Nema 17
     * 1 poulie GT2 20 dents bore 5mm
     * 4 vis M3-8
@@ -67,12 +67,12 @@ Matériel :
     * 2 vis M3-12
     * 2 rondelles M3 larges
 
-* Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat le l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
+* Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
 
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
        
-* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondant à l'illustration.
+* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondante à l'illustration.
 
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
@@ -103,9 +103,9 @@ Préparation de supports d’axes
   * 8 écrous M3
   * 8 vis M3-12
 
-.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leur logement. Le cas échéant, percer le trou avec un foret de 8.
+.. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
 
-* Pour chacune des 4 pièces, introduire un écrou M3 les trous rectangulaires. Visser les vis sans tête M3-12.
+* Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis sans tête M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
        :align: center
@@ -130,7 +130,7 @@ Matériel :
   * 4 rondelles M3 larges 
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et  TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
 
 .. image :: ./IMG/BrailleRAP-V5.12.1.jpg
        :align: center
@@ -151,7 +151,7 @@ Matériel :
   * 4 rondelles M3 larges 
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right et  TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
 
 .. image :: ./IMG/BrailleRAP-V5.12.3.jpg
        :align: center
@@ -181,7 +181,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.13.5.jpg
        :align: center
        
-* Laisser un jeu de ±5mm
+* Laisser un jeu de ±5mm.
 
 .. image :: ./IMG/BrailleRAP-V5.13.4.jpg
        :align: center
@@ -196,7 +196,7 @@ Matériel :
   * 2 écrous NYL M3
 
 
-* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer
+* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer.
 
 .. image :: ./IMG/BrailleRAP-V5.13.6.jpg
        :align: center
@@ -213,12 +213,12 @@ Matériel :
   * 2 vis M2.5-12 **Michel, on t'a mis des M2.5-14 ;)**
   * 2 écrous M2.5
 
-* Introduire un écrou M3 et visser une vis sans tête M3-12
+* Introduire un écrou M3 et visser une vis sans tête M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.57.jpg
        :align: center
   
-* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5
+* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
 
 .. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
 
@@ -264,21 +264,21 @@ Matériel :
   * 2 vis M3-20
 
 
-* Fixer l’électro-aimant sur son support avec les 2 vis M3-8
+* Fixer l’électro-aimant sur son support avec les 2 vis M3-8.
 
 .. ATTENTION:: Respecter le côté de sortie des fils.
 
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
        
-* Introduire les 3 IGUS dans leur logement (IGUS_housing)
+* Introduire les 3 IGUS dans leur logement (IGUS_housing).
 
 .. ATTENTION:: Respecter le côté du rainurage.
 
 .. image :: ./IMG/BrailleRAP-V5.14.1.jpg
        :align: center
        
-* Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL
+* Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL.
 
 .. ATTENTION:: Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera en place sur ses rails de guidage.
 
@@ -317,12 +317,12 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.51.1.jpg
        :align: center
        
-* Enfiler le fin de course et son support sur la barre Ø8mm côte face arrière.
+* Enfiler le fin de course et son support sur la barre Ø8mm côté face arrière.
 
 .. image :: ./IMG/BrailleRAP-V5.51.2.jpg
        :align: center
        
-.. NOTE:: la vis du support de l'interrupteur sera serrée plus tard lors du réglage.
+.. NOTE:: La vis du support de l'interrupteur sera serrée plus tard lors du réglage.
 	
 * Enfiler le chariot bas sur les barres lisses.
 
@@ -330,7 +330,7 @@ Matériel :
        :align: center
        
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
-* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leur logement.
+* Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leurs logements.
 
 .. image :: ./IMG/BrailleRAP-V5.51.4.jpg
        :align: center
@@ -355,7 +355,7 @@ Matériel :
   * 2 écrous M3 NYL
   * 4 rondelles M3 grandes
 
-* Visser le moteur sur son support en laissant un peu jeu et en respectant la position du connecteur.
+* Visser le moteur sur son support en laissant un peu de jeu et en respectant la position du connecteur.
 
 .. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
 
@@ -381,7 +381,7 @@ Matériel :
   * 4 rondelles M5
   * 4 écrous M5 NYL
 
-.. NOTE:: Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leur logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de le redresser.
+.. NOTE:: Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leurs logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de les redresser.
 
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
@@ -407,7 +407,7 @@ Matériel :
   * 1 barre lisse Ø 8mm, longueur : 100mm
   * 1 Coupleur 5*8mm
  
-* Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas)
+* Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas).
 
 .. image :: ./IMG/BrailleRAP-V5.59.jpg
        :align: center
@@ -422,15 +422,15 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.60.2.jpg
        :align: center
        
-* Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions
-* Visser les 2 premières vis du moteur sur son support;
+* Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions.
+* Visser les 2 premières vis du moteur sur son support.
 
 .. image :: ./IMG/BrailleRAP-V5.61.jpg
        :align: center
        
 * Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
 * Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**
-* Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support puis le support sur la caisse
+* Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support, puis le support sur la caisse.
 
 
 Montage de l’axe vertical (étape 4)
@@ -445,7 +445,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.62.jpg
        :align: center
        
-* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leur position) et le coupleur.
+* Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs positions) et le coupleur.
 
 .. image :: ./IMG/BrailleRAP-V5.63.jpg
        :align: center
@@ -455,7 +455,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.64.jpg
        :align: center
        
-* Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place
+* Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place.
 * Visser les vis des bagues de serrage des KP08 (2 vis par bague).
 
 .. image :: ./IMG/BrailleRAP-V5.65.jpg
@@ -471,9 +471,9 @@ Matériel :
   * 1 courroie GT2 longueur ± 620mm
   * 2 colliers
 
-* Attacher la courroie autour de la vis du chariot avec les dents à l’extérieur à l’aide d’un collier **AJOUTER IMAGE**
+* A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur. **AJOUTER IMAGE**
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
-* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier **AJOUTER IMAGE**
+* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. **AJOUTER IMAGE**
 * Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. **AJOUTER IMAGE**
 
 .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
@@ -530,7 +530,7 @@ Matériel :
        :align: center
        
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
-* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint ( attention à la position du joint torique ).Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
+* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center
@@ -554,12 +554,12 @@ Matériel :
   * 2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**
   * 2 écrous M3
 
-* Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête .
+* Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête.
 
 .. image :: ./IMG/BrailleRAP-V5.71.jpg
        :align: center
        
-* Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête .
+* Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête.
 
 .. image :: ./IMG/BrailleRAP-V5.72.jpg
        :align: center
@@ -575,7 +575,7 @@ Montage de l’axe Y (étape 2)
 .. image :: ./IMG/BrailleRAP-V5.76.1.jpg
        :align: center
        
-* Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée et serrer les 2 vis.
+* Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis.
 
 .. image :: ./IMG/BrailleRAP-V5.77.jpg
        :align: center
@@ -621,7 +621,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.80.jpg
        :align: center
        
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm;
+* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
 
 .. image :: ./IMG/BrailleRAP-V5.81.jpg
        :align: center
@@ -666,14 +666,14 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.89.jpg
        :align: center
 
-* Enfiler le chariot bas sur les barres lisses;
+* Enfiler le chariot bas sur les barres lisses.
 
 .. image :: ./IMG/BrailleRAP-V5.90.jpg
        :align: center
 
 * Terminer d’enfiler les barres.
 
-.. Note:: La tranche du bois doit restée apparente.
+.. Note:: La tranche du bois doit rester apparente.
 
 .. image :: ./IMG/BrailleRAP-V5.91.jpg
        :align: center
@@ -692,16 +692,16 @@ Matériel :
 Pose de la courroie du chariot haut
 --------------------------------------
 
-Montage des lève-papier sur la plaque
+Montage des lève-papiers sur la plaque
 ----------------------------------------
 
 Matériel :
 
-  * PAPER_support (contre-plaqué de 5mm découpée au laser).
+  * PAPER_support (contre-plaqué de 5mm découpé au laser).
   * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
   * 4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**
 
-* Visser les deux les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
+* Visser les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
 
 .. image :: ./IMG/BrailleRAP-V5.95.jpg
        :align: center
@@ -712,10 +712,10 @@ Collage de la plaque repose papier
 
 Matériel :
 
-  * PAPER_support (contre-plaqué de 5mm découpée au laser).
+  * PAPER_support (contre-plaqué de 5mm découpé au laser).
   * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
 
-* Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant  et la maintenir fermement avec du ruban adhésif pendant la durée du séchage
+* Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant et la maintenir fermement avec du ruban adhésif pendant le temps de séchage.
 
 .. image :: ./IMG/BrailleRAP-V5.96.jpg
        :align: center
@@ -726,7 +726,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.98.jpg
        :align: center
 
-Montage des guides-papier sur la plaque
+Montage des guide-papiers sur la plaque
 ----------------------------------------
 
 Matériel :
@@ -738,7 +738,7 @@ Matériel :
   * 4 vis M3-16
   * 4 écrous M3 NYL
 
-.. NOTE:: Pour plus de clarté, nous avons isolé la partie concernée
+.. NOTE:: Pour plus de clarté, nous avons isolé la partie concernée.
 
 .. image :: ./IMG/BrailleRAP-V5.102.jpg
        :align: center
@@ -746,13 +746,13 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.101.jpg
        :align: center
 
-* Assembler les guides-papier sur la plaque avec les vis M3-16 et les écrous M3 NYL
+* Assembler les guide-papiers sur la plaque avec les vis M3-16 et les écrous M3 NYL.
 
 
 .. image :: ./IMG/BrailleRAP-V5.99.jpg
        :align: center
 
-* Vous devez obtenir une vue de dessus comme celle ci :
+* Vous devez obtenir une vue du dessus comme celle ci :
 
 
 .. image :: ./IMG/BrailleRAP-V5.100.jpg
@@ -766,7 +766,7 @@ Matériel :
        :align: center
 
 
-Montage des presse-papier :
+Montage des presse-papiers :
 ------------------------------
 
 Matériel :
@@ -798,7 +798,7 @@ Matériel :
   * 2 vis M3-14
   * 2 rondelles M3 moyennes
   * 2 écrous M3 NYL
-  * 1 interrupteur fin de course à lamelle.
+  * 1 interrupteur fin de course à lamelle
   * 2 vis M2.5-14
   * 2 écrous M2.5 NYL
 
@@ -819,7 +819,7 @@ Matériel :
 .. NOTE:: La position de l'interrupteur dans les trous oblongs sera réglée à la fin de l'assemblage et les vis serrées.
 
 
-* Assembler l'ensemble interrupteur fin de course et SWITCH_Y_support sur la caisse à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
+* Assembler l'ensemble interrupteur fin de course et le SWITCH_Y_support sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
 
 
 .. image :: ./IMG/BrailleRAP-V5.108.jpg
@@ -839,7 +839,7 @@ Matériel :
   * 4 vis M3-14
   * 4 écrous M3 NYL
 
-* Assembler les 2 LID_LOCK sur lcouvercle à l'aide des vis M3-14 des rondelles M3 et des écrous M3 NYL.
+* Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
 
 
 .. image :: ./IMG/BrailleRAP-V5.110.jpg
@@ -873,8 +873,8 @@ Matériel :
   * 4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les reçoit**
   * 8 vis M3-10
 
-* Assembler les 4 entretoises sur la carte  **AJOUTER IMAGE**
-* Assembler la carte sur la caisse  **AJOUTER IMAGE**
+* Assembler les 4 entretoises sur la carte.  **AJOUTER IMAGE**
+* Assembler la carte sur la caisse.  **AJOUTER IMAGE**
 
 
 
@@ -888,8 +888,8 @@ Matériel :
   * 2 Drivers DRV8825
   * 6 cavaliers
 
-* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y **AJOUTER IMAGE**
-* Enfoncer les drivers à leur emplacement  **AJOUTER IMAGE**
+* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**
+* Enfoncer les drivers dans leurs emplacements.  **AJOUTER IMAGE**
 
 
 Raccordement des moteurs à la carte
@@ -914,7 +914,7 @@ Alignement vertical des deux chariots
 * à faire
 
 
-* Serrer les poulies sur l’axe vertical **AJOUTER IMAGE**
+* Serrer les poulies sur l’axe vertical. **AJOUTER IMAGE**
 
 Alignement horizontal de l'emprunte du chariot haut
 ----------------------------------------------------
@@ -928,7 +928,7 @@ A ne pas oublier
 Réglage de la profondeur du point
 ----------------------------------------------------
 
-* Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette ), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à developper avec des exemples**
+* Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à développer avec des exemples**
 
 
 

@@ -766,12 +766,33 @@ Matériel :
        :align: center
 
 
-Montage des presse-papiers :
-------------------------------
+Montage des presse-papiers (étape 1) :
+----------------------------------------
 
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD 
+  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel 
+  * 2 vis M3-20
+  * 4 écrous M3 NYL
+
+
+* Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer la vis en laissant la possibilité à la roue de tourner.
+
+.. image :: ./IMG/BrailleRAP-V5.113.jpg
+       :align: center
+
+
+.. image :: ./IMG/BrailleRAP-V5.114.jpg
+       :align: center
+
+
+Montage des presse-papiers (étape 2) :
+----------------------------------------
+
+Matériel :
+
+  * 2 CLIPBOARD montés à l'étape 1
   * 4 vis M3-14
   * 4 rondelles M3 moyennes
   * 4 écrous M3 NYL

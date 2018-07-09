@@ -6,7 +6,7 @@
 Bienvenue sur la documentation BrailleRap-SP
 ============================================
 
-.. image :: ./IMG/braillerapV3_001.png 
+.. image :: ./IMG/brailleRAP_couv.jpg 
   :width: 400px
   :align: center
 

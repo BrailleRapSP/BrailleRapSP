@@ -3,9 +3,7 @@ Marlin Firmware pour cartes Ramps ou compatible
 
 
 
-Notes
------
-Le firmware marlin est utilisé pour controler l'embosseuse Braille. Nous utlisons la configuration CNC pour controler l'electro-aimant avec les commandes associées au moteur de CNC / stylo / laser (GCODE M3 et M4)
+.. Note:: Le firmware marlin est utilisé pour contrôler l'embosseuse Braille. Nous utilisons la configuration CNC pour contrôler l'électro-aimant avec les commandes associées au moteur de CNC / stylo / laser (GCODE M3 et M4)
 
 
 Configuration Marlin

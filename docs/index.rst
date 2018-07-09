@@ -23,7 +23,7 @@ Contenu:
    marlin
    firstembossingpage
    
-.. index:: history, licence, bom, marlin, assemblage, flybackboard, firstembossingpage
+.. index:: history, licence, bom, marlin, assemblage, firstembossingpage
 
 
 /////test

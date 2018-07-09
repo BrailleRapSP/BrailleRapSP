@@ -5,7 +5,7 @@ Découpe laser
 -------------
 2 planches de contreplaqué 5mm en 600mm x 400mm.
 
-les fichiers dxf sont ici
+Les fichiers dxf sont ici
 https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
 
 
@@ -13,49 +13,7 @@ Pièces imprimées
 -------------
 Toutes les pièces sont imprimées en ABS, 50% infill, 3 périmètres exterieurs. Nous utilisons le filament eSun ABS Natural.
 
-
-.. table:: Pièces imprimées
-    :widths: auto
-
-
- 
-    
-======================== === ===========================================================================================================
-Pièce                    Qté Fichier STL 
-======================== === ===========================================================================================================
-Y motor mount            0   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printedparts/Ymotor_mount.stl
-
-SCROLL_wheel             2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/SCROLL_wheel.stl
-KP08_support             1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/KP08_support.stl
-IGUS_housing             6   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/IGUS_housing.stl
-YMOTOR_support_220       1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/YMOTOR_support_220.stl
-YMOTOR_support_200       1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/YMOTOR_support_200.stl
-XMOTOR_support           1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/XMOTOR_support.stl
-ROLL_joint               3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/ROLL_joint.stl
-BOTTOM_trolley           1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/BOTTOM_trolley.stl
-ELECTRO_MAGNET_housing   1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/ELECTRO_MAGNET_housing.stl
-ELECTRO_MAGNET_guide     1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/ELECTRO_MAGNET_guide.stl
-TOP_trolley              1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/TOP_trolley.stl
-FEMALE_shape             1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/FEMALE_shape.stl
-TOP_AXIS                 2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/TOP_AXIS.stl
-LID_LOCK                 2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/LID_LOCK.stl
-BOTTOM_AXIS_left         1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/BOTTOM_AXIS_left.stl
-BOTTOM_AXIS_right        1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/BOTTOM_AXIS_right.stl
-DRIVEN_PULLEY_support    2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/DRIVEN_PULLEY_support.stl
-DRIVEN_PULLEY_housing    2   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/DRIVEN_PULLEY_housing.stl
-PAPER_GUIDE_left_1       1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/PAPER_GUIDE_left_1.stl
-PAPER_GUIDE_left_2       1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/PAPER_GUIDE_left_2.stl
-PAPER_GUIDE_right_1      1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/PAPER_GUIDE_right_1.stl
-PAPER_GUIDE_right_2      1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/PAPER_GUIDE_right_2.stl
-SWITCH_support           1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/SWITCH_support.stl
-PAPER_RAISER             3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/PAPER_RAISER.stl
-ENDSTOP_support          1   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/ENDSTOP_support.stl
-CLIPBOARD                3   https://github.com/BrailleRapSP/BrailleRapSP/blob/master/printed_parts/CLIPBOARD.stl
-
-...
-======================== === ===========================================================================================================
-
-
+Ajouter le lien pour le téléchargement de STL
 
 
 Pièces mécaniques

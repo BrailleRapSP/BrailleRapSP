@@ -1,5 +1,5 @@
-Marlin Firmware pour cartes Ramps ou compatible
-===============================================
+Marlin Firmware pour cartes Ramps ou compatibles
+================================================
 
 
 

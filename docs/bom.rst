@@ -5,13 +5,12 @@ Découpe laser
 -------------
 2 planches de contreplaqué 5mm en 600mm x 400mm.
 
-Les fichiers dxf sont ici
-https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
+Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut
 
 
 Pièces imprimées
 -------------
-Toutes les pièces sont imprimées en ABS, 50% infill, 3 périmètres exterieurs. Nous utilisons le filament eSun ABS Natural.
+Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres extérieurs. Nous utilisons le filament eSun ABS Natural.
 
 Ajouter le lien pour le téléchargement de STL
 
@@ -68,10 +67,7 @@ Electronique
 Qty Type
 === =========================================
 1   Electro-magnet *tau-826* 12V 2A
-1   Veroboard or stripboard
 1   1N4004  diode de roue libre ou equivalent (12V 2A)
-1   resistor 1K ohms
-1   led rouge
 1   Embase USB
 1   12v power supply 6A 
 === =========================================

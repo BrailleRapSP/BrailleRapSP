@@ -563,7 +563,7 @@
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 46, 4000, 500 } // pololu 16 microstep
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80 * 2, 90, 4000, 500 } // pololu 16 microstep with big roll
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80 * 2, 81, 4000, 500 } // pololu 16 microstep with big roll
 
 /**
  * Default Max Feed Rate (mm/s)

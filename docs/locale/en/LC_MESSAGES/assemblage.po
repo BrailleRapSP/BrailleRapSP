@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-16 12:57+0200\n"
-"PO-Revision-Date: 2018-07-16 15:58+0200\n"
+"PO-Revision-Date: 2018-07-16 16:23+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../source/assemblage.rst:2
 msgid "Manuel de montage BrailleRAP-SP"
-msgstr "BrailleRAP-SP Building manual"
+msgstr "Building manual BrailleRAP-SP"
 
 #: ../../source/assemblage.rst:6
 msgid "Collage de la caisse en bois"

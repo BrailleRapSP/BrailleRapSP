@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, braillerapsp@gmail.com
+# This file is distributed under the same license as the BraillerRapSP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BraillerRapSP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-16 12:57+0200\n"
+"PO-Revision-Date: 2018-07-16 14:34+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: ../../source/bom.rst:2
+msgid "Liste du matériel"
+msgstr "Bill Off Material"
+
+#: ../../source/bom.rst:5
+msgid "Découpe laser"
+msgstr "Laser cutting"
+
+#: ../../source/bom.rst:6
+msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
+msgstr "2 600mm x 400mm 5m plywood sheets"
+
+#: ../../source/bom.rst:8
+msgid ""
+"Les fichiers au format dxf sont disponibles ici : https://github.com/"
+"BrailleRapSP/BrailleRapSP/tree/master/lasercut"
+msgstr ""
+"The dxf files are availables here : https://github.com/BrailleRapSP/"
+"BrailleRapSP/tree/master/lasercut"
+
+#: ../../source/bom.rst:12
+msgid "Pièces imprimées"
+msgstr "Printed parts"
+
+#: ../../source/bom.rst:13
+#, python-format
+msgid ""
+"Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 "
+"périmètres extérieurs. Nous utilisons le filament eSun ABS Natural."
+msgstr ""
+"All printed parts are printed in ABS, 50% infill, 3 outside perimeters. "
+"We use eSun ABS Natural filament"
+
+#: ../../source/bom.rst:15
+msgid "Ajouter le lien pour le téléchargement de STL"
+msgstr "Add link for stl download"
+
+#: ../../source/bom.rst:19
+msgid "Pièces mécaniques"
+msgstr "Mechanical parts"
+
+#: ../../source/bom.rst:23 ../../source/bom.rst:67
+msgid "Qty"
+msgstr "Qty"
+
+#: ../../source/bom.rst:23 ../../source/bom.rst:67
+msgid "Type"
+msgstr "Type"
+
+#: ../../source/bom.rst:25 ../../source/bom.rst:55
+msgid "4"
+msgstr "4"
+
+#: ../../source/bom.rst:25
+msgid "8mm linear shaft 330 mm length"
+msgstr "8mm linear shaft 330 mm length"
+
+#: ../../source/bom.rst:26 ../../source/bom.rst:27 ../../source/bom.rst:38
+#: ../../source/bom.rst:42 ../../source/bom.rst:45 ../../source/bom.rst:69
+#: ../../source/bom.rst:70 ../../source/bom.rst:71 ../../source/bom.rst:72
+msgid "1"
+msgstr "1"
+
+#: ../../source/bom.rst:26
+msgid "8mm linear shaft 365 mm length"
+msgstr "8mm linear shaft 365 mm length"
+
+#: ../../source/bom.rst:27
+msgid "8mm linear shaft *100 mm* length"
+msgstr "8mm linear shaft *100 mm* length"
+
+#: ../../source/bom.rst:29
+msgid "6"
+msgstr "6"
+
+#: ../../source/bom.rst:29
+msgid "RJ4JP-01-08 Polimer linear bearing"
+msgstr "RJ4JP-01-08 Polimer linear bearing"
+
+#: ../../source/bom.rst:32 ../../source/bom.rst:57 ../../source/bom.rst:58
+msgid "3"
+msgstr "3"
+
+#: ../../source/bom.rst:32
+msgid "GT2 poulie 20 dents pour axe 8mm"
+msgstr "GT2 pulley 20 teeth 8mm bore"
+
+#: ../../source/bom.rst:33 ../../source/bom.rst:35 ../../source/bom.rst:36
+#: ../../source/bom.rst:40 ../../source/bom.rst:43 ../../source/bom.rst:46
+msgid "2"
+msgstr "2"
+
+#: ../../source/bom.rst:33
+msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
+msgstr "GT2 free pulley 20 teeth bore 3mm (with bearing)"
+
+#: ../../source/bom.rst:35
+msgid "KP08  pallier horizontal pour rail linéaire 8mm"
+msgstr "KP08 linear bearing for 8mm linear shaft"
+
+#: ../../source/bom.rst:36
+msgid "KFL08 pallier vertical pour rail linéaire 8mm"
+msgstr "KFL08 vertical bearing for 8mm linear shaft"
+
+#: ../../source/bom.rst:38
+msgid "Acouplement d'axe 5mm/8mm"
+msgstr "5mm/8mm coupling"
+
+#: ../../source/bom.rst:40
+msgid "Nema 17 40 N/cm avec cable"
+msgstr "Nema 17 40N/cm with cable"
+
+#: ../../source/bom.rst:42
+msgid "Courroie GT2 fermée 200 mm"
+msgstr "Closed GT2 belt 200 mm"
+
+#: ../../source/bom.rst:43
+msgid "630 mm de courroie GT2"
+msgstr "GT2 belt 630 mm"
+
+#: ../../source/bom.rst:45
+msgid "MKS GEN 1.4 ou carte compatible Ramps 1.4"
+msgstr "MKS GEN 1.4 or Ramps 1.4 compatible board"
+
+#: ../../source/bom.rst:46
+msgid "drivers DRV8825 avec radiateur"
+msgstr "DRV8825 drivers with cooling radiator"
+
+#: ../../source/bom.rst:48 ../../source/bom.rst:49 ../../source/bom.rst:50
+#: ../../source/bom.rst:51 ../../source/bom.rst:52 ../../source/bom.rst:54
+msgid "x"
+msgstr "x"
+
+#: ../../source/bom.rst:48
+msgid "BTR M3 5mm"
+msgstr "BTR M3 5mm"
+
+#: ../../source/bom.rst:49
+msgid "BTR M3 10mm"
+msgstr "BTR M3 10mm"
+
+#: ../../source/bom.rst:50
+msgid "M3 nuts"
+msgstr "M3 nuts"
+
+#: ../../source/bom.rst:51
+msgid "M3 nylstop nuts"
+msgstr "M3 nylstop nuts"
+
+#: ../../source/bom.rst:52
+msgid "M3 washer"
+msgstr "M3 washer"
+
+#: ../../source/bom.rst:54
+msgid "BTR M4 10"
+msgstr "BTR M4 10"
+
+#: ../../source/bom.rst:55
+msgid "BTR M4 50mm partially threaded."
+msgstr "BTR M4 50mm partially threaded."
+
+#: ../../source/bom.rst:57
+msgid ""
+"Joints torique 15.1 mm diametre interieur 20.5 mm de diamètre exterieur "
+"(15.1 x 20.5 x 2.7)"
+msgstr ""
+"O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x "
+"2.7)"
+
+#: ../../source/bom.rst:58
+msgid "Clapets de robinet dimension 4x16x6 mm"
+msgstr ""
+
+#: ../../source/bom.rst:59
+msgid "..."
+msgstr ""
+
+#: ../../source/bom.rst:64
+msgid "Electronique"
+msgstr "Electronics"
+
+#: ../../source/bom.rst:69
+msgid "Electro-magnet *tau-826* 12V 2A"
+msgstr "Electro-magnet *tau-826* 12V 2A"
+
+#: ../../source/bom.rst:70
+msgid "1N4004  diode de roue libre ou equivalent (12V 2A)"
+msgstr "1N4004  flyback diode  (12V 2A)"
+
+#: ../../source/bom.rst:71
+msgid "Embase USB"
+msgstr "USB connector"
+
+#: ../../source/bom.rst:72
+msgid "12v power supply 6A"
+msgstr "12v power supply 6A"

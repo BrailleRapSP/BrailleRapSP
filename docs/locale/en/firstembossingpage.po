@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, braillerapsp@gmail.com
+# This file is distributed under the same license as the BraillerRapSP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BraillerRapSP \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-16 12:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/firstembossingpage.rst:2
+msgid "Embosser votre première page de Braille"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:6
+msgid ""
+"BrailleRapSP est est machine qui se pilote en G-CODE, pour embosser du "
+"braille il faut tout d'abord traduire le texte en Braille. Il existe 2 "
+"solutions pour traduire le Braille : L'application BrailleRap en ligne "
+"https://crocsg.github.io/BrailleRap/ L'application NatBraille "
+"http://natbraille.free.fr"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:13
+msgid "Utilisation de l'application BrailleRap"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:15
+msgid "Aller sur la page https://crocsg.github.io/BrailleRap/"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:19
+msgid ""
+"Entrer votre texte à l'endroit indiquer, et télécharger ensuite le "
+"fichier GCODE contenant les instructions pour l'embosseuse"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:24
+msgid ""
+"Vous pouvez ensuite utiliser un logiciel comme **cura** ou "
+"**pronterface** pour envoyer le fichier GCODEà l'imprimante"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:29
+msgid "Configuration NatBraille"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:31
+msgid "Compiler les programmes dans le repertoire NatBrailleTools du projet"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:33
+msgid ""
+"Dans les options générales NatBraille, utiliser **CBFr1252** pour la "
+"table braille, Encodage document noir **Automtique**, Encodage document "
+"braille **Windows1252**"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:38
+msgid ""
+"Dans les options d'embossage, utiliser **CBFr1252** pour la table braille"
+" pour l'embossage"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:40
+msgid "Activer l'option **utiliser une command systeme pour l'embossage**"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:42
+msgid ""
+"le paramêtre  pour commande d'impression est : **java -jar "
+"d:\\\\usr\\\\home\\\\logger\\\\BrailleLogger.jar $f | java -jar "
+"d:\\\\usr\\\\home\\\\logger\\\\gcodestreamer.jar COM4 250000** en "
+"modifiant eventuellement les repertoires d'installation des programmes "
+"COM4 est le port serie utilisé pour communiquer avec l'imprimante"
+msgstr ""
+
+#: ../../source/firstembossingpage.rst:50
+msgid ""
+"Dans les options de mise en page, indiquer 31 et 26 dans le nombre de "
+"caracter par ligne et le nombre de lignes par page"
+msgstr ""
+

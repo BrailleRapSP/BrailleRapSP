@@ -25,7 +25,7 @@ msgstr "BrailleRAP-SP Assembly Manual"
 
 #: ../../assemblage.rst:6
 msgid "Collage de la caisse en bois"
-msgstr ""
+msgstr "Gluing the box"
 
 #: ../../assemblage.rst:8 ../../assemblage.rst:31 ../../assemblage.rst:46
 msgid "Matériel:"

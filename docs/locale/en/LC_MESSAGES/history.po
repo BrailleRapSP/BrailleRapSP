@@ -1,32 +1,32 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-{}, BrailleRap-SP Team
-# This file is distributed under the same license as the BrailleRap-SP
+# Copyright (C) 2018, braillerapsp@gmail.com
+# This file is distributed under the same license as the BraillerRapSP
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: BrailleRap-SP 1.0\n"
+"Project-Id-Version: BraillerRapSP \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-14 16:43+0200\n"
+"POT-Creation-Date: 2018-07-16 12:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: ../../history.rst:2
+#: ../../source/history.rst:2
 msgid "Historique du projet"
 msgstr ""
 
-#: ../../history.rst:5
+#: ../../source/history.rst:5
 msgid "Le commencement"
 msgstr ""
 
-#: ../../history.rst:7
+#: ../../source/history.rst:7
 msgid ""
 "En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium "
 "en collaboration avec Airbus Industrie. Pendant le Fabrikarium plusieurs "
@@ -38,18 +38,18 @@ msgid ""
 "/documentation-en.md>`_."
 msgstr ""
 
-#: ../../history.rst:11
+#: ../../source/history.rst:11
 msgid ""
 "Dans l'equipe de BrailleRAP-SP nous pensions que ces travaux êtaient une "
 "démonstration de faisabilité, mais qu'il fallait mieux mettre au point "
 "une machine spécialisée facile à reproduire."
 msgstr ""
 
-#: ../../history.rst:15
+#: ../../source/history.rst:15
 msgid "OpenBraille"
 msgstr ""
 
-#: ../../history.rst:16
+#: ../../source/history.rst:16
 msgid ""
 "En 2017 Carlos Campos démarre le projet OpenBraille et construit une "
 "embosseuse braille à partir de pièces d'imprimante recyclées. Le projet "
@@ -57,11 +57,11 @@ msgid ""
 "suffisamment de précision dans une embosseuse braille."
 msgstr ""
 
-#: ../../history.rst:20
+#: ../../source/history.rst:20
 msgid "BrailleRap-SP"
 msgstr ""
 
-#: ../../history.rst:21
+#: ../../source/history.rst:21
 msgid ""
 "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des "
 "moteurs Nema et des pièces imprimées pour essayer de réaliser une "

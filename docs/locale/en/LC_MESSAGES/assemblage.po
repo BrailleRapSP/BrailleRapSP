@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-16 12:57+0200\n"
-"PO-Revision-Date: 2018-07-16 16:23+0200\n"
+"PO-Revision-Date: 2018-07-16 18:04+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -456,7 +456,6 @@ msgid ""
 "Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de "
 "l’entretoise."
 msgstr ""
-"84/5000\n"
 "Tighten the M3-12 screw with the needle punched out, allowing it to extend ± "
 "6mm beyond the spacer."
 
@@ -515,9 +514,7 @@ msgstr "Fix the electromagnet on its support with the 2 screws M3-8."
 
 #: ../../source/assemblage.rst:269
 msgid "Respecter le côté de sortie des fils."
-msgstr ""
-"37/5000\n"
-"Observe the exit side of the wires."
+msgstr "Observe the exit side of the wires."
 
 #: ../../source/assemblage.rst:274
 msgid "Introduire les 3 IGUS dans leur logement (IGUS_housing)."
@@ -525,9 +522,7 @@ msgstr "Introduce the 3 IGUS in their housing (IGUS_housing)."
 
 #: ../../source/assemblage.rst:276
 msgid "Respecter le côté du rainurage."
-msgstr ""
-"31/5000\n"
-"Respect the grooving side."
+msgstr "Respect the grooving side."
 
 #: ../../source/assemblage.rst:281
 msgid ""

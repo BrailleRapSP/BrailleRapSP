@@ -29,7 +29,7 @@ msgstr "FACE (5mm laser cut plywood)."
 
 #: ../../source/assemblage.rst:11
 msgid "BACK (contre-plaqué de 5mm découpé au laser)."
-msgstr "BACK ().5mm laser cut plywood"
+msgstr "BACK (5mm laser cut plywood)."
 
 #: ../../source/assemblage.rst:12
 msgid "BOTTOM (contre-plaqué de 5mm découpé au laser)."
@@ -196,9 +196,7 @@ msgstr "8 M3-12 screw"
 
 #: ../../source/assemblage.rst:106
 msgid "Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8."
-msgstr ""
-"192/5000\n"
-"Depending on the print quality of the plastic parts, make sure that the 8mm bars can slide easily into their housings. If necessary, drill the hole with a drill of 8."
+msgstr "Depending on the print quality of the plastic parts, make sure that the 8mm bars can slide easily into their housings. If necessary, drill the hole with a drill of 8."
 
 #: ../../source/assemblage.rst:108
 msgid "Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis sans tête M3-12."
@@ -210,9 +208,7 @@ msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 
 #: ../../source/assemblage.rst:122
 msgid "Fixation des supports GAUCHES des axes"
-msgstr ""
-"38/5000\n"
-"Fixing the LEFT supports of the axes"
+msgstr "Fixing the LEFT supports of the axes"
 
 #: ../../source/assemblage.rst:126
 msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
@@ -368,7 +364,7 @@ msgstr "Pre-assembled electromagnet assembly (see Preparing the electromagnet)"
 
 #: ../../source/assemblage.rst:255
 msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley"
-msgstr "**3D printed part** : BOTTOM_trolley"
+msgstr "** 3D printed part ** : BOTTOM_trolley"
 
 #: ../../source/assemblage.rst:256
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing"

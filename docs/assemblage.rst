@@ -208,12 +208,12 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support 
   * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
-  * 1 vis sans tête M3-12
+  * 1 vis sans tête M3-8
   * 1 écrou M3
-  * 2 vis M2.5-12 **Michel, on t'a mis des M2.5-14 ;)**
+  * 2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**
   * 2 écrous M2.5
 
-* Introduire un écrou M3 et visser une vis sans tête M3-12.
+* Introduire un écrou M3 et visser une vis sans tête M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.57.jpg
        :align: center
@@ -892,6 +892,7 @@ Matériel :
 
   * Carte MKS GEN 1.4
   * 4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les reçoit**
+  * 4 rondelles M3 moyennes
   * 8 vis M3-10
 
 * Assembler les 4 entretoises sur la carte.  **AJOUTER IMAGE**

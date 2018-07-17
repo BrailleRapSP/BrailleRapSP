@@ -3,9 +3,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
+"X-Generator: Poedit 1.8.11\n"
 "Project-Id-Version: test\n"
 "Language: en\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: ../../source/assemblage.rst:2
 msgid "Manuel de montage BrailleRAP-SP"
@@ -192,7 +196,8 @@ msgstr "8 M3-12 screw"
 
 #: ../../source/assemblage.rst:106
 msgid "Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8."
-msgstr "192/5000\n"
+msgstr ""
+"192/5000\n"
 "Depending on the print quality of the plastic parts, make sure that the 8mm bars can slide easily into their housings. If necessary, drill the hole with a drill of 8."
 
 #: ../../source/assemblage.rst:108
@@ -205,7 +210,8 @@ msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 
 #: ../../source/assemblage.rst:122
 msgid "Fixation des supports GAUCHES des axes"
-msgstr "38/5000\n"
+msgstr ""
+"38/5000\n"
 "Fixing the LEFT supports of the axes"
 
 #: ../../source/assemblage.rst:126
@@ -1140,4 +1146,3 @@ msgstr "Adjusting the depth of the point"
 #: ../../source/assemblage.rst:952
 msgid "Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à développer avec des exemples**"
 msgstr "Depending on the material you will use (paper, plastic, aluminum bobbin), you will need to adjust the height of the borrows of the high carriage using the blind nut ** to be developed with examples **"
-

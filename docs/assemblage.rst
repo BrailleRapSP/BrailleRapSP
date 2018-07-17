@@ -362,7 +362,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
        
-* Visser l’ensemble moteur/support sur la caisse en laissant du jeu.
+* Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16en laissant du jeu.
 
 .. image :: ./IMG/BrailleRAP-V5.32.1.jpg
        :align: center

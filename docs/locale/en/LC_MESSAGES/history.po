@@ -4,39 +4,46 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: BraillerRapSP \n"
+"Project-Id-Version: BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-16 12:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-07-17 08:38+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: ../../source/history.rst:2
 msgid "Historique du projet"
-msgstr ""
+msgstr "Project history"
 
 #: ../../source/history.rst:5
 msgid "Le commencement"
-msgstr ""
+msgstr "The beginning"
 
 #: ../../source/history.rst:7
 msgid ""
 "En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium "
 "en collaboration avec Airbus Industrie. Pendant le Fabrikarium plusieurs "
-"travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser"
-" du Braille `sur du papier 160g "
-"<https://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-"
-"mondes/>`_, Le projet s'appelait `BrailleRap "
-"<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
-"/documentation-en.md>`_."
+"travaux ont été réalisés pour modifier des imprimantes 3D afin "
+"d'embosser du Braille `sur du papier 160g <https://myhumankit.org/"
+"actualite/fabrikarium-2016-au-croisement-des-mondes/>`_, Le projet "
+"s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/"
+"master/Documentation/documentation-en.md>`_."
 msgstr ""
+"In 2016 MyHumanKit association organizes a hackaton called Fabrikarium "
+"in collaboration with Airbus Industrie. During the Fabrikarium several "
+"works have been done to modify 3D printers in order to emboss Braille "
+"`on 160g paper <https://myhumankit.org/news/fabrikarium-2016-in-the-"
+"cross-of-the-world/>` _ The project was called `BrailleRap <https://"
+"github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-"
+"en.md>` _."
 
 #: ../../source/history.rst:11
 msgid ""
@@ -44,10 +51,13 @@ msgid ""
 "démonstration de faisabilité, mais qu'il fallait mieux mettre au point "
 "une machine spécialisée facile à reproduire."
 msgstr ""
+"In the BrailleRAP-SP team we thought that this work was a demonstration "
+"of feasibility, but that it was better to develop a specialized machine "
+"that was easy to reproduce."
 
 #: ../../source/history.rst:15
 msgid "OpenBraille"
-msgstr ""
+msgstr "OpenBraille"
 
 #: ../../source/history.rst:16
 msgid ""
@@ -56,10 +66,14 @@ msgid ""
 "démontre qu'il est possible de déplacer une feuille de papier avec "
 "suffisamment de précision dans une embosseuse braille."
 msgstr ""
+"In 2017 Carlos Campos starts the OpenBraille project and builds a "
+"braille embosser from recycled printer parts. The project demonstrates "
+"that it is possible to move a sheet of paper with enough precision in a "
+"braille embosser."
 
 #: ../../source/history.rst:20
 msgid "BrailleRap-SP"
-msgstr ""
+msgstr "BrailleRap-SP"
 
 #: ../../source/history.rst:21
 msgid ""
@@ -69,4 +83,7 @@ msgid ""
 "montrer des exemples de textes embossés en Braille, et tout le monde "
 "était très enthousiastes. Le projet BrailleRAP-SP était né."
 msgstr ""
-
+"In January 2018, we started with some linear rails, Nema motors and "
+"printed parts to try to make a braille embosser. A few tries later, we "
+"started to show examples of Braille embossed texts, and everyone was "
+"very excited. The BrailleRAP-SP project was born."

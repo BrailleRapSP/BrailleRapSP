@@ -669,7 +669,7 @@ msgstr "Mounting the Y axis (step 1)"
 
 #: ../../source/assemblage.rst:489
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint"
-msgstr "** Piece (s) printed in 3D **: 2 x ROLL_joint"
+msgstr "** 3D printed parts**: 2 x ROLL_joint"
 
 #: ../../source/assemblage.rst:490
 msgid "1 taraud M3"
@@ -745,7 +745,7 @@ msgstr "Wheel assembly"
 
 #: ../../source/assemblage.rst:553
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel"
-msgstr "** Piece (s) printed in 3D **: 2 x SCROLL_wheel"
+msgstr "** 3D printed parts **: 2 x SCROLL_wheel"
 
 #: ../../source/assemblage.rst:554
 msgid "2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**"
@@ -797,11 +797,11 @@ msgstr "Mounting the top cart (step 1)"
 
 #: ../../source/assemblage.rst:598
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_trolley"
-msgstr "** Piece (s) printed in 3D **: TOP_trolley"
+msgstr "** 3D printed parts **: TOP_trolley"
 
 #: ../../source/assemblage.rst:599
 msgid "**Pièce(s) imprimée(s) en 3D** : FEMALE_shape"
-msgstr "** Piece (s) printed in 3D **: FEMALE_shape"
+msgstr "** 3D printed parts **: FEMALE_shape"
 
 #: ../../source/assemblage.rst:600
 msgid "Taraud M3"
@@ -895,7 +895,7 @@ msgstr "PAPER_support (laser cut 5mm plywood)."
 
 #: ../../source/assemblage.rst:701 ../../source/assemblage.rst:716
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser"
-msgstr "** Piece (s) printed in 3D **: 2 PAPER_raiser"
+msgstr "** 3D printed parts **: 2 PAPER_raiser"
 
 #: ../../source/assemblage.rst:702
 msgid "4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**"
@@ -919,19 +919,19 @@ msgstr "Assembling the paper guides on the plate"
 
 #: ../../source/assemblage.rst:734
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_1"
-msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_left_1"
+msgstr "** 3D printed parts **: PAPER_GUIDE_left_1"
 
 #: ../../source/assemblage.rst:735
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_2"
-msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_left_2"
+msgstr "** 3D printed parts ** PAPER_GUIDE_left_2"
 
 #: ../../source/assemblage.rst:736
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_1"
-msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_right_1"
+msgstr "** 3D printed parts **: PAPER_GUIDE_right_1"
 
 #: ../../source/assemblage.rst:737
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_2"
-msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_right_2"
+msgstr "** 3D printed parts **: PAPER_GUIDE_right_2"
 
 #: ../../source/assemblage.rst:738
 msgid "4 vis M3-16"
@@ -959,11 +959,11 @@ msgstr "Assembly of the paperweights (step 1):"
 
 #: ../../source/assemblage.rst:774
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD"
-msgstr "** Piece (s) printed in 3D **: 2 CLIPBOARD"
+msgstr "** 3D printed parts **: 2 CLIPBOARD"
 
 #: ../../source/assemblage.rst:775
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel"
-msgstr "** Piece (s) printed in 3D **: 2 CLIPBOARD_wheel"
+msgstr "** 3D printed parts **: 2 CLIPBOARD_wheel"
 
 #: ../../source/assemblage.rst:780
 msgid "Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer la vis en laissant la possibilité à la roue de tourner."
@@ -996,7 +996,7 @@ msgstr "Assembly of the Y limit switch"
 
 #: ../../source/assemblage.rst:818
 msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support"
-msgstr "** Piece (s) printed in 3D **: SWITCH_Y_support"
+msgstr "** 3D printed parts **: SWITCH_Y_support"
 
 #: ../../source/assemblage.rst:819
 msgid "2 vis M3-14"
@@ -1036,7 +1036,7 @@ msgstr "Fixing the clips on the lid"
 
 #: ../../source/assemblage.rst:859
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK"
-msgstr "** Piece (s) printed in 3D **: 2 LID_LOCK"
+msgstr "** 3D printed parts **: 2 LID_LOCK"
 
 #: ../../source/assemblage.rst:863
 msgid "Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
@@ -1048,7 +1048,7 @@ msgstr "Fixing the plate for the power supply base"
 
 #: ../../source/assemblage.rst:881
 msgid "**Pièce(s) imprimée(s) en 3D** : POWER_plate"
-msgstr "** Piece (s) printed in 3D **: POWER_plate"
+msgstr "** 3D printed parts **: POWER_plate"
 
 #: ../../source/assemblage.rst:885
 msgid "**AJOUTER IMAGE**"

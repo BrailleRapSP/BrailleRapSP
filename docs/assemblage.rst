@@ -46,7 +46,7 @@ Préparation du pointeau mâle
 Matériel : 
 
     * 1 lime pour métaux ou de la toile émeri ou une Dremel
-    * 1 vis sans tête M3-10 bout téton
+    * 1 vis sans tête M3-16 bout téton
 
 * Limer l'arête du téton afin d’obtenir un profil approchant celui illustré.
 
@@ -377,7 +377,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 X KP08_support
   * 2 KP08 
-  * 4 vis M5-22
+  * 4 vis M5-25
   * 4 rondelles M5
   * 4 écrous M5 NYL
 
@@ -386,7 +386,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
        
-* Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse avec les vis M5-22, les rondelles M5 et les écrous M5 NYL.
+* Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse avec les vis M5-25, les rondelles M5 et les écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.34.1.jpg
        :align: center
@@ -489,7 +489,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint 
   * 1 taraud M3  
   * 2 joints toriques
-  * 2 vis M3-6 sans tête
+  * 2 vis M3-6 sans tête bout pointeau
   * 2 KFL8
   * 4 vis M5-18
   * 4 écrous M5 NYL

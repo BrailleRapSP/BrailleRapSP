@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Braille encoder class
+ * 
  * @author crocsg
  *
  */
@@ -69,6 +70,7 @@ public class Braille2GcodeEncoder {
 		this.encoder = encoder;
 	}
 	
+	
 	public void startPage ()
 	{
 		pagedot = new ArrayList <Point2D.Float> ();
@@ -81,6 +83,9 @@ public class Braille2GcodeEncoder {
 		 
 	}
 	
+	/**
+	 * Complete GCode encoding for the current page
+	 */
 	public void endPage ()
 	{
 		if ( ! pagedot.isEmpty())
@@ -113,6 +118,10 @@ public class Braille2GcodeEncoder {
 		}
 	}
 	
+	
+	/**
+	 * Start a new line
+	 */
 	public void startLine ()
 	{
 		linedot = new ArrayList <ArrayList <Point2D.Float>> ();
@@ -125,6 +134,11 @@ public class Braille2GcodeEncoder {
 		bufline = "";
 	}
 	
+	
+	/**
+	 * @param p Dot position in Braille character
+	 * @return Absolute position on page
+	 */
 	private Point2D.Float getDotAbsolutePosition(Point p)
 	{
 		Point2D.Float absolute = new Point2D.Float();
@@ -134,15 +148,27 @@ public class Braille2GcodeEncoder {
 		return absolute;
 	}
 	
+	/**
+	 * Update fields for next Braille character
+	 */
 	private void nextCellPosition ()
 	{
 		this.position_x += Braille_cell_padding; 
 	}
 	
+	
+	/**
+	 * Update fields for next line of Braille characters
+	 */
 	private void nextLinePosition ()
 	{
 		this.position_y += Braille_line_padding;
 	}
+	
+	
+	/**
+	 * End Braille characters line
+	 */
 	private void endLine ()
 	{
 		ArrayList<Point> dots;
@@ -175,15 +201,27 @@ public class Braille2GcodeEncoder {
 		nextLinePosition();
 	}
 	
+	/**
+	 * Add a character in page buffer to encode in Braille 
+	 * @param a character to add
+	 */
 	private void addCharToBuffer (char a)
 	{
 		bufline += a;
 	}
 	
+	/**
+	 * Initialize Braille encoder
+	 */
 	public void Open ()
 	{
 		startPage ();
 	}
+	
+	/*
+	 * Process a character
+	 * @param a character to process
+	 */
 	public void processChar (char a)
 	{
 		if (a == '\n')
@@ -203,6 +241,9 @@ public class Braille2GcodeEncoder {
 		
 	}
 	
+	/**
+	 * CloseBraille encoder
+	 */
 	public void Close ()
 	{
 		endLine ();
@@ -210,7 +251,9 @@ public class Braille2GcodeEncoder {
 	}
 
 
-
+	/*
+	 * Request a new page 
+	 */
 	public void requestNewPage() {
 		newpage = true;
 		pageAvailable = false;

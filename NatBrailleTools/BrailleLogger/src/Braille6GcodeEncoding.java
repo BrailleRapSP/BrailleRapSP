@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * @author lenovo
  *
  */
-public class Braille6GcodeEncoding implements BrailleGodeEncoding {
+public class Braille6GcodeEncoding implements BrailleGcodeEncoding {
 	private static final BrailleGcodeDot[] dot =  new BrailleGcodeDot[] {
 			new BrailleGcodeDot('a', new int[] {1}),
 			new BrailleGcodeDot('b', new int[] {1,2}),
@@ -80,8 +80,9 @@ public class Braille6GcodeEncoding implements BrailleGodeEncoding {
 		new BrailleGcodeDot('û', new int[]{1, 5, 6}),
 		new BrailleGcodeDot('ü', new int[]{1, 2, 5, 6}),
 		
-		new BrailleGcodeDot('¨', new int[]{1, 3}), // Majuscule NatBraille
-		new BrailleGcodeDot('`', new int[]{3, 4, 5, 6}) // Chiffres NatBraille
+		new BrailleGcodeDot('¨', new int[]{4, 6}), // Majuscule NatBraille
+		new BrailleGcodeDot('`', new int[]{6}), // Chiffres NatBraille
+		new BrailleGcodeDot('\"', new int[]{2, 3, 5, 6}) // Chiffres NatBraille
 			 
 	};
 	

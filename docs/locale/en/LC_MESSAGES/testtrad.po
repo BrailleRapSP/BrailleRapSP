@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-16 12:57+0200\n"
-"PO-Revision-Date: 2018-07-17 09:50+0200\n"
+"PO-Revision-Date: 2018-07-16 14:22+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,14 +19,10 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 1.8.11\n"
 
-#: ../../source/index.rst:7
-msgid "Bienvenue sur la documentation BrailleRAP-SP"
-msgstr "Welcome to BrailleRAP-SP documentation"
+#: ../../source/testtrad.rst:2
+msgid "Test de traduction avec outils sphinx"
+msgstr "Translation test with sphinx tools"
 
-#: ../../source/index.rst:13
-msgid "Contenu:"
-msgstr "Content:"
-
-#: ../../source/index.rst:28
-msgid "/////test"
-msgstr ""
+#: ../../source/testtrad.rst:4
+msgid "est ce que 'RTFD'genere correctement les fichiers .po ?"
+msgstr "is 'RTFD' handling .po files ?"

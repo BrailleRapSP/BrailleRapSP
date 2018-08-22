@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, braillerapsp@gmail.com
+# This file is distributed under the same license as the BraillerRapSP
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BraillerRapSP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-16 12:57+0200\n"
+"PO-Revision-Date: 2018-07-19 20:44+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: ../../source/firstembossingpage.rst:2
+msgid "Embosser votre première page de Braille"
+msgstr "Emboss your first page of Braille"
+
+#: ../../source/firstembossingpage.rst:6
+msgid ""
+"BrailleRapSP est est machine qui se pilote en G-CODE, pour embosser du "
+"braille il faut tout d'abord traduire le texte en Braille. Il existe 2 "
+"solutions pour traduire le Braille : L'application BrailleRap en ligne "
+"https://crocsg.github.io/BrailleRap/ L'application NatBraille http://"
+"natbraille.free.fr"
+msgstr ""
+"BrailleRapSP is a machine which is piloted in G-CODE, to emboss braille "
+"it is necessary first of all to translate the text in Braille. There are "
+"2 solutions to translate Braille: The BrailleRap application online "
+"https://crocsg.github.io/BrailleRap/ The NatBraille application http://"
+"natbraille.free.fr"
+
+#: ../../source/firstembossingpage.rst:13
+msgid "Utilisation de l'application BrailleRap"
+msgstr "Using the BrailleRap app"
+
+#: ../../source/firstembossingpage.rst:15
+msgid "Aller sur la page https://crocsg.github.io/BrailleRap/"
+msgstr "Go to https://crocsg.github.io/BrailleRap/"
+
+#: ../../source/firstembossingpage.rst:19
+msgid ""
+"Entrer votre texte à l'endroit indiquer, et télécharger ensuite le "
+"fichier GCODE contenant les instructions pour l'embosseuse"
+msgstr ""
+"Enter your text where indicated, and then download the GCODE file "
+"containing the instructions for the embosser"
+
+#: ../../source/firstembossingpage.rst:24
+msgid ""
+"Vous pouvez ensuite utiliser un logiciel comme **cura** ou "
+"**pronterface** pour envoyer le fichier GCODEà l'imprimante"
+msgstr ""
+"You can then use software like **cura** or **pronterface** to send the "
+"GCODE file to the printer"
+
+#: ../../source/firstembossingpage.rst:29
+msgid "Configuration NatBraille"
+msgstr "NatBraille configuration"
+
+#: ../../source/firstembossingpage.rst:31
+msgid "Compiler les programmes dans le repertoire NatBrailleTools du projet"
+msgstr "Compile programs in the project's NatBrailleTools directory"
+
+#: ../../source/firstembossingpage.rst:33
+msgid ""
+"Dans les options générales NatBraille, utiliser **CBFr1252** pour la "
+"table braille, Encodage document noir **Automtique**, Encodage document "
+"braille **Windows1252**"
+msgstr ""
+"In the general NatBraille options, use **CBFr1252** for the Braille "
+"table, Black Document Encoding **Automated**, Braille Document Encoding "
+"**Windows1252**"
+
+#: ../../source/firstembossingpage.rst:38
+msgid ""
+"Dans les options d'embossage, utiliser **CBFr1252** pour la table braille "
+"pour l'embossage"
+msgstr ""
+"In embossing options, use **CBFr1252** for braille table for embossing"
+
+#: ../../source/firstembossingpage.rst:40
+msgid "Activer l'option **utiliser une command systeme pour l'embossage**"
+msgstr "Enable option ** use a command system for embossing **"
+
+#: ../../source/firstembossingpage.rst:42
+msgid ""
+"le paramêtre  pour commande d'impression est : **java -jar d:\\\\usr\\"
+"\\home\\\\logger\\\\BrailleLogger.jar $f | java -jar d:\\\\usr\\\\home\\"
+"\\logger\\\\gcodestreamer.jar COM4 250000** en modifiant eventuellement "
+"les repertoires d'installation des programmes COM4 est le port serie "
+"utilisé pour communiquer avec l'imprimante"
+msgstr ""
+"the print command setting is: **java -jar d: \\\\ usr \\\\ home \\\\ "
+"logger \\\\ BrailleLogger.jar $ f | java -jar d: \\\\ usr \\\\ home \\\\ "
+"logger \\\\ gcodestreamer.jar COM4 250000** possibly modifying the "
+"installation directories of programs COM4 is the serial port used to "
+"communicate with the printer"
+
+#: ../../source/firstembossingpage.rst:50
+msgid ""
+"Dans les options de mise en page, indiquer 31 et 26 dans le nombre de "
+"caracter par ligne et le nombre de lignes par page"
+msgstr ""
+"In the layout options, enter 31 and 26 in the number of characters per "
+"line and the number of lines per page"

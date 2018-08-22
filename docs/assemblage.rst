@@ -105,7 +105,7 @@ Préparation de supports d’axes
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
 
-* Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis sans tête M3-12.
+* Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
        :align: center

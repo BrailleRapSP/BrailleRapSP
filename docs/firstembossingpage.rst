@@ -30,12 +30,12 @@ Configuration NatBraille
 
 Compiler les programmes dans le repertoire NatBrailleTools du projet
 
-Dans les options générales NatBraille, utiliser **CBFr1252** pour la table braille, Encodage document noir **Automtique**, Encodage document braille **Windows1252**
+Dans les options générales NatBraille, utiliser **TbFr2007** pour la table braille, Encodage document noir **Automtique**, Encodage document braille **Windows1252**
 
 .. image :: ./IMG/natbraille.png
        :align: center
 
-Dans les options d'embossage, utiliser **CBFr1252** pour la table braille pour l'embossage
+Dans les options d'embossage, utiliser **TbFr2007** pour la table braille pour l'embossage
 
 Activer l'option **utiliser une command systeme pour l'embossage**
 

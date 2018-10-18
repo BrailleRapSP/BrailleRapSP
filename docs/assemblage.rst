@@ -335,9 +335,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.51.4.jpg
        :align: center
 
-.. image :: ./IMG/BrailleRAP-V5.51.5.jpg
-       :align: center
-
 * Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.
 
 .. image :: ./IMG/BrailleRAP-V5.51.6.jpg

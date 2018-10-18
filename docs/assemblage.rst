@@ -43,7 +43,7 @@ Matériel:
 Préparation du pointeau mâle
 -----------------------------
 
-Matériel : 
+Matériel :
 
     * 1 lime pour métaux ou de la toile émeri ou une Dremel
     * 1 vis sans tête M3-16 bout téton
@@ -57,7 +57,7 @@ Matériel :
 Moteur Y
 ---------
 
-Matériel : 
+Matériel :
 
     * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)
     * 1 moteur Nema 17
@@ -71,12 +71,12 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
-       
+
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondante à l'illustration.
 
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
-       
+
 .. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
 * Introduire les écrous NYL M3 dans le support moteur.
@@ -88,17 +88,17 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.06.1.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.07.1.jpg
        :align: center
 
 Préparation de supports d’axes
 --------------------------------
 
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left 
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right 
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left
-  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right 
+  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right
   * 1 foret de 8mm
   * 8 écrous M3
   * 8 vis M3-12
@@ -109,64 +109,64 @@ Préparation de supports d’axes
 
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
        :align: center
-       
+
 * L’extrémité de la vis ne doit pas dépasser dans le passage des barres de Ø 8mm.
 
 .. image :: ./IMG/BrailleRAP-V5.10.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
        :align: center
 
 Fixation des supports GAUCHES des axes
 ----------------------------------------------
 
-Matériel : 
+Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 
   * 4 vis BTR M3-14
-  * 4 rondelles M3 larges 
+  * 4 rondelles M3 larges
   * 4 écrous NYL M3
 
 * Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
 
 .. image :: ./IMG/BrailleRAP-V5.12.1.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.12.2.jpg
        :align: center
 
 Fixation des supports DROITS des axes
 -------------------------------------
 
-Matériel : 
+Matériel :
 
 
 
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * 4 vis BTR M3-14
-  * 4 rondelles M3 larges 
+  * 4 rondelles M3 larges
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à la position du repère) et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
 
 .. image :: ./IMG/BrailleRAP-V5.12.3.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.12.4.jpg
        :align: center
 
 Fixation des tendeurs de courroie
 ----------------------------------------------
 
-Matériel : 
+Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
-  * 2 vis BTR M3-20 
-  * 2 rondelles M3 larges 
+  * 2 vis BTR M3-20
+  * 2 rondelles M3 larges
   * 2 écrous NYL M3
 
 
@@ -174,13 +174,13 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.44.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.13.3.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.13.5.jpg
        :align: center
-       
+
 * Laisser un jeu de ±5mm.
 
 .. image :: ./IMG/BrailleRAP-V5.13.4.jpg
@@ -189,10 +189,10 @@ Matériel :
 Pose des poulies libres de renvoi
 ----------------------------------------------
 
-Matériel : 
+Matériel :
 
   * 2 poulies libres 20 dents bore 3mm
-  * 2 vis BTR M3-25  
+  * 2 vis BTR M3-25
   * 2 écrous NYL M3
 
 
@@ -206,7 +206,7 @@ Montage de l'interrupteur de fin de course X
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support 
+  * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support
   * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
   * 1 vis sans tête M3-8
   * 1 écrou M3
@@ -217,7 +217,7 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.57.jpg
        :align: center
-  
+
 * Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
 
 .. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
@@ -240,7 +240,7 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.16.jpg
        :align: center
-       
+
 * Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
 
 .. image :: ./IMG/BrailleRAP-V5.17.jpg
@@ -252,8 +252,8 @@ Montage du chariot bas (étape 1)
 Matériel :
 
   * Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley 
-  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing 
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley
+  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing
   * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide
   * **Pièce(s) imprimée(s) en 3D** : 3 X IGUS_housing
   * 2 vis M3-8
@@ -270,33 +270,33 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
-       
+
 * Introduire les 3 IGUS dans leur logement (IGUS_housing).
 
 .. ATTENTION:: Respecter le côté du rainurage.
 
 .. image :: ./IMG/BrailleRAP-V5.14.1.jpg
        :align: center
-       
+
 * Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL.
 
 .. ATTENTION:: Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera en place sur ses rails de guidage.
 
 .. image :: ./IMG/BrailleRAP-V5.14.2.jpg
        :align: center
-       
+
 * Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
 
 .. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
 
 .. image :: ./IMG/BrailleRAP-V5.14.3.jpg
        :align: center
-       
+
 * Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous.
 
 .. image :: ./IMG/BrailleRAP-V5.14.4.jpg
        :align: center
-       
+
 * Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
 
 .. image :: ./IMG/BrailleRAP-V5.14.5.jpg
@@ -316,28 +316,28 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.51.1.jpg
        :align: center
-       
+
 * Enfiler le fin de course et son support sur la barre Ø8mm côté face arrière.
 
 .. image :: ./IMG/BrailleRAP-V5.51.2.jpg
        :align: center
-       
+
 .. NOTE:: La vis du support de l'interrupteur sera serrée plus tard lors du réglage.
-	
+
 * Enfiler le chariot bas sur les barres lisses.
 
 .. image :: ./IMG/BrailleRAP-V5.51.3.jpg
        :align: center
-       
+
 * Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse).
 * Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leurs logements.
 
 .. image :: ./IMG/BrailleRAP-V5.51.4.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.51.5.jpg
        :align: center
-       
+
 * Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes.
 
 .. image :: ./IMG/BrailleRAP-V5.51.6.jpg
@@ -348,7 +348,7 @@ Montage de l’axe vertical (étape 1)
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support 
+  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support
   * 1 moteur NEMA 17
   * 4 vis M3-8
   * 2 vis M3-16
@@ -361,12 +361,12 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
-       
+
 * Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16en laissant du jeu.
 
 .. image :: ./IMG/BrailleRAP-V5.32.1.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.33.1.jpg
        :align: center
 
@@ -376,7 +376,7 @@ Montage de l’axe vertical (étape 2)
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 X KP08_support
-  * 2 KP08 
+  * 2 KP08
   * 4 vis M5-25
   * 4 rondelles M5
   * 4 écrous M5 NYL
@@ -385,17 +385,17 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
-       
+
 * Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse avec les vis M5-25, les rondelles M5 et les écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.34.1.jpg
        :align: center
-       
+
 * Respecter la position des bagues de serrage des KP08.
 
 .. image :: ./IMG/BrailleRAP-V5.36.1.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.35.1.jpg
        :align: center
 
@@ -406,28 +406,28 @@ Matériel :
 
   * 1 barre lisse Ø 8mm, longueur : 100mm
   * 1 Coupleur 5*8mm
- 
+
 * Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas).
 
 .. image :: ./IMG/BrailleRAP-V5.59.jpg
        :align: center
-       
+
 * Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur.
 
 .. image :: ./IMG/BrailleRAP-V5.60.1.jpg
        :align: center
-       
+
 * Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés et que l'axe continue à tourner librement.
 
 .. image :: ./IMG/BrailleRAP-V5.60.2.jpg
        :align: center
-       
+
 * Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions.
 * Visser les 2 premières vis du moteur sur son support.
 
 .. image :: ./IMG/BrailleRAP-V5.61.jpg
        :align: center
-       
+
 * Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main.
 * Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**
 * Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support, puis le support sur la caisse.
@@ -444,23 +444,23 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.62.jpg
        :align: center
-       
+
 * Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs positions) et le coupleur.
 
 .. image :: ./IMG/BrailleRAP-V5.63.jpg
        :align: center
-       
+
 * Visser les 2 vis en haut du coupleur sur l’axe vertical.
 
 .. image :: ./IMG/BrailleRAP-V5.64.jpg
        :align: center
-       
+
 * Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place.
 * Visser les vis des bagues de serrage des KP08 (2 vis par bague).
 
 .. image :: ./IMG/BrailleRAP-V5.65.jpg
        :align: center
-       
+
 * S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement.
 
 Montage de la courroie du chariot bas
@@ -486,8 +486,8 @@ Montage de l’axe Y (étape 1)
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint 
-  * 1 taraud M3  
+  * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint
+  * 1 taraud M3
   * 2 joints toriques
   * 2 vis M3-6 sans tête bout pointeau
   * 2 KFL8
@@ -502,44 +502,44 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.67.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.68.jpg
        :align: center
-       
+
 * Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.69.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.70.jpg
        :align: center
-       
+
 * Tarauder les 2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
-       
+
 * Mettre les joints toriques dans la gorge des 2 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
-       
+
 * Visser les vis M3-5 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou.
 
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
-       
+
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
 * Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center
-       
+
 * Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse.
 
 .. image :: ./IMG/BrailleRAP-V5.74.jpg
        :align: center
-       
+
 * Serrer les vis des bagues des KFL8.
 
 .. image :: ./IMG/BrailleRAP-V5.75.jpg
@@ -550,7 +550,7 @@ Montage des molettes
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel  
+  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel
   * 2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**
   * 2 écrous M3
 
@@ -558,7 +558,7 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.71.jpg
        :align: center
-       
+
 * Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête.
 
 .. image :: ./IMG/BrailleRAP-V5.72.jpg
@@ -571,20 +571,20 @@ Montage de l’axe Y (étape 2)
 
 .. image :: ./IMG/BrailleRAP-V5.76.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.76.1.jpg
        :align: center
-       
+
 * Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis.
 
 .. image :: ./IMG/BrailleRAP-V5.77.jpg
        :align: center
-       
+
 * Serrer les 2 vis de la poulie de l'axe.
 
 .. image :: ./IMG/BrailleRAP-V5.78.jpg
        :align: center
-       
+
 * Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. **AJOUTER IMAGE**
 * Quand les ROLL_joint sont bien en place, serrer les vis sans tête. **AJOUTER IMAGE**
 * Retirer la plaque de contre plaqué.
@@ -593,15 +593,15 @@ Montage de l’axe Y (étape 2)
 Montage du chariot haut (étape 1)
 ----------------------------------
 
-Matériel : 
+Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley 
+  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
   * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
-  * Taraud M3 
+  * Taraud M3
 
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3
- 
+
   * 2 vis M3-12
   * 2 rondelles M3 moyennes
   * 2 vis M3-20
@@ -615,25 +615,25 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.79.jpg
        :align: center
-       
+
 * Tarauder la FEMALE_shape au 2/3 en partant du haut.
 
 .. image :: ./IMG/BrailleRAP-V5.80.jpg
        :align: center
-       
+
 * Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
 
 .. image :: ./IMG/BrailleRAP-V5.81.jpg
        :align: center
-       
+
 * Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
 
 .. image :: ./IMG/BrailleRAP-V5.82.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.83.jpg
        :align: center
-       
+
 * Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.88.jpg
@@ -641,15 +641,15 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.84.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.85.jpg
        :align: center
-       
+
 * Monter les vis M3-20 et les écrous M3.
 
 .. image :: ./IMG/BrailleRAP-V5.87.jpg
        :align: center
-       
+
 .. image :: ./IMG/BrailleRAP-V5.86.jpg
        :align: center
 
@@ -771,8 +771,8 @@ Montage des presse-papiers (étape 1) :
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD 
-  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel 
+  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD
+  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel
   * 2 vis M3-20
   * 4 écrous M3 NYL
 
@@ -815,7 +815,7 @@ Montage du fin de course Y 
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support 
+  * **Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support
   * 2 vis M3-14
   * 2 rondelles M3 moyennes
   * 2 écrous M3 NYL
@@ -856,7 +856,7 @@ Fixation des clips sur le couvercle
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK 
+  * **Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK
   * 4 vis M3-14
   * 4 écrous M3 NYL
 
@@ -878,11 +878,11 @@ Fixation de la plaque pour l'embase de l'alimentation
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : POWER_plate 
+  * **Pièce(s) imprimée(s) en 3D** : POWER_plate
   * 4 vis M3-14
   * 4 écrous M3 NYL
 
-*  **AJOUTER IMAGE** 
+*  **AJOUTER IMAGE**
 
 
 Montage de la carte électronique sur la caisse
@@ -903,7 +903,7 @@ Matériel :
 
 Pose des drivers sur la carte électronique
 -------------------------------------------
- 
+
 Matériel :
 
   * Carte MKS GEN 1.4
@@ -917,7 +917,7 @@ Matériel :
 Raccordement des moteurs à la carte
 ------------------------------------
 
-* à faire 
+* à faire
 
 Câblage de l’électro-aimant
 ----------------------------
@@ -956,16 +956,3 @@ Réglage de la profondeur du point
 
 .. image :: ./IMG/BrailleRAP-V5.112.jpg
        :align: center
-
-
-
-
-
-
-
-
-
-
-
-
-

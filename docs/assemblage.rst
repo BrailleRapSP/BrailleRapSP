@@ -359,7 +359,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
 
-* Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16en laissant du jeu.
+* Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en laissant du jeu.
 
 .. image :: ./IMG/BrailleRAP-V5.32.1.jpg
        :align: center
@@ -383,7 +383,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.40.jpg
        :align: center
 
-* Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse avec les vis M5-25, les rondelles M5 et les écrous M5 NYL.
+* Visser les KP08_support et les KP08 sur la caisse en laissant un peu de jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.34.1.jpg
        :align: center

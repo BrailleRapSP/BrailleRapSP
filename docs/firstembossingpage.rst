@@ -16,7 +16,7 @@ Aller sur la page https://crocsg.github.io/BrailleRap/
 
 .. image :: ./IMG/braillerapapp.png
        :align: center
-Entrer votre texte à l'endroit indiquer, et télécharger ensuite le fichier GCODE contenant les instructions pour l'embosseuse
+Entrer votre texte à l'endroit indiqué, et télécharger ensuite le fichier GCODE contenant les instructions pour l'embosseuse
 
 .. image :: ./IMG/braillerapapp_download.png
        :align: center
@@ -37,7 +37,7 @@ Dans les options générales NatBraille, utiliser **TbFr2007** pour la table bra
 
 Dans les options d'embossage, utiliser **TbFr2007** pour la table braille pour l'embossage
 
-Activer l'option **utiliser une command systeme pour l'embossage**
+Activer l'option **utiliser une commande systeme pour l'embossage**
 
 le paramêtre  pour commande d'impression est : **java -jar d:\\usr\\home\\logger\\BrailleLogger.jar $f | java -jar d:\\usr\\home\\logger\\gcodestreamer.jar COM4 250000**
 en modifiant eventuellement les repertoires d'installation des programmes

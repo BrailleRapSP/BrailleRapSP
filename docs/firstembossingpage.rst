@@ -21,7 +21,7 @@ Entrer votre texte à l'endroit indiqué, et télécharger ensuite le fichier GC
 .. image :: ./IMG/braillerapapp_download.png
        :align: center
 
-Vous pouvez ensuite utiliser un logiciel comme **cura** ou **pronterface** pour envoyer le fichier GCODEà l'imprimante
+Vous pouvez ensuite utiliser un logiciel comme **cura** ou **pronterface** pour envoyer le fichier GCODE à l'imprimante
 
 
 

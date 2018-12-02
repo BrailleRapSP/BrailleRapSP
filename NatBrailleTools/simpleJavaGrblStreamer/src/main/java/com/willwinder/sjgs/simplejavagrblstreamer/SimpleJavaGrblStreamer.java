@@ -25,7 +25,12 @@ public class SimpleJavaGrblStreamer {
     static int GRBL_BUFFER_SIZE = 125;
     
     public static void main(String argv[]) throws SerialPortException, IOException, InterruptedException {
-        if (argv.length != 3 && argv.length != 2) {
+        if (argv.length == 0)
+        {
+        	System.out.println("Arguments: <comm port> <baud> <file>");
+            return;
+        }
+    	if (argv.length != 3 && argv.length != 2) {
             System.out.println("Arguments: <comm port> <baud> <file>");
             return;
         }

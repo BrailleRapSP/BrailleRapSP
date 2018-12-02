@@ -29,7 +29,7 @@ public class BrailleLogger {
 			System.out.println(";" + s);
 		}
 		
-		if (args[0] != null)
+		if (args.length > 0)
 		{
 			FileReader fr;
 			Braille2GcodeEncoder encoder = new Braille2GcodeEncoder(new Braille6GcodeEncoding());

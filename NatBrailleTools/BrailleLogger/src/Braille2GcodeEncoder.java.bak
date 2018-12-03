@@ -70,9 +70,7 @@ public class Braille2GcodeEncoder {
 		this.encoder = encoder;
 	}
 	
-	/**
-	 * Start a new page
-	 */
+	
 	public void startPage ()
 	{
 		pagedot = new ArrayList <Point2D.Float> ();

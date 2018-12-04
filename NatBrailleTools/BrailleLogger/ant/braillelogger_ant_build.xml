@@ -5,9 +5,9 @@
     <!--define folder properties-->
     <property name="dir.buildfile" value="."/>
     <property name="dir.workspace" value="D:/Users/Stephane/eclipse-workspace"/>
-    <property name="dir.jarfile" value="I:/home/3d/braillerapsp.github/BrailleRapSP/NatBrailleTools/bin"/>
+    <property name="dir.jarfile" value="../../bin"/>
     <target name="create_run_jar">
-        <jar destfile="${dir.jarfile}/braillelogger.jar">
+        <jar destfile="${dir.jarfile}/BrailleLogger.jar">
             <manifest>
                 <attribute name="Main-Class" value="org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"/>
                 <attribute name="Rsrc-Main-Class" value="BrailleLogger"/>
@@ -15,7 +15,7 @@
                 <attribute name="Rsrc-Class-Path" value="./"/>
             </manifest>
             <zipfileset src="jar-in-jar-loader.zip"/>
-            <fileset dir="I:/home/3d/braillerapsp.github/BrailleRapSP/NatBrailleTools/BrailleLogger/bin"/>
+            <fileset dir="../bin"/>
         </jar>
     </target>
 </project>

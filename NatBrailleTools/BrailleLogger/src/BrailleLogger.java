@@ -14,12 +14,12 @@ import java.util.ArrayList;
  */
 public class BrailleLogger {
 
-	
+	 
 	ArrayList <Point2D.Float> braillepoints = new ArrayList <Point2D.Float>();
 	/**
 	 * @param args
 	 */
-		public static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println ("; BrailleRapSP GCODE generator");
 		int arg = 0;
@@ -57,9 +57,7 @@ public class BrailleLogger {
 				
 			} catch (FileNotFoundException e) {
 				// TODO Auto-generated catch block
-				System.out.println("File not found:" + args[0]);
-				System.out.println(e.getMessage());
-				//e.printStackTrace();
+				e.printStackTrace();
 				
 			} catch (IOException e) {
 				// TODO Auto-generated catch block

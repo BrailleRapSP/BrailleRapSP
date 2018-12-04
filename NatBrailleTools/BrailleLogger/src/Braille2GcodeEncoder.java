@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  */
 
 /**
- * Braille encoder class
+ * Braille encoder class 
  * 
  * @author crocsg
  *
@@ -70,9 +70,7 @@ public class Braille2GcodeEncoder {
 		this.encoder = encoder;
 	}
 	
-	/**
-	 * Start a new page
-	 */
+	
 	public void startPage ()
 	{
 		pagedot = new ArrayList <Point2D.Float> ();
@@ -166,7 +164,7 @@ public class Braille2GcodeEncoder {
 	{
 		this.position_y += Braille_line_padding;
 	}
-	
+	 
 	
 	/**
 	 * End Braille characters line
@@ -207,7 +205,7 @@ public class Braille2GcodeEncoder {
 	 * Add a character in page buffer to encode in Braille 
 	 * @param a character to add
 	 */
-	private void addCharToBuffer (char a)
+	private void addCharToBuffer (char a) 
 	{
 		bufline += a;
 	}

@@ -2,14 +2,14 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 
 /**
- * 
+ *  
  */
 
 /**
  * @author lenovo
  *
  */
-public class GCodeGenerator {
+public class GCodeGenerator { 
 
 	
 	public String Home ()

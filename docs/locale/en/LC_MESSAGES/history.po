@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-28 10:31+0100\n"
-"PO-Revision-Date: 2018-12-28 11:25+0200\n"
+"POT-Creation-Date: 2018-12-28 13:37+0100\n"
+"PO-Revision-Date: 2018-12-28 13:40+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
 "Language-Team: braillerapsp\n"
 "Language: en\n"
@@ -44,9 +44,9 @@ msgstr ""
 "<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
 "/documentation-en.md>` _."
 
-#: ../../history.rst:11
+#: ../../history.rst:10
 msgid ""
-"Dans l'equipe de BrailleRAP-SP nous pensions que ces travaux êtaient une "
+"Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une "
 "démonstration de faisabilité, mais qu'il fallait mieux mettre au point "
 "une machine spécialisée facile à reproduire."
 msgstr ""
@@ -54,27 +54,27 @@ msgstr ""
 "feasibility, but that it was better to develop a specialized machine that "
 "was easy to reproduce."
 
-#: ../../history.rst:15
+#: ../../history.rst:14
 msgid "OpenBraille"
 msgstr "OpenBraille"
 
-#: ../../history.rst:16
+#: ../../history.rst:15
 msgid ""
 "En 2017 Carlos Campos démarre le projet OpenBraille et construit une "
 "embosseuse braille à partir de pièces d'imprimante recyclées. Le projet "
 "démontre qu'il est possible de déplacer une feuille de papier avec "
 "suffisamment de précision dans une embosseuse braille."
 msgstr ""
-"In 2017 Carlos Campos starts the OpenBraille project and builds a braille"
-" embosser from recycled printer parts. The project demonstrates that it "
-"is possible to move a sheet of paper with enough precision in a braille "
+"In 2017 Carlos Campos starts the OpenBraille project and builds a braille "
+"embosser from recycled printer parts. The project demonstrates that it is "
+"possible to move a sheet of paper with enough precision in a braille "
 "embosser."
 
-#: ../../history.rst:20
+#: ../../history.rst:19
 msgid "BrailleRap-SP"
 msgstr "BrailleRap-SP"
 
-#: ../../history.rst:21
+#: ../../history.rst:20
 msgid ""
 "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des "
 "moteurs Nema et des pièces imprimées pour essayer de réaliser une "
@@ -82,7 +82,7 @@ msgid ""
 "montrer des exemples de textes embossés en Braille, et tout le monde "
 "était très enthousiastes. Le projet BrailleRAP-SP était né."
 msgstr ""
-"In January 2018, we started with some linear rails, Nema motors and printed "
-"parts to try to make a braille embosser. A few tries later, we started to "
-"show examples of Braille embossed texts, and everyone was very excited. The "
-"BrailleRAP-SP project was born."
+"In January 2018, we started with some linear rails, Nema motors and "
+"printed parts to try to make a braille embosser. A few tries later, we "
+"started to show examples of Braille embossed texts, and everyone was very"
+" excited. The BrailleRAP-SP project was born."

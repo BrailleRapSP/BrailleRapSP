@@ -1,1144 +1,1488 @@
+# Stephane <braillerapsp@gmail.com>, 2018.
 msgid ""
 msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
 "Project-Id-Version: test\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-12-28 10:31+0100\n"
+"PO-Revision-Date: 2018-12-28 12:02+0200\n"
+"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
+"Language-Team: braillerapsp\n"
 "Language: en\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: ../../source/assemblage.rst:2
+#: ../../assemblage.rst:2
 msgid "Manuel de montage BrailleRAP-SP"
 msgstr "Building manual BrailleRAP-SP"
 
-#: ../../source/assemblage.rst:6
+#: ../../assemblage.rst:6
 msgid "Collage de la caisse en bois"
 msgstr "Woodbox assembling"
 
-#: ../../source/assemblage.rst:8 ../../source/assemblage.rst:31
+#: ../../assemblage.rst:8 ../../assemblage.rst:31
 msgid "Matériel:"
 msgstr "Material:"
 
-#: ../../source/assemblage.rst:10
+#: ../../assemblage.rst:10
 msgid "FACE (contre-plaqué de 5mm découpé au laser)."
 msgstr "FACE (5mm laser cut plywood)."
 
-#: ../../source/assemblage.rst:11
+#: ../../assemblage.rst:11
 msgid "BACK (contre-plaqué de 5mm découpé au laser)."
-msgstr "BACK (5mm laser cut plywood)."
+msgstr "BACK ().5mm laser cut plywood"
 
-#: ../../source/assemblage.rst:12
+#: ../../assemblage.rst:12
 msgid "BOTTOM (contre-plaqué de 5mm découpé au laser)."
 msgstr "BOTTOM (5mm laser cut plywood)."
 
-#: ../../source/assemblage.rst:13
+#: ../../assemblage.rst:13
 msgid "LEFT_SIDE (contre-plaqué de 5mm découpé au laser)."
 msgstr "LEFT_SIDE (5mm laser cut plywood)."
 
-#: ../../source/assemblage.rst:14
+#: ../../assemblage.rst:14
 msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
 msgstr "RIGHT_SIDE  (5mm laser cut plywood)."
 
-#: ../../source/assemblage.rst:15 ../../source/assemblage.rst:35
+#: ../../assemblage.rst:15 ../../assemblage.rst:35
 msgid "Colle à bois."
 msgstr "wood glue"
 
-#: ../../source/assemblage.rst:16
+#: ../../assemblage.rst:16
 msgid "Scotch de peintre."
 msgstr "Blue tape"
 
-#: ../../source/assemblage.rst:18
+#: ../../assemblage.rst:18
 msgid "Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
 msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
 
-#: ../../source/assemblage.rst:23
-msgid "Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant."
-msgstr "Glue the notches, assemble the 5 parts and hold them in place with painter's tape the drying time recommended by the manufacturer."
+#: ../../assemblage.rst:23
+msgid ""
+"Encoller les encoches, assembler les 5 parties et les maintenir en place "
+"avec du scotch de peintre le temps du séchage préconisé par le fabricant."
+msgstr ""
+"Glue the notches, assemble the 5 parts and hold them in place with "
+"painter's tape the drying time recommended by the manufacturer."
 
-#: ../../source/assemblage.rst:29
+#: ../../assemblage.rst:29
 msgid "Collage des bloqueurs de trappe"
 msgstr "Collage of trap blockers"
 
-#: ../../source/assemblage.rst:33
+#: ../../assemblage.rst:33
 msgid "Caisse bois assemblée."
 msgstr "Assembled wood box."
 
-#: ../../source/assemblage.rst:34
+#: ../../assemblage.rst:34
 msgid "3 disques en bois récupérés de la découpe laser du couvercle."
 msgstr "3 wooden discs recovered from the laser cutting of the lid."
 
-#: ../../source/assemblage.rst:37
-msgid "Coller les 3 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine."
-msgstr "Glue the 3 wooden discs on the back cover inside the crate. These discs will hold the access hatch inside the machine."
+#: ../../assemblage.rst:37
+msgid ""
+"Coller les 3 disques de bois sur la façade arrière à l'intérieur de la "
+"caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la "
+"machine."
+msgstr ""
+"Glue the 3 wooden discs on the back cover inside the crate. These discs "
+"will hold the access hatch inside the machine."
 
-#: ../../source/assemblage.rst:44
+#: ../../assemblage.rst:44
 msgid "Préparation du pointeau mâle"
 msgstr "Preparation of the male needle"
 
-#: ../../source/assemblage.rst:46 ../../source/assemblage.rst:60
-#: ../../source/assemblage.rst:124 ../../source/assemblage.rst:144
-#: ../../source/assemblage.rst:165 ../../source/assemblage.rst:192
-#: ../../source/assemblage.rst:207 ../../source/assemblage.rst:231
-#: ../../source/assemblage.rst:252 ../../source/assemblage.rst:309
-#: ../../source/assemblage.rst:349 ../../source/assemblage.rst:376
-#: ../../source/assemblage.rst:405 ../../source/assemblage.rst:439
-#: ../../source/assemblage.rst:469 ../../source/assemblage.rst:487
-#: ../../source/assemblage.rst:551 ../../source/assemblage.rst:596
-#: ../../source/assemblage.rst:660 ../../source/assemblage.rst:698
-#: ../../source/assemblage.rst:713 ../../source/assemblage.rst:732
-#: ../../source/assemblage.rst:772 ../../source/assemblage.rst:793
-#: ../../source/assemblage.rst:816 ../../source/assemblage.rst:857
-#: ../../source/assemblage.rst:879 ../../source/assemblage.rst:891
-#: ../../source/assemblage.rst:906
+#: ../../assemblage.rst:46 ../../assemblage.rst:60 ../../assemblage.rst:124
+#: ../../assemblage.rst:144 ../../assemblage.rst:165 ../../assemblage.rst:192
+#: ../../assemblage.rst:207 ../../assemblage.rst:231 ../../assemblage.rst:252
+#: ../../assemblage.rst:309 ../../assemblage.rst:346 ../../assemblage.rst:373
+#: ../../assemblage.rst:402 ../../assemblage.rst:436 ../../assemblage.rst:466
+#: ../../assemblage.rst:484 ../../assemblage.rst:548 ../../assemblage.rst:593
+#: ../../assemblage.rst:657 ../../assemblage.rst:695 ../../assemblage.rst:710
+#: ../../assemblage.rst:729 ../../assemblage.rst:769 ../../assemblage.rst:790
+#: ../../assemblage.rst:813 ../../assemblage.rst:854 ../../assemblage.rst:876
+#: ../../assemblage.rst:888 ../../assemblage.rst:904
 msgid "Matériel :"
 msgstr "equipment:"
 
-#: ../../source/assemblage.rst:48
+#: ../../assemblage.rst:48
 msgid "1 lime pour métaux ou de la toile émeri ou une Dremel"
 msgstr "1 metal file or sand paper or a Dremel"
 
-#: ../../source/assemblage.rst:49
-msgid "1 vis sans tête M3-10 bout téton"
-msgstr "1 grub screw M3-10 butt end"
+#: ../../assemblage.rst:49
+msgid "1 vis sans tête M3-16 bout téton"
+msgstr "1 grub screw M3-16 butt end"
 
-#: ../../source/assemblage.rst:51
+#: ../../assemblage.rst:51
 msgid "Limer l'arête du téton afin d’obtenir un profil approchant celui illustré."
-msgstr "File the edge of the nipple to obtain a profile approaching that illustrated."
+msgstr ""
+"File the edge of the nipple to obtain a profile approaching that "
+"illustrated."
 
-#: ../../source/assemblage.rst:58
+#: ../../assemblage.rst:58
 msgid "Moteur Y"
 msgstr "Y Motor"
 
-#: ../../source/assemblage.rst:62
-msgid "**Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)"
-msgstr "**3D printed parts** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)"
+#: ../../assemblage.rst:62
+msgid ""
+"**Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou "
+"YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)"
+msgstr ""
+"**3D printed parts** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la "
+"longueur de la courroie fermée GT2)"
 
-#: ../../source/assemblage.rst:63
+#: ../../assemblage.rst:63
 msgid "1 moteur Nema 17"
 msgstr "1 Nema 17 motor"
 
-#: ../../source/assemblage.rst:64
+#: ../../assemblage.rst:64
 msgid "1 poulie GT2 20 dents bore 5mm"
 msgstr "1  pulley GT2 20 teeth  5mm bore"
 
-#: ../../source/assemblage.rst:65 ../../source/assemblage.rst:353
+#: ../../assemblage.rst:65 ../../assemblage.rst:350
 msgid "4 vis M3-8"
 msgstr "4 screw M3-8"
 
-#: ../../source/assemblage.rst:66 ../../source/assemblage.rst:170
-#: ../../source/assemblage.rst:196
+#: ../../assemblage.rst:66 ../../assemblage.rst:170 ../../assemblage.rst:196
 msgid "2 écrous NYL M3"
-msgstr "2  NYLSTOP M3"
+msgstr "2 NYLSTOP M3"
 
-#: ../../source/assemblage.rst:67 ../../source/assemblage.rst:605
+#: ../../assemblage.rst:67 ../../assemblage.rst:602
 msgid "2 vis M3-12"
 msgstr "2 screws M3-12"
 
-#: ../../source/assemblage.rst:68 ../../source/assemblage.rst:169
+#: ../../assemblage.rst:68 ../../assemblage.rst:169
 msgid "2 rondelles M3 larges"
 msgstr "2 wide M3 washers"
 
-#: ../../source/assemblage.rst:70
-msgid "Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur."
-msgstr "Screw the pulley onto the motor shaft, making sure that at least one of the two screws is in front of the flat part of the motor shaft and that the teeth of the pulley are facing towards the motor."
+#: ../../assemblage.rst:70
+msgid ""
+"Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des "
+"deux vis soit en face du méplat de l’axe du moteur et que les dents de la"
+" poulie soient orientées vers le moteur."
+msgstr ""
+"Screw the pulley onto the motor shaft, making sure that at least one of the "
+"two screws is in front of the flat part of the motor shaft and that the "
+"teeth of the pulley are facing towards the motor."
 
-#: ../../source/assemblage.rst:75
-msgid "Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondante à l'illustration."
-msgstr "Mount the motor on its support with the 4 screws M3-8 making sure that the connector is in the position corresponding to the illustration."
+#: ../../assemblage.rst:75
+msgid ""
+"Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le"
+" connecteur soit dans la position correspondante à l'illustration."
+msgstr ""
+"Mount the motor on its support with the 4 screws M3-8 making sure that the "
+"connector is in the position corresponding to the illustration."
 
-#: ../../source/assemblage.rst:80
-msgid "L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm."
-msgstr "The illustration shows a motor support provided for a belt of 200mm but the mounting is the same with a motor support provided for a belt of 220mm."
+#: ../../assemblage.rst:80
+msgid ""
+"L'illustration montre un support moteur prévu pour une courroie de 200mm "
+"mais le montage est le même avec un support moteur prévu pour une "
+"courroie de 220mm."
+msgstr ""
+"The illustration shows a motor support provided for a belt of 200mm but the "
+"mounting is the same with a motor support provided for a belt of 220mm."
 
-#: ../../source/assemblage.rst:82
+#: ../../assemblage.rst:82
 msgid "Introduire les écrous NYL M3 dans le support moteur."
 msgstr "Insert the NYL M3 nuts into the engine mount."
 
-#: ../../source/assemblage.rst:87
-msgid "Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs."
-msgstr "Insert the screws and washers from the outside and screw the support onto the crate so that it can still slide in the oblong holes."
+#: ../../assemblage.rst:87
+msgid ""
+"Introduire les vis et les rondelles par l’extérieur et visser le support "
+"sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs."
+msgstr ""
+"Insert the screws and washers from the outside and screw the support onto "
+"the crate so that it can still slide in the oblong holes."
 
-#: ../../source/assemblage.rst:96
+#: ../../assemblage.rst:96
 msgid "Préparation de supports d’axes"
 msgstr "Preparation of axis supports"
 
-#: ../../source/assemblage.rst:98
+#: ../../assemblage.rst:98
 msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left"
 msgstr "**3D printed part** : BOTTOM_AXIS_left"
 
-#: ../../source/assemblage.rst:99
+#: ../../assemblage.rst:99
 msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right"
 msgstr "**3D printed parts** : BOTTOM_AXIS_right"
 
-#: ../../source/assemblage.rst:100
+#: ../../assemblage.rst:100
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left"
 msgstr "**3D printed parts** : TOP_AXIS_left"
 
-#: ../../source/assemblage.rst:101
+#: ../../assemblage.rst:101
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right"
 msgstr "**3D printed parts** : TOP_AXIS_right"
 
-#: ../../source/assemblage.rst:102
+#: ../../assemblage.rst:102
 msgid "1 foret de 8mm"
 msgstr "1 8mm drill"
 
-#: ../../source/assemblage.rst:103
+#: ../../assemblage.rst:103
 msgid "8 écrous M3"
 msgstr "8 M3 nuts"
 
-#: ../../source/assemblage.rst:104
+#: ../../assemblage.rst:104
 msgid "8 vis M3-12"
 msgstr "8 M3-12 screw"
 
-#: ../../source/assemblage.rst:106
-msgid "Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8."
-msgstr "Depending on the print quality of the plastic parts, make sure that the 8mm bars can slide easily into their housings. If necessary, drill the hole with a drill of 8."
+#: ../../assemblage.rst:106
+msgid ""
+"Selon la qualité d’impression des pièces en plastique, veiller à ce que "
+"les barres de 8mm puissent coulisser facilement dans leurs logements. Le "
+"cas échéant, percer le trou avec un foret de 8."
+msgstr ""
+"192/5000\n"
+"Depending on the print quality of the plastic parts, make sure that the "
+"8mm bars can slide easily into their housings. If necessary, drill the "
+"hole with a drill of 8."
 
-#: ../../source/assemblage.rst:108
-msgid "Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis sans tête M3-12."
-msgstr "For each of the 4 pieces, insert an M3 nut into the rectangular holes. Tighten the M3-12 grub screws."
+#: ../../assemblage.rst:108
+msgid ""
+"Pour chacune des 4 pièces, introduire un écrou M3 dans les trous "
+"rectangulaires. Visser les vis M3-12."
+msgstr ""
+"For each of the 4 pieces, insert an M3 nut into the rectangular holes. "
+"Tighten the M3-12 grub screws."
 
-#: ../../source/assemblage.rst:113
-msgid "L’extrémité de la vis ne doit pas dépasser dans le passage des barres de Ø 8mm."
+#: ../../assemblage.rst:113
+msgid ""
+"L’extrémité de la vis ne doit pas dépasser dans le passage des barres de "
+"Ø 8mm."
 msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 
-#: ../../source/assemblage.rst:122
+#: ../../assemblage.rst:122
 msgid "Fixation des supports GAUCHES des axes"
-msgstr "Fixing the LEFT supports of the axes"
+msgstr ""
+"38/5000\n"
+"Fixing the LEFT supports of the axes"
 
-#: ../../source/assemblage.rst:126
-msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr "** 3D printed parts **: BOTTOM_AXIS_left prepared with nut and grub screw (cf Preparation of axis supports)"
+#: ../../assemblage.rst:126
+msgid ""
+"**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et "
+"vis sans tête (cf Préparation de supports d’axes)"
+msgstr ""
+"** 3D printed parts **: BOTTOM_AXIS_left prepared with nut and grub screw"
+" (cf Preparation of axis supports)"
 
-#: ../../source/assemblage.rst:127
-msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr "** 3D printed parts **: TOP_AXIS_left prepared with nut and grub screw (see Preparation of axle supports)"
+#: ../../assemblage.rst:127
+msgid ""
+"**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis"
+" sans tête (cf Préparation de supports d’axes)"
+msgstr ""
+"** 3D printed parts **: TOP_AXIS_left prepared with nut and grub screw "
+"(see Preparation of axle supports)"
 
-#: ../../source/assemblage.rst:129 ../../source/assemblage.rst:150
+#: ../../assemblage.rst:129 ../../assemblage.rst:150
 msgid "4 vis BTR M3-14"
 msgstr "4 BTR screws  M3-14"
 
-#: ../../source/assemblage.rst:130 ../../source/assemblage.rst:151
+#: ../../assemblage.rst:130 ../../assemblage.rst:151
 msgid "4 rondelles M3 larges"
 msgstr "4 wide M3 washers"
 
-#: ../../source/assemblage.rst:131 ../../source/assemblage.rst:152
+#: ../../assemblage.rst:131 ../../assemblage.rst:152
 msgid "4 écrous NYL M3"
 msgstr "4 M3 NYL nuts"
 
-#: ../../source/assemblage.rst:133
-msgid "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place."
-msgstr "Fix the supports of axis on the box the BOTTOM_AXIS_left and TOP_AXIS_left on the left leaving a little game (screw + washer outside and nut inside). The screws will be tight when the assembly is in place."
+#: ../../assemblage.rst:133
+msgid ""
+"Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et "
+"TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à "
+"l'extérieur et écrou à l'intérieur). Les vis seront serrées quand "
+"l'ensemble sera en place."
+msgstr ""
+"Fix the supports of axis on the box the BOTTOM_AXIS_left and "
+"TOP_AXIS_left on the left leaving a little game (screw + washer outside "
+"and nut inside). The screws will be tight when the assembly is in place."
 
-#: ../../source/assemblage.rst:142
+#: ../../assemblage.rst:142
 msgid "Fixation des supports DROITS des axes"
 msgstr "Fixing the RIGHT supports of the axes"
 
-#: ../../source/assemblage.rst:148
-msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr "** 3D printed parts **: BOTTOM_AXIS_right prepared with nut and grub screw (see Preparation of axle supports)"
+#: ../../assemblage.rst:148
+msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right"
+msgstr "**3D printed parts** : BOTTOM_AXIS_right"
 
-#: ../../source/assemblage.rst:149
-msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr "** 3D printed parts **: TOP_AXIS_right prepared with nut and grub screws (see Preparation of axle supports)"
+#: ../../assemblage.rst:149
+msgid ""
+"**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et "
+"vis sans tête (cf Préparation de supports d’axes)"
+msgstr ""
+"** 3D printed parts **: TOP_AXIS_right prepared with nut and grub screws "
+"(see Preparation of axle supports)"
 
-#: ../../source/assemblage.rst:154
-msgid "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place."
-msgstr "Fix the supports of axis on the box the BOTTOM_AXIS_right and TOP_AXIS_right on the right by leaving some game (screw + washer outside and nut inside). The screws will be tight when the assembly is in place."
+#: ../../assemblage.rst:154
+msgid ""
+"Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à "
+"la position du repère) et TOP_AXIS_right à droite en laissant un peu de "
+"jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront "
+"serrées quand l'ensemble sera en place."
+msgstr ""
+"Fix the supports of axis on the box the BOTTOM_AXIS_right and TOP_AXIS_right "
+"on the right by leaving some game (screw + washer outside and nut inside). "
+"The screws will be tight when the assembly is in place."
 
-#: ../../source/assemblage.rst:163
+#: ../../assemblage.rst:163
 msgid "Fixation des tendeurs de courroie"
 msgstr "Fastening the belt tensioners"
 
-#: ../../source/assemblage.rst:167
+#: ../../assemblage.rst:167
 msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
 msgstr "** 3D printed parts ** :  2 x DRIVEN_PULLEY_housing"
 
-#: ../../source/assemblage.rst:168
+#: ../../assemblage.rst:168
 msgid "2 vis BTR M3-20"
 msgstr "2 M3-20 BTR screw"
 
-#: ../../source/assemblage.rst:173
-msgid "Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle."
-msgstr "Insert a NYL M3 nut into its housing and secure the DRIVEN_PULLEY_housing with a M3-20 screw and washer."
+#: ../../assemblage.rst:173
+msgid ""
+"Insérer un écrou M3 NYL dans son logement et fixer les "
+"DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle."
+msgstr ""
+"Insert a NYL M3 nut into its housing and secure the DRIVEN_PULLEY_housing"
+" with a M3-20 screw and washer."
 
-#: ../../source/assemblage.rst:184
+#: ../../assemblage.rst:184
 msgid "Laisser un jeu de ±5mm."
 msgstr "Leave a gap of ± 5mm."
 
-#: ../../source/assemblage.rst:190
+#: ../../assemblage.rst:190
 msgid "Pose des poulies libres de renvoi"
 msgstr "Laying free return pulleys"
 
-#: ../../source/assemblage.rst:194
+#: ../../assemblage.rst:194
 msgid "2 poulies libres 20 dents bore 3mm"
 msgstr "2 free pulleys 20  teeth 3mm bore"
 
-#: ../../source/assemblage.rst:195
+#: ../../assemblage.rst:195
 msgid "2 vis BTR M3-25"
 msgstr "2 M3-25 BTR screw"
 
-#: ../../source/assemblage.rst:199
-msgid "Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer."
-msgstr "Start by inserting the pulley then the M3-25 screw. Screw with a NYL M3 nut without tightening too much."
+#: ../../assemblage.rst:199
+msgid ""
+"Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou "
+"M3 NYL sans trop serrer."
+msgstr ""
+"Start by inserting the pulley then the M3-25 screw. Screw with a NYL M3 "
+"nut without tightening too much."
 
-#: ../../source/assemblage.rst:205
+#: ../../assemblage.rst:205
 msgid "Montage de l'interrupteur de fin de course X"
 msgstr "Mounting the limit switch X"
 
-#: ../../source/assemblage.rst:209
+#: ../../assemblage.rst:209
 msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_X_support"
-msgstr "** 3D printed parts ** :  SWITCH_X_support"
+msgstr "** 3D printed parts ** : SWITCH_X_support"
 
-#: ../../source/assemblage.rst:210
-msgid "1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)"
+#: ../../assemblage.rst:210
+msgid ""
+"1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de "
+"course)"
 msgstr "1 wired limit switch (see wiring of the limit switches)"
 
-#: ../../source/assemblage.rst:211
-msgid "1 vis sans tête M3-12"
-msgstr "1 grub screw M3-12"
+#: ../../assemblage.rst:211
+msgid "1 vis sans tête M3-8"
+msgstr "1 grub screw M3-8"
 
-#: ../../source/assemblage.rst:212 ../../source/assemblage.rst:236
+#: ../../assemblage.rst:212 ../../assemblage.rst:236
 msgid "1 écrou M3"
 msgstr "1 M3 nuts"
 
-#: ../../source/assemblage.rst:213
-msgid "2 vis M2.5-12 **Michel, on t'a mis des M2.5-14 ;)**"
-msgstr "2  M2.5-12 screw"
+#: ../../assemblage.rst:213
+msgid "2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**"
+msgstr "2  M2.5-14 screw"
 
-#: ../../source/assemblage.rst:214
+#: ../../assemblage.rst:214
 msgid "2 écrous M2.5"
 msgstr "2 M2.5 nuts"
 
-#: ../../source/assemblage.rst:216
-msgid "Introduire un écrou M3 et visser une vis sans tête M3-12."
-msgstr "Insert an M3 nut and screw in a M3-12 grub screw."
+#: ../../assemblage.rst:216
+msgid "Introduire un écrou M3 et visser une vis sans tête M3-8."
+msgstr "Insert an M3 nut and screw in a M3-8 grub screw."
 
-#: ../../source/assemblage.rst:221
-msgid "Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5."
-msgstr "Screw the limit switch to its support (SWITCH_X_support) using M2.5-12 screws and M2.5 nuts."
+#: ../../assemblage.rst:221
+msgid ""
+"Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à "
+"l'aide des vis M2.5-12 et des écrous M2.5."
+msgstr ""
+"Screw the limit switch to its support (SWITCH_X_support) using M2.5-12 "
+"screws and M2.5 nuts."
 
-#: ../../source/assemblage.rst:223
-msgid "L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage."
+#: ../../assemblage.rst:223
+msgid ""
+"L'interrupteur fin de course est représenté non câblé mais il devra être "
+"câblé avant le montage."
 msgstr "The limit switch is shown not wired but must be wired before installation."
 
-#: ../../source/assemblage.rst:229
+#: ../../assemblage.rst:229
 msgid "Préparation de l’électro-aimant"
 msgstr "Preparation of the electromagnet"
 
-#: ../../source/assemblage.rst:233
+#: ../../assemblage.rst:233
 msgid "1 électro-aimant"
 msgstr "1 electromagnet"
 
-#: ../../source/assemblage.rst:234
+#: ../../assemblage.rst:234
 msgid "1 entretoise de 18mm"
 msgstr "1 spacer 18mm"
 
-#: ../../source/assemblage.rst:235
+#: ../../assemblage.rst:235
 msgid "1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)"
 msgstr "1 set screw M3-12 needle punched (see Preparing the male needle)"
 
-#: ../../source/assemblage.rst:237
+#: ../../assemblage.rst:237
 msgid "1 rondelle M3 moyenne"
 msgstr "1 M3   medium washer"
 
-#: ../../source/assemblage.rst:239
+#: ../../assemblage.rst:239
 msgid "Visser l’entretoise à fond sur l’électro-aimant."
 msgstr "Screw the spacer all the way onto the electromagnet."
 
-#: ../../source/assemblage.rst:244
-msgid "Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise."
-msgstr "Tighten the M3-12 screw with the needle punched out, allowing it to extend ± 6mm beyond the spacer."
+#: ../../assemblage.rst:244
+msgid ""
+"Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de "
+"l’entretoise."
+msgstr ""
+"Tighten the M3-12 screw with the needle punched out, allowing it to "
+"extend ± 6mm beyond the spacer."
 
-#: ../../source/assemblage.rst:250
+#: ../../assemblage.rst:250
 msgid "Montage du chariot bas (étape 1)"
 msgstr "Mounting the low truck (step 1)"
 
-#: ../../source/assemblage.rst:254
+#: ../../assemblage.rst:254
 msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
 msgstr "Pre-assembled electromagnet assembly (see Preparing the electromagnet)"
 
-#: ../../source/assemblage.rst:255
+#: ../../assemblage.rst:255
 msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley"
-msgstr "** 3D printed part ** : BOTTOM_trolley"
+msgstr "**3D printed part** : BOTTOM_trolley"
 
-#: ../../source/assemblage.rst:256
+#: ../../assemblage.rst:256
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing"
 msgstr "** 3D printed parts ** :  ELECTRO_MAGNET_housing"
 
-#: ../../source/assemblage.rst:257
+#: ../../assemblage.rst:257
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide"
 msgstr "** 3D printed parts ** :  ELECTRO_MAGNET_guide"
 
-#: ../../source/assemblage.rst:258
+#: ../../assemblage.rst:258
 msgid "**Pièce(s) imprimée(s) en 3D** : 3 X IGUS_housing"
 msgstr "** 3D printed parts ** :  3 X IGUS_housing"
 
-#: ../../source/assemblage.rst:259
+#: ../../assemblage.rst:259
 msgid "2 vis M3-8"
 msgstr "2 screw M3-8"
 
-#: ../../source/assemblage.rst:260
+#: ../../assemblage.rst:260
 msgid "3 IGUS"
 msgstr "3 IGUS"
 
-#: ../../source/assemblage.rst:261 ../../source/assemblage.rst:611
+#: ../../assemblage.rst:261 ../../assemblage.rst:608
 msgid "6 vis M3-12"
 msgstr "6 screws M3-12"
 
-#: ../../source/assemblage.rst:262
+#: ../../assemblage.rst:262
 msgid "10 écrous M3 NYL"
 msgstr "10 M3 NYL nuts"
 
-#: ../../source/assemblage.rst:263
+#: ../../assemblage.rst:263
 msgid "2 vis M3-18"
 msgstr "2  M3-18 screw"
 
-#: ../../source/assemblage.rst:264 ../../source/assemblage.rst:607
-#: ../../source/assemblage.rst:776
+#: ../../assemblage.rst:264 ../../assemblage.rst:604 ../../assemblage.rst:773
 msgid "2 vis M3-20"
 msgstr "2 M3-20 screw"
 
-#: ../../source/assemblage.rst:267
+#: ../../assemblage.rst:267
 msgid "Fixer l’électro-aimant sur son support avec les 2 vis M3-8."
 msgstr "Fix the electromagnet on its support with the 2 screws M3-8."
 
-#: ../../source/assemblage.rst:269
+#: ../../assemblage.rst:269
 msgid "Respecter le côté de sortie des fils."
 msgstr "Observe the exit side of the wires."
 
-#: ../../source/assemblage.rst:274
+#: ../../assemblage.rst:274
 msgid "Introduire les 3 IGUS dans leur logement (IGUS_housing)."
 msgstr "Introduce the 3 IGUS in their housing (IGUS_housing)."
 
-#: ../../source/assemblage.rst:276
+#: ../../assemblage.rst:276
 msgid "Respecter le côté du rainurage."
 msgstr "Respect the grooving side."
 
-#: ../../source/assemblage.rst:281
-msgid "Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL."
-msgstr "Assemble the 3 slots + IGUS + BOTTOM_trolley with the 6 screws M3-12 and the 6 nuts M3 NYL."
+#: ../../assemblage.rst:281
+msgid ""
+"Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et"
+" les 6 écrous M3 NYL."
+msgstr ""
+"Assemble the 3 slots + IGUS + BOTTOM_trolley with the 6 screws M3-12 and "
+"the 6 nuts M3 NYL."
 
-#: ../../source/assemblage.rst:283
-msgid "Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera en place sur ses rails de guidage."
-msgstr "Do not tighten the screws thoroughly. They will be tightened when the carriage is in place on its guide rails."
+#: ../../assemblage.rst:283
+msgid ""
+"Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera "
+"en place sur ses rails de guidage."
+msgstr ""
+"Do not tighten the screws thoroughly. They will be tightened when the "
+"carriage is in place on its guide rails."
 
-#: ../../source/assemblage.rst:288
-msgid "Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL."
-msgstr "Assemble the electromagnet (previously mounted in its housing) under the BOTTOM_trolley and the ELECTRO_MAGNET_guide with two M3-18 screws and two M3 NYL nuts."
+#: ../../assemblage.rst:288
+msgid ""
+"Assembler l'électro-aimant (préalablement monté dans son logement) sous "
+"le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2"
+" écrous M3 NYL."
+msgstr ""
+"Assemble the electromagnet (previously mounted in its housing) under the "
+"BOTTOM_trolley and the ELECTRO_MAGNET_guide with two M3-18 screws and two"
+" M3 NYL nuts."
 
-#: ../../source/assemblage.rst:290
-msgid "Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise."
-msgstr "Depending on the quality of the print, it may be necessary to file the spacer housing."
+#: ../../assemblage.rst:290
+msgid ""
+"Selon la qualité de l'impression, il sera peut-être nécessaire de limer "
+"le logement de l'entretoise."
+msgstr ""
+"Depending on the quality of the print, it may be necessary to file the "
+"spacer housing."
 
-#: ../../source/assemblage.rst:295
-msgid "Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous."
-msgstr "Screw the two M3-20 screws (which will hold the strap) and 2 M3 NYL nuts with the screw head underneath."
+#: ../../assemblage.rst:295
+msgid ""
+"Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 "
+"NYL avec la tête de vis en dessous."
+msgstr ""
+"Screw the two M3-20 screws (which will hold the strap) and 2 M3 NYL nuts "
+"with the screw head underneath."
 
-#: ../../source/assemblage.rst:300
-msgid "Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise."
-msgstr "Screw the two M3-20 screws (which will hold the strap) and 2 M3 NYL nuts with the screw head underneath."
+#: ../../assemblage.rst:300
+msgid ""
+"Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la "
+"vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle"
+" empêche le contre écrou de se coincer dans le guide de l’entretoise."
+msgstr ""
+"Screw the two M3-20 screws (which will hold the strap) and 2 M3 NYL nuts "
+"with the screw head underneath."
 
-#: ../../source/assemblage.rst:307
+#: ../../assemblage.rst:307
 msgid "Montage du chariot bas (étape 2)"
 msgstr "Mounting the low truck (step 2)"
 
-#: ../../source/assemblage.rst:311
+#: ../../assemblage.rst:311
 msgid "2 barres lisses Ø8mm, longueur : 330mm"
 msgstr "2 linear shaft Ø8mm, length: 330mm"
 
-#: ../../source/assemblage.rst:313
+#: ../../assemblage.rst:313
 msgid "Nous n'avons pas représenté la façade pour des raisons de lisibilité."
 msgstr "We did not represent the facade for readability reasons."
 
-#: ../../source/assemblage.rst:315 ../../source/assemblage.rst:664
+#: ../../assemblage.rst:315 ../../assemblage.rst:661
 msgid "Enfiler les barres à mi-course par l’extérieur de la caisse."
 msgstr "Thread the bars halfway through the outside of the crate."
 
-#: ../../source/assemblage.rst:320
-msgid "Enfiler le fin de course et son support sur la barre Ø8mm côté face arrière."
+#: ../../assemblage.rst:320
+msgid ""
+"Enfiler le fin de course et son support sur la barre Ø8mm côté face "
+"arrière."
 msgstr "Thread the switch and its support on the Ø8mm bar on the back side."
 
-#: ../../source/assemblage.rst:325
+#: ../../assemblage.rst:325
 msgid "La vis du support de l'interrupteur sera serrée plus tard lors du réglage."
 msgstr "The screw on the switch bracket will be tightened later during adjustment."
 
-#: ../../source/assemblage.rst:327 ../../source/assemblage.rst:669
+#: ../../assemblage.rst:327 ../../assemblage.rst:666
 msgid "Enfiler le chariot bas sur les barres lisses."
 msgstr "Thread the trolley down over the smooth bars."
 
-#: ../../source/assemblage.rst:332
-msgid "Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse)."
-msgstr "Finish putting on the bars (the bars must not protrude into the wood of the box)."
+#: ../../assemblage.rst:332
+msgid ""
+"Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le"
+" bois de la caisse)."
+msgstr ""
+"Finish putting on the bars (the bars must not protrude into the wood of "
+"the box)."
 
-#: ../../source/assemblage.rst:333
-msgid "Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leurs logements."
-msgstr "Tighten the 4 axle holder screws on the body (2 on the left side and 2 on the right side) and the 4 grub screws on the axle brackets so that the pins do not slide into their seats."
+#: ../../assemblage.rst:333
+msgid ""
+"Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche "
+"et 2 sur le côté droit) et les 4 vis sans tête des supports des axes "
+"suffisamment pour que les axes ne coulissent dans leurs logements."
+msgstr ""
+"Tighten the 4 axle holder screws on the body (2 on the left side and 2 on"
+" the right side) and the 4 grub screws on the axle brackets so that the "
+"pins do not slide into their seats."
 
-#: ../../source/assemblage.rst:341
-msgid "Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le chariot coulisse bien sur les axes."
-msgstr "Tighten the 6 screws of IGUS_housing little by little, making sure that the carriage slides well on the axes."
+#: ../../assemblage.rst:338
+msgid ""
+"Serrer les 6 vis des IGUS_housing petit à petit en s'assurant que le "
+"chariot coulisse bien sur les axes."
+msgstr ""
+"Tighten the 6 screws of IGUS_housing little by little, making sure that "
+"the carriage slides well on the axes."
 
-#: ../../source/assemblage.rst:347
+#: ../../assemblage.rst:344
 msgid "Montage de l’axe vertical (étape 1)"
 msgstr "Mounting the vertical axis (step 1)"
 
-#: ../../source/assemblage.rst:351
+#: ../../assemblage.rst:348
 msgid "**Pièce(s) imprimée(s) en 3D** : XMOTOR_support"
 msgstr "** 3D printed parts ** :   XMOTOR_support"
 
-#: ../../source/assemblage.rst:352
+#: ../../assemblage.rst:349
 msgid "1 moteur NEMA 17"
 msgstr "1 Nema 17 motor"
 
-#: ../../source/assemblage.rst:354
+#: ../../assemblage.rst:351
 msgid "2 vis M3-16"
 msgstr "2 screws M3-16"
 
-#: ../../source/assemblage.rst:355 ../../source/assemblage.rst:821
+#: ../../assemblage.rst:352 ../../assemblage.rst:818
 msgid "2 écrous M3 NYL"
 msgstr "2 M3 NYL nuts"
 
-#: ../../source/assemblage.rst:356
+#: ../../assemblage.rst:353
 msgid "4 rondelles M3 grandes"
 msgstr "4 wide M3 washers"
 
-#: ../../source/assemblage.rst:358
-msgid "Visser le moteur sur son support en laissant un peu de jeu et en respectant la position du connecteur."
-msgstr "Screw the motor on its support leaving a little play and respecting the position of the connector."
+#: ../../assemblage.rst:355
+msgid ""
+"Visser le moteur sur son support en laissant un peu de jeu et en "
+"respectant la position du connecteur."
+msgstr ""
+"Screw the motor on its support leaving a little play and respecting the "
+"position of the connector."
 
-#: ../../source/assemblage.rst:360
+#: ../../assemblage.rst:357
 msgid "Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical."
 msgstr "The gap will then allow to align the motor shaft with the vertical axis."
 
-#: ../../source/assemblage.rst:365
-msgid "Visser l’ensemble moteur/support sur la caisse en laissant du jeu."
-msgstr "Screw the motor / support assembly onto the body leaving some play."
+#: ../../assemblage.rst:362
+msgid ""
+"Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en "
+"laissant du jeu."
+msgstr ""
+"Screw the motor / support assembly with 2 M3-16 screw onto the body leaving "
+"some play."
 
-#: ../../source/assemblage.rst:374
+#: ../../assemblage.rst:371
 msgid "Montage de l’axe vertical (étape 2)"
 msgstr "Mounting the vertical axis (step 2)"
 
-#: ../../source/assemblage.rst:378
+#: ../../assemblage.rst:375
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 X KP08_support"
 msgstr "** 3D printed parts ** :  2 X KP08_support"
 
-#: ../../source/assemblage.rst:379
+#: ../../assemblage.rst:376
 msgid "2 KP08"
 msgstr "2 KP08"
 
-#: ../../source/assemblage.rst:380
-msgid "4 vis M5-22"
-msgstr "4  M5-22 screw"
+#: ../../assemblage.rst:377
+msgid "4 vis M5-25"
+msgstr "4 M5-22 screw"
 
-#: ../../source/assemblage.rst:381 ../../source/assemblage.rst:496
+#: ../../assemblage.rst:378 ../../assemblage.rst:493
 msgid "4 rondelles M5"
 msgstr " 4 M5 washer"
 
-#: ../../source/assemblage.rst:382 ../../source/assemblage.rst:495
+#: ../../assemblage.rst:379 ../../assemblage.rst:492
 msgid "4 écrous M5 NYL"
 msgstr "4 M5 NYL nuts"
 
-#: ../../source/assemblage.rst:384
-msgid "Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leurs logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de les redresser."
-msgstr "Before attaching the KP08, make sure the bearings are aligned in their housing. They may be delivered a little misaligned. In this case, insert a Ø 8mm bar and manually actuate it to straighten them."
+#: ../../assemblage.rst:381
+msgid ""
+"Avant de fixer les KP08, s'assurer que les roulements sont bien alignés "
+"dans leurs logements. Il se peut qu'ils soient livrés un peu désaxés. "
+"Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin "
+"de les redresser."
+msgstr ""
+"Before attaching the KP08, make sure the bearings are aligned in their "
+"housing. They may be delivered a little misaligned. In this case, insert "
+"a Ø 8mm bar and manually actuate it to straighten them."
 
-#: ../../source/assemblage.rst:389
-msgid "Visser en laissant un peu de jeu les KP08_support et les KP08 sur la caisse avec les vis M5-22, les rondelles M5 et les écrous M5 NYL."
-msgstr "Screw the KP08_support and the KP08 on the body a bit with the M5-22 screws, M5 washers and M5 NYL nuts."
+#: ../../assemblage.rst:386
+msgid ""
+"Visser les KP08_support et les KP08 sur la caisse en laissant un peu de "
+"jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL."
+msgstr ""
+"Screw the KP08_support and the KP08 on the body a bit with the M5-25 screws, "
+"M5 washers and M5 NYL nuts."
 
-#: ../../source/assemblage.rst:394
+#: ../../assemblage.rst:391
 msgid "Respecter la position des bagues de serrage des KP08."
 msgstr "Observe the position of the KP08 clamping rings."
 
-#: ../../source/assemblage.rst:403
+#: ../../assemblage.rst:400
 msgid "Montage de l’axe vertical (étape 3)"
 msgstr "Mounting the vertical axis (step 3)"
 
-#: ../../source/assemblage.rst:407
+#: ../../assemblage.rst:404
 msgid "1 barre lisse Ø 8mm, longueur : 100mm"
 msgstr "1 linear shaft Ø 8mm, length : 100mm"
 
-#: ../../source/assemblage.rst:408
+#: ../../assemblage.rst:405
 msgid "1 Coupleur 5*8mm"
 msgstr "1  5*8mm Coupler"
 
-#: ../../source/assemblage.rst:410
+#: ../../assemblage.rst:407
 msgid "Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas)."
 msgstr "Thread the coupler onto the motor shaft (Ø 5mm hole at the bottom)."
 
-#: ../../source/assemblage.rst:415
-msgid "Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur."
-msgstr "Thread the  100mm linear shaft from the top through the KP08 and into the coupler."
+#: ../../assemblage.rst:412
+msgid ""
+"Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans"
+" le coupleur."
+msgstr ""
+"Thread the  100mm linear shaft from the top through the KP08 and into the"
+" coupler."
 
-#: ../../source/assemblage.rst:420
-msgid "Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés et que l'axe continue à tourner librement."
-msgstr "Rotate the linear shaft by hand to ensure that all elements are aligned and that the spindle continues to rotate freely."
+#: ../../assemblage.rst:417
+msgid ""
+"Faire tourner l’axe à la main pour s’assurer que tous les éléments sont "
+"bien alignés et que l'axe continue à tourner librement."
+msgstr ""
+"Rotate the linear shaft by hand to ensure that all elements are aligned "
+"and that the spindle continues to rotate freely."
 
-#: ../../source/assemblage.rst:425
-msgid "Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions."
-msgstr "The holes of the motor support are oblong and allow to align the motor with the vertical axis in the 2 dimensions."
+#: ../../assemblage.rst:422
+msgid ""
+"Les trous du support moteur sont oblongs et permettent d'aligner le "
+"moteur avec l'axe vertical dans les 2 dimensions."
+msgstr ""
+"The holes of the motor support are oblong and allow to align the motor "
+"with the vertical axis in the 2 dimensions."
 
-#: ../../source/assemblage.rst:426
+#: ../../assemblage.rst:423
 msgid "Visser les 2 premières vis du moteur sur son support."
 msgstr "Screw the first 2 screws of the motor on its support."
 
-#: ../../source/assemblage.rst:431
+#: ../../assemblage.rst:428
 msgid "Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main."
 msgstr "Slowly tighten the KP08 screws by turning the shaft by hand."
 
-#: ../../source/assemblage.rst:432
-msgid "Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**"
-msgstr "Screw the motor support screws onto the body slowly by turning the shaft by hand. ** ADD PICTURE **"
+#: ../../assemblage.rst:429
+msgid ""
+"Visser petit à petit les vis du support moteur sur la caisse en faisant "
+"tourner l’axe à la main. **AJOUTER IMAGE**"
+msgstr ""
+"Screw the motor support screws onto the body slowly by turning the shaft "
+"by hand. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:433
-msgid "Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support, puis le support sur la caisse."
-msgstr "Remove the pin and finish screwing the last 2 screws of the motor on its support, then the support on the body."
+#: ../../assemblage.rst:430
+msgid ""
+"Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son"
+" support, puis le support sur la caisse."
+msgstr ""
+"Remove the pin and finish screwing the last 2 screws of the motor on its "
+"support, then the support on the body."
 
-#: ../../source/assemblage.rst:437
+#: ../../assemblage.rst:434
 msgid "Montage de l’axe vertical (étape 4)"
 msgstr "Mount the vertical axis (step 4)"
 
-#: ../../source/assemblage.rst:441
+#: ../../assemblage.rst:438
 msgid "2 poulies GT2 20 dents bore 8mm"
 msgstr "2 pulleys GT2 20 teeth bore 8mm"
 
-#: ../../source/assemblage.rst:443
-msgid "Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur."
-msgstr "Screw the 2 screws at the bottom of the coupler onto the motor shaft, making sure that one of the screws is in front of the flat part of the motor shaft and that the bottom of the coupler is not resting on the motor."
+#: ../../assemblage.rst:440
+msgid ""
+"Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant "
+"qu’une des vis est en face du méplat de l’axe du moteur et que le bas du "
+"coupleur ne repose pas sur le moteur."
+msgstr ""
+"Screw the 2 screws at the bottom of the coupler onto the motor shaft, "
+"making sure that one of the screws is in front of the flat part of the "
+"motor shaft and that the bottom of the coupler is not resting on the "
+"motor."
 
-#: ../../source/assemblage.rst:448
-msgid "Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs positions) et le coupleur."
-msgstr "Thread the 100mm axle into the KP08, the pulleys (respecting their positions) and the coupler."
+#: ../../assemblage.rst:445
+msgid ""
+"Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs "
+"positions) et le coupleur."
+msgstr ""
+"Thread the 100mm axle into the KP08, the pulleys (respecting their "
+"positions) and the coupler."
 
-#: ../../source/assemblage.rst:453
+#: ../../assemblage.rst:450
 msgid "Visser les 2 vis en haut du coupleur sur l’axe vertical."
 msgstr "Screw the 2 screws at the top of the coupler onto the vertical axis."
 
-#: ../../source/assemblage.rst:458
-msgid "Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place."
-msgstr "Leave the pulleys free without screwing them onto the axle. They will be screwed when the belt is in place."
+#: ../../assemblage.rst:455
+msgid ""
+"Laisser les poulies libres sans les visser sur l'axe. Elles seront "
+"vissées quand la courroie sera en place."
+msgstr ""
+"Leave the pulleys free without screwing them onto the axle. They will be "
+"screwed when the belt is in place."
 
-#: ../../source/assemblage.rst:459
+#: ../../assemblage.rst:456
 msgid "Visser les vis des bagues de serrage des KP08 (2 vis par bague)."
 msgstr "Screw the screws of the KP08 clamping rings (2 screws per ring)."
 
-#: ../../source/assemblage.rst:464
-msgid "S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement."
-msgstr "Make sure that the axle rotates easily and that the motor does not oscillate. If necessary, loosen the motor and support screws on the body to give them play and re-align."
+#: ../../assemblage.rst:461
+msgid ""
+"S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le "
+"cas échéant, desserrer les vis du moteur et du support sur la caisse pour"
+" leur donner du jeu et refaire l’alignement."
+msgstr ""
+"Make sure that the axle rotates easily and that the motor does not "
+"oscillate. If necessary, loosen the motor and support screws on the body "
+"to give them play and re-align."
 
-#: ../../source/assemblage.rst:467
+#: ../../assemblage.rst:464
 msgid "Montage de la courroie du chariot bas"
 msgstr "Mounting the low carriage belt"
 
-#: ../../source/assemblage.rst:471
+#: ../../assemblage.rst:468
 msgid "1 courroie GT2 longueur ± 620mm"
 msgstr "1 belt GT2 length ± 620mm"
 
-#: ../../source/assemblage.rst:472
+#: ../../assemblage.rst:469
 msgid "2 colliers"
 msgstr "2 necklaces"
 
-#: ../../source/assemblage.rst:474
-msgid "A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur. **AJOUTER IMAGE**"
-msgstr "Using a collar, attach the strap around the carriage screw with the teeth facing out. ** ADD PICTURE **"
+#: ../../assemblage.rst:471
+msgid ""
+"A l’aide d’un collier, attacher la courroie autour de la vis du chariot "
+"avec les dents à l’extérieur. **AJOUTER IMAGE**"
+msgstr ""
+"Using a collar, attach the strap around the carriage screw with the teeth"
+" facing out. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:475
-msgid "Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical."
+#: ../../assemblage.rst:472
+msgid ""
+"Faire passer la courroie dans la poulie libre puis la poulie de l’axe "
+"vertical."
 msgstr "Pass the belt in the free pulley then the pulley of the vertical axis."
 
-#: ../../source/assemblage.rst:476
-msgid "Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. **AJOUTER IMAGE**"
-msgstr "Tension the belt while holding the carriage and secure the second end of the belt to its screw with a collar. ** ADD PICTURE **"
+#: ../../assemblage.rst:473
+msgid ""
+"Tendre la courroie en retenant le chariot et fixer la deuxième extrémité "
+"de la courroie sur sa vis avec un collier. **AJOUTER IMAGE**"
+msgstr ""
+"Tension the belt while holding the carriage and secure the second end of "
+"the belt to its screw with a collar. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:477
-msgid "Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. **AJOUTER IMAGE**"
-msgstr "Finish stretching the belt with the screw on the outside of the body. ** ADD PICTURE **"
+#: ../../assemblage.rst:474
+msgid ""
+"Finir de tendre la courroie à l'aide de la vis à l'extérieur de la "
+"caisse. **AJOUTER IMAGE**"
+msgstr ""
+"Finish stretching the belt with the screw on the outside of the body. ** "
+"ADD PICTURE **"
 
-#: ../../source/assemblage.rst:479
+#: ../../assemblage.rst:476
 msgid "Pour l'instant, ne pas serrer les vis de la poulie sur l'axe."
 msgstr "For now, do not tighten the pulley bolts on the axle."
 
-#: ../../source/assemblage.rst:485
+#: ../../assemblage.rst:482
 msgid "Montage de l’axe Y (étape 1)"
 msgstr "Mounting the Y axis (step 1)"
 
-#: ../../source/assemblage.rst:489
+#: ../../assemblage.rst:486
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint"
-msgstr "** 3D printed parts**: 2 x ROLL_joint"
+msgstr "** Piece (s) printed in 3D **: 2 x ROLL_joint"
 
-#: ../../source/assemblage.rst:490
+#: ../../assemblage.rst:487
 msgid "1 taraud M3"
 msgstr "1 tap M3"
 
-#: ../../source/assemblage.rst:491
+#: ../../assemblage.rst:488
 msgid "2 joints toriques"
 msgstr "2 O-rings"
 
-#: ../../source/assemblage.rst:492
-msgid "2 vis M3-6 sans tête"
+#: ../../assemblage.rst:489
+msgid "2 vis M3-6 sans tête bout pointeau"
 msgstr "2 screws M3-6 without head"
 
-#: ../../source/assemblage.rst:493
+#: ../../assemblage.rst:490
 msgid "2 KFL8"
 msgstr "2 KFL8"
 
-#: ../../source/assemblage.rst:494
+#: ../../assemblage.rst:491
 msgid "4 vis M5-18"
 msgstr "4 screws M5-18"
 
-#: ../../source/assemblage.rst:497
+#: ../../assemblage.rst:494
 msgid "1 poulie GT2 20 dents bore 8mm"
 msgstr "1 GT2 20 teeth boron 8mm pulley"
 
-#: ../../source/assemblage.rst:498
+#: ../../assemblage.rst:495
 msgid "1 barre lisse Ø 8mm, longueur : 364mm"
 msgstr "1 smooth bar Ø 8mm, length: 364mm"
 
-#: ../../source/assemblage.rst:499
+#: ../../assemblage.rst:496
 msgid "1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )"
 msgstr "1 closed GT2 belt 200 or 220 mm (according to the Y motor support)"
 
-#: ../../source/assemblage.rst:501
-msgid "Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et 2 écrous M5 NYL."
-msgstr "Fix the KFL8 on the left side with 2 M5-18 screws, 2 M5 washers and 2 M5 NYL nuts."
+#: ../../assemblage.rst:498
+msgid ""
+"Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et"
+" 2 écrous M5 NYL."
+msgstr ""
+"Fix the KFL8 on the left side with 2 M5-18 screws, 2 M5 washers and 2 M5 "
+"NYL nuts."
 
-#: ../../source/assemblage.rst:509
-msgid "Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL."
-msgstr "Fix the KFL8 right on the body with the KFL8_support, 2 screws M5-18, 2 washers M5 and the 2 nuts M5 NYL."
+#: ../../assemblage.rst:506
+msgid ""
+"Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18,"
+" 2 rondelles M5 et les 2 écrous M5 NYL."
+msgstr ""
+"Fix the KFL8 right on the body with the KFL8_support, 2 screws M5-18, 2 "
+"washers M5 and the 2 nuts M5 NYL."
 
-#: ../../source/assemblage.rst:517
+#: ../../assemblage.rst:514
 msgid "Tarauder les 2 ROLL_joint."
 msgstr "Tape the 2 ROLL_joint."
 
-#: ../../source/assemblage.rst:522
+#: ../../assemblage.rst:519
 msgid "Mettre les joints toriques dans la gorge des 2 ROLL_joint."
 msgstr "Put the O-rings in the groove of the 2 ROLL_joint."
 
-#: ../../source/assemblage.rst:527
-msgid "Visser les vis M3-5 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou."
-msgstr "Screw the M3-5 headless screws making sure they do not protrude into the hole."
+#: ../../assemblage.rst:524
+msgid ""
+"Visser les vis M3-5 sans tête en s'assurant qu'elles ne dépassent pas à "
+"l'intérieur du trou."
+msgstr ""
+"Screw the M3-5 headless screws making sure they do not protrude into the "
+"hole."
 
-#: ../../source/assemblage.rst:532
-msgid "Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8."
-msgstr "Thread the smooth bar halfway through the left side through the body and the KFL8."
+#: ../../assemblage.rst:529
+msgid ""
+"Enfiler la barre lisse à mi course par le côté gauche à travers la caisse"
+" et le KFL8."
+msgstr ""
+"Thread the smooth bar halfway through the left side through the body and "
+"the KFL8."
 
-#: ../../source/assemblage.rst:533
-msgid "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe."
-msgstr "In order, thread the GT2 20 tooth boron 8mm pulley, the closed belt and the 2 ROLL_joint (pay attention to the position of the O-ring). Put the belt closed on the pulley of motor Y and on the pulley of the axle."
+#: ../../assemblage.rst:530
+msgid ""
+"Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée"
+" et les 2 ROLL_joint (attention à la position du joint torique). Mettre "
+"la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe."
+msgstr ""
+"In order, thread the GT2 20 tooth boron 8mm pulley, the closed belt and "
+"the 2 ROLL_joint (pay attention to the position of the O-ring). Put the "
+"belt closed on the pulley of motor Y and on the pulley of the axle."
 
-#: ../../source/assemblage.rst:538
-msgid "Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse."
-msgstr "Press the axle into the right KFL8 and cross it so that it protrudes ± 12mm from the body."
+#: ../../assemblage.rst:535
+msgid ""
+"Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il "
+"dépasse de ±12mm de la caisse."
+msgstr ""
+"Press the axle into the right KFL8 and cross it so that it protrudes ± "
+"12mm from the body."
 
-#: ../../source/assemblage.rst:543
+#: ../../assemblage.rst:540
 msgid "Serrer les vis des bagues des KFL8."
 msgstr "Tighten the screws of the KFL8 rings."
 
-#: ../../source/assemblage.rst:549
+#: ../../assemblage.rst:546
 msgid "Montage des molettes"
 msgstr "Wheel assembly"
 
-#: ../../source/assemblage.rst:553
+#: ../../assemblage.rst:550
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel"
-msgstr "** 3D printed parts **: 2 x SCROLL_wheel"
+msgstr "** Piece (s) printed in 3D **: 2 x SCROLL_wheel"
 
-#: ../../source/assemblage.rst:554
+#: ../../assemblage.rst:551
 msgid "2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**"
 msgstr "2 screws M3-8 without head ** Michel, we put you M3-12 without head;) **"
 
-#: ../../source/assemblage.rst:555
+#: ../../assemblage.rst:552
 msgid "2 écrous M3"
 msgstr "2 nuts M3"
 
-#: ../../source/assemblage.rst:557
-msgid "Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête."
-msgstr "Insert the M3 nuts into their housing and screw in the M3-8 headless screws."
+#: ../../assemblage.rst:554
+msgid ""
+"Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans"
+" tête."
+msgstr ""
+"Insert the M3 nuts into their housing and screw in the M3-8 headless "
+"screws."
 
-#: ../../source/assemblage.rst:562
+#: ../../assemblage.rst:559
 msgid "Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête."
 msgstr "Fix the knobs on the axle by tightening the M3-8 screws without head."
 
-#: ../../source/assemblage.rst:568
+#: ../../assemblage.rst:565
 msgid "Montage de l’axe Y (étape 2)"
 msgstr "Mounting the Y axis (step 2)"
 
-#: ../../source/assemblage.rst:570
-msgid "Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur."
-msgstr "Rotate the motor pulley by hand so that the pulley on the shaft aligns vertically with the motor pulley."
+#: ../../assemblage.rst:567
+msgid ""
+"Faire tourner à la main la poulie du moteur afin que la poulie de l’axe "
+"s’aligne verticalement avec la poulie du moteur."
+msgstr ""
+"Rotate the motor pulley by hand so that the pulley on the shaft aligns "
+"vertically with the motor pulley."
 
-#: ../../source/assemblage.rst:578
-msgid "Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis."
-msgstr "Move the Y motor / support assembly along the oblong holes under the body to tension the closed belt and tighten the 2 screws."
+#: ../../assemblage.rst:575
+msgid ""
+"Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la "
+"caisse afin de tendre la courroie fermée puis serrer les 2 vis."
+msgstr ""
+"Move the Y motor / support assembly along the oblong holes under the body"
+" to tension the closed belt and tighten the 2 screws."
 
-#: ../../source/assemblage.rst:583
+#: ../../assemblage.rst:580
 msgid "Serrer les 2 vis de la poulie de l'axe."
 msgstr "Tighten the 2 screws of the pulley of the axle."
 
-#: ../../source/assemblage.rst:588
-msgid "Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. **AJOUTER IMAGE**"
-msgstr "Place the CP board (without gluing it) to align the ROLL_joint with the holes in the board. ** ADD PICTURE **"
+#: ../../assemblage.rst:585
+msgid ""
+"Mettre en place la plaque en CP (sans la coller) afin d’aligner les "
+"ROLL_joint avec les trous présents dans la plaque. **AJOUTER IMAGE**"
+msgstr ""
+"Place the CP board (without gluing it) to align the ROLL_joint with the "
+"holes in the board. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:589
-msgid "Quand les ROLL_joint sont bien en place, serrer les vis sans tête. **AJOUTER IMAGE**"
-msgstr "When the ROLL_joint is in place, tighten the grub screws. ** ADD PICTURE **"
+#: ../../assemblage.rst:586
+msgid ""
+"Quand les ROLL_joint sont bien en place, serrer les vis sans tête. "
+"**AJOUTER IMAGE**"
+msgstr ""
+"When the ROLL_joint is in place, tighten the grub screws. ** ADD PICTURE "
+"**"
 
-#: ../../source/assemblage.rst:590
+#: ../../assemblage.rst:587
 msgid "Retirer la plaque de contre plaqué."
 msgstr "Remove the plywood plate."
 
-#: ../../source/assemblage.rst:594
+#: ../../assemblage.rst:591
 msgid "Montage du chariot haut (étape 1)"
 msgstr "Mounting the top cart (step 1)"
 
-#: ../../source/assemblage.rst:598
+#: ../../assemblage.rst:595
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_trolley"
-msgstr "** 3D printed parts **: TOP_trolley"
+msgstr "** Piece (s) printed in 3D **: TOP_trolley"
 
-#: ../../source/assemblage.rst:599
+#: ../../assemblage.rst:596
 msgid "**Pièce(s) imprimée(s) en 3D** : FEMALE_shape"
-msgstr "** 3D printed parts **: FEMALE_shape"
+msgstr "** Piece (s) printed in 3D **: FEMALE_shape"
 
-#: ../../source/assemblage.rst:600
+#: ../../assemblage.rst:597
 msgid "Taraud M3"
 msgstr "M3 tap"
 
-#: ../../source/assemblage.rst:602
+#: ../../assemblage.rst:599
 msgid "1 vis sans tête M3-30"
 msgstr "1 grub screw M3-30"
 
-#: ../../source/assemblage.rst:603
+#: ../../assemblage.rst:600
 msgid "1 écrou borgne M3"
 msgstr "1 M3 blind nut"
 
-#: ../../source/assemblage.rst:606 ../../source/assemblage.rst:820
+#: ../../assemblage.rst:603 ../../assemblage.rst:817
 msgid "2 rondelles M3 moyennes"
 msgstr "2 medium M3 washers"
 
-#: ../../source/assemblage.rst:608 ../../source/assemblage.rst:739
-#: ../../source/assemblage.rst:777 ../../source/assemblage.rst:798
-#: ../../source/assemblage.rst:861 ../../source/assemblage.rst:883
+#: ../../assemblage.rst:605 ../../assemblage.rst:736 ../../assemblage.rst:774
+#: ../../assemblage.rst:795 ../../assemblage.rst:858 ../../assemblage.rst:880
 msgid "4 écrous M3 NYL"
 msgstr "4 NYL M3 nuts"
 
-#: ../../source/assemblage.rst:610
+#: ../../assemblage.rst:607
 msgid "3 IGUS_housing"
 msgstr "3 IGUS_housing"
 
-#: ../../source/assemblage.rst:612
+#: ../../assemblage.rst:609
 msgid "6 écrous M3 NYL"
 msgstr "6 NYL M3 nuts"
 
-#: ../../source/assemblage.rst:614
-msgid "Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** emprunte allen."
-msgstr "Glue the thread of the cap nut and screw the M3-30 screw without head on the side ** WITHOUT ** borrows allen."
+#: ../../assemblage.rst:611
+msgid ""
+"Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête"
+" du côté **SANS** emprunte allen."
+msgstr ""
+"Glue the thread of the cap nut and screw the M3-30 screw without head on "
+"the side ** WITHOUT ** borrows allen."
 
-#: ../../source/assemblage.rst:619
+#: ../../assemblage.rst:616
 msgid "Tarauder la FEMALE_shape au 2/3 en partant du haut."
 msgstr "Tape the FEMALE_shape 2/3 from the top."
 
-#: ../../source/assemblage.rst:624
+#: ../../assemblage.rst:621
 msgid "Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm."
-msgstr "Tighten the M3-30 screw / blind nut assembly to allow it to exceed ± 0.5mm."
+msgstr ""
+"Tighten the M3-30 screw / blind nut assembly to allow it to exceed ± "
+"0.5mm."
 
-#: ../../source/assemblage.rst:629
-msgid "Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu."
-msgstr "Assemble the FEMALE_shape on the TOP_trolley with the M3-12 screws, the M3 washers and the NYL M3 nuts."
+#: ../../assemblage.rst:626
+msgid ""
+"Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les "
+"rondelles M3 et les écrous M3 NYL en laissant du jeu."
+msgstr ""
+"Assemble the FEMALE_shape on the TOP_trolley with the M3-12 screws, the "
+"M3 washers and the NYL M3 nuts."
 
-#: ../../source/assemblage.rst:637
-msgid "Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL."
-msgstr "Position the IGUS in the IGUS_housing respecting the side of the blocking and then screw on the carriage with the M3-12 and M3 NYL nuts."
+#: ../../assemblage.rst:634
+msgid ""
+"Positionner les IGUS dans les IGUS_housing en respectant le côté du "
+"blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL."
+msgstr ""
+"Position the IGUS in the IGUS_housing respecting the side of the blocking"
+" and then screw on the carriage with the M3-12 and M3 NYL nuts."
 
-#: ../../source/assemblage.rst:648
+#: ../../assemblage.rst:645
 msgid "Monter les vis M3-20 et les écrous M3."
 msgstr "Fit the M3-20 screws and the M3 nuts."
 
-#: ../../source/assemblage.rst:658
+#: ../../assemblage.rst:655
 msgid "Montage du chariot haut (étape 2)"
 msgstr "Mounting the top cart (step 2)"
 
-#: ../../source/assemblage.rst:662
+#: ../../assemblage.rst:659
 msgid "2 barres lisses Ø 8mm, longueur : 330mm"
 msgstr "2 smooth bars Ø 8mm, length: 330mm"
 
-#: ../../source/assemblage.rst:674
+#: ../../assemblage.rst:671
 msgid "Terminer d’enfiler les barres."
 msgstr "Finish putting on the bars."
 
-#: ../../source/assemblage.rst:676
+#: ../../assemblage.rst:673
 msgid "La tranche du bois doit rester apparente."
 msgstr "The edge of the wood should remain visible."
 
-#: ../../source/assemblage.rst:681
+#: ../../assemblage.rst:678
 msgid "Serrer les vis des supports d’axes sur la caisse à gauche et à droite."
 msgstr "Tighten the axle holder screws on the body on the left and right."
 
-#: ../../source/assemblage.rst:686
+#: ../../assemblage.rst:683
 msgid "Visser les vis sans tête des supports des axes à gauche et à droite."
 msgstr "Screw the grub screws of the axle supports on the left and right."
 
-#: ../../source/assemblage.rst:693
+#: ../../assemblage.rst:690
 msgid "Pose de la courroie du chariot haut"
 msgstr "Laying the trolley strap up"
 
-#: ../../source/assemblage.rst:696
+#: ../../assemblage.rst:693
 msgid "Montage des lève-papiers sur la plaque"
 msgstr "Mounting the lifter on the plate"
 
-#: ../../source/assemblage.rst:700 ../../source/assemblage.rst:715
+#: ../../assemblage.rst:697 ../../assemblage.rst:712
 msgid "PAPER_support (contre-plaqué de 5mm découpé au laser)."
 msgstr "PAPER_support (laser cut 5mm plywood)."
 
-#: ../../source/assemblage.rst:701 ../../source/assemblage.rst:716
+#: ../../assemblage.rst:698 ../../assemblage.rst:713
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser"
-msgstr "** 3D printed parts **: 2 PAPER_raiser"
+msgstr "** Piece (s) printed in 3D **: 2 PAPER_raiser"
 
-#: ../../source/assemblage.rst:702
+#: ../../assemblage.rst:699
 msgid "4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**"
-msgstr "4 wood screws 3-10 countersunk head ** Michel, we did not have any anymore; (E **"
+msgstr ""
+"4 wood screws 3-10 countersunk head ** Michel, we did not have any "
+"anymore; (E **"
 
-#: ../../source/assemblage.rst:704
-msgid "Visser les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois."
-msgstr "Screw the 2 PAPER_raiser onto the plate from underneath with the wood screws."
+#: ../../assemblage.rst:701
+msgid ""
+"Visser les 2 PAPER_raiser sur la plaque par en dessous avec les vis à "
+"bois."
+msgstr ""
+"Screw the 2 PAPER_raiser onto the plate from underneath with the wood "
+"screws."
 
-#: ../../source/assemblage.rst:711
+#: ../../assemblage.rst:708
 msgid "Collage de la plaque repose papier"
 msgstr "Bonding of the paper plate"
 
-#: ../../source/assemblage.rst:718
-msgid "Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant et la maintenir fermement avec du ruban adhésif pendant le temps de séchage."
-msgstr "Glue the notches that will be in contact. Insert the plate from the front and hold it firmly with tape during the drying time."
+#: ../../assemblage.rst:715
+msgid ""
+"Encoller les encoches qui vont être en contact. Introduire la plaque par "
+"l'avant et la maintenir fermement avec du ruban adhésif pendant le temps "
+"de séchage."
+msgstr ""
+"Glue the notches that will be in contact. Insert the plate from the front"
+" and hold it firmly with tape during the drying time."
 
-#: ../../source/assemblage.rst:730
+#: ../../assemblage.rst:727
 msgid "Montage des guide-papiers sur la plaque"
 msgstr "Assembling the paper guides on the plate"
 
-#: ../../source/assemblage.rst:734
+#: ../../assemblage.rst:731
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_1"
-msgstr "** 3D printed parts **: PAPER_GUIDE_left_1"
+msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_left_1"
 
-#: ../../source/assemblage.rst:735
+#: ../../assemblage.rst:732
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_2"
-msgstr "** 3D printed parts ** PAPER_GUIDE_left_2"
+msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_left_2"
 
-#: ../../source/assemblage.rst:736
+#: ../../assemblage.rst:733
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_1"
-msgstr "** 3D printed parts **: PAPER_GUIDE_right_1"
+msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_right_1"
 
-#: ../../source/assemblage.rst:737
+#: ../../assemblage.rst:734
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_2"
-msgstr "** 3D printed parts **: PAPER_GUIDE_right_2"
+msgstr "** Piece (s) printed in 3D **: PAPER_GUIDE_right_2"
 
-#: ../../source/assemblage.rst:738
+#: ../../assemblage.rst:735
 msgid "4 vis M3-16"
 msgstr "4 screws M3-16"
 
-#: ../../source/assemblage.rst:741
+#: ../../assemblage.rst:738
 msgid "Pour plus de clarté, nous avons isolé la partie concernée."
 msgstr "For clarity, we have isolated the concerned part."
 
-#: ../../source/assemblage.rst:749
-msgid "Assembler les guide-papiers sur la plaque avec les vis M3-16 et les écrous M3 NYL."
-msgstr "Assemble the paper guides on the plate with the M3-16 screws and M3 NYL nuts."
+#: ../../assemblage.rst:746
+msgid ""
+"Assembler les guide-papiers sur la plaque avec les vis M3-16 et les "
+"écrous M3 NYL."
+msgstr ""
+"Assemble the paper guides on the plate with the M3-16 screws and M3 NYL "
+"nuts."
 
-#: ../../source/assemblage.rst:755
+#: ../../assemblage.rst:752
 msgid "Vous devez obtenir une vue du dessus comme celle ci :"
 msgstr "You must get a view from above like this:"
 
-#: ../../source/assemblage.rst:762
-msgid "Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe."
-msgstr "Center the rollers in the holes of the plate and screw the grub screws until the rollers are firmly attached to the axle."
+#: ../../assemblage.rst:759
+msgid ""
+"Centrer les rouleaux dans les trous de la plaque et visser les vis sans "
+"tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe."
+msgstr ""
+"Center the rollers in the holes of the plate and screw the grub screws "
+"until the rollers are firmly attached to the axle."
 
-#: ../../source/assemblage.rst:770
+#: ../../assemblage.rst:767
 msgid "Montage des presse-papiers (étape 1) :"
 msgstr "Assembly of the paperweights (step 1):"
 
-#: ../../source/assemblage.rst:774
+#: ../../assemblage.rst:771
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD"
-msgstr "** 3D printed parts **: 2 CLIPBOARD"
+msgstr "** Piece (s) printed in 3D **: 2 CLIPBOARD"
 
-#: ../../source/assemblage.rst:775
+#: ../../assemblage.rst:772
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel"
-msgstr "** 3D printed parts **: 2 CLIPBOARD_wheel"
+msgstr "** Piece (s) printed in 3D **: 2 CLIPBOARD_wheel"
 
-#: ../../source/assemblage.rst:780
-msgid "Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer la vis en laissant la possibilité à la roue de tourner."
-msgstr "Assemble the CLIPBOARDs with CLIPBOARD_wheel using M3-20 screws and M3 NYL nuts. Tighten the screw allowing the wheel to turn."
+#: ../../assemblage.rst:777
+msgid ""
+"Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et "
+"des écrous M3 NYL. Serrer la vis en laissant la possibilité à la roue de "
+"tourner."
+msgstr ""
+"Assemble the CLIPBOARDs with CLIPBOARD_wheel using M3-20 screws and M3 "
+"NYL nuts. Tighten the screw allowing the wheel to turn."
 
-#: ../../source/assemblage.rst:791
+#: ../../assemblage.rst:788
 msgid "Montage des presse-papiers (étape 2) :"
 msgstr "Assembly of the paperweights (step 2):"
 
-#: ../../source/assemblage.rst:795
+#: ../../assemblage.rst:792
 msgid "2 CLIPBOARD montés à l'étape 1"
 msgstr "2 CLIPBOARD mounted in step 1"
 
-#: ../../source/assemblage.rst:796 ../../source/assemblage.rst:860
-#: ../../source/assemblage.rst:882
+#: ../../assemblage.rst:793 ../../assemblage.rst:857 ../../assemblage.rst:879
 msgid "4 vis M3-14"
 msgstr "4 screws M3-14"
 
-#: ../../source/assemblage.rst:797
+#: ../../assemblage.rst:794 ../../assemblage.rst:892
 msgid "4 rondelles M3 moyennes"
 msgstr "4 medium M3 washers"
 
-#: ../../source/assemblage.rst:801
-msgid "Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier."
-msgstr "The oblong holes in the printed parts adjust the pressure of the CLIPBOARD on the paper."
+#: ../../assemblage.rst:798
+msgid ""
+"Les trous oblongs dans les pièces imprimées permettent de régler la "
+"pression des CLIPBOARD sur le papier."
+msgstr ""
+"The oblong holes in the printed parts adjust the pressure of the "
+"CLIPBOARD on the paper."
 
-#: ../../source/assemblage.rst:814
+#: ../../assemblage.rst:811
 msgid "Montage du fin de course Y"
 msgstr "Assembly of the Y limit switch"
 
-#: ../../source/assemblage.rst:818
+#: ../../assemblage.rst:815
 msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support"
-msgstr "** 3D printed parts **: SWITCH_Y_support"
+msgstr "** Piece (s) printed in 3D **: SWITCH_Y_support"
 
-#: ../../source/assemblage.rst:819
+#: ../../assemblage.rst:816
 msgid "2 vis M3-14"
 msgstr "2 screws M3-14"
 
-#: ../../source/assemblage.rst:822
+#: ../../assemblage.rst:819
 msgid "1 interrupteur fin de course à lamelle"
 msgstr "1 slatted limit switch"
 
-#: ../../source/assemblage.rst:823
+#: ../../assemblage.rst:820
 msgid "2 vis M2.5-14"
 msgstr "2 screws M2.5-14"
 
-#: ../../source/assemblage.rst:824
+#: ../../assemblage.rst:821
 msgid "2 écrous M2.5 NYL"
 msgstr "2 nuts M2.5 NYL"
 
-#: ../../source/assemblage.rst:826
-msgid "L'interrupteur fin de course à lamelle devra être câblé avant d'être monté sur son support (non représenté)."
-msgstr "The slat limit switch must be wired before being mounted on its support (not shown)."
+#: ../../assemblage.rst:823
+msgid ""
+"L'interrupteur fin de course à lamelle devra être câblé avant d'être "
+"monté sur son support (non représenté)."
+msgstr ""
+"The slat limit switch must be wired before being mounted on its support "
+"(not shown)."
 
-#: ../../source/assemblage.rst:829
-msgid "Assembler l'interrupteur fin de course et le SWITCH_Y_support à l'aide des vis M2.5-14 et des écrous M2.5 NYL."
-msgstr "Assemble the limit switch and the SWITCH_Y_support using M2.5-14 screws and M2.5 NYL nuts."
+#: ../../assemblage.rst:826
+msgid ""
+"Assembler l'interrupteur fin de course et le SWITCH_Y_support à l'aide "
+"des vis M2.5-14 et des écrous M2.5 NYL."
+msgstr ""
+"Assemble the limit switch and the SWITCH_Y_support using M2.5-14 screws "
+"and M2.5 NYL nuts."
 
-#: ../../source/assemblage.rst:840
-msgid "La position de l'interrupteur dans les trous oblongs sera réglée à la fin de l'assemblage et les vis serrées."
-msgstr "The position of the switch in the oblong holes will be adjusted at the end of the assembly and the screws tightened."
+#: ../../assemblage.rst:837
+msgid ""
+"La position de l'interrupteur dans les trous oblongs sera réglée à la fin"
+" de l'assemblage et les vis serrées."
+msgstr ""
+"The position of the switch in the oblong holes will be adjusted at the "
+"end of the assembly and the screws tightened."
 
-#: ../../source/assemblage.rst:843
-msgid "Assembler l'ensemble interrupteur fin de course et le SWITCH_Y_support sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
-msgstr "Assemble the limit switch assembly and the SWITCH_Y_support to the body using the M3-14 screws, M3 washers and M3 NYL nuts."
+#: ../../assemblage.rst:840
+msgid ""
+"Assembler l'ensemble interrupteur fin de course et le SWITCH_Y_support "
+"sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 "
+"NYL."
+msgstr ""
+"Assemble the limit switch assembly and the SWITCH_Y_support to the body "
+"using the M3-14 screws, M3 washers and M3 NYL nuts."
 
-#: ../../source/assemblage.rst:855
+#: ../../assemblage.rst:852
 msgid "Fixation des clips sur le couvercle"
 msgstr "Fixing the clips on the lid"
 
-#: ../../source/assemblage.rst:859
+#: ../../assemblage.rst:856
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK"
-msgstr "** 3D printed parts **: 2 LID_LOCK"
+msgstr "** Piece (s) printed in 3D **: 2 LID_LOCK"
 
-#: ../../source/assemblage.rst:863
-msgid "Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
-msgstr "Assemble the 2 LID_LOCK on the cover using the M3-14 screws, M3 washers and M3 NYL nuts."
+#: ../../assemblage.rst:860
+msgid ""
+"Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des "
+"rondelles M3 et des écrous M3 NYL."
+msgstr ""
+"Assemble the 2 LID_LOCK on the cover using the M3-14 screws, M3 washers "
+"and M3 NYL nuts."
 
-#: ../../source/assemblage.rst:877
+#: ../../assemblage.rst:874
 msgid "Fixation de la plaque pour l'embase de l'alimentation"
 msgstr "Fixing the plate for the power supply base"
 
-#: ../../source/assemblage.rst:881
+#: ../../assemblage.rst:878
 msgid "**Pièce(s) imprimée(s) en 3D** : POWER_plate"
-msgstr "** 3D printed parts **: POWER_plate"
+msgstr "** Piece (s) printed in 3D **: POWER_plate"
 
-#: ../../source/assemblage.rst:885
+#: ../../assemblage.rst:882
 msgid "**AJOUTER IMAGE**"
 msgstr "** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:889
+#: ../../assemblage.rst:886
 msgid "Montage de la carte électronique sur la caisse"
 msgstr "Mounting the electronic card on the cash register"
 
-#: ../../source/assemblage.rst:893 ../../source/assemblage.rst:908
+#: ../../assemblage.rst:890 ../../assemblage.rst:906
 msgid "Carte MKS GEN 1.4"
 msgstr "MKS GEN 1.4 card"
 
-#: ../../source/assemblage.rst:894
-msgid "4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les reçoit**"
-msgstr "4 spacers M3-10 ** Michel, we will send them to you as soon as we receive them **"
+#: ../../assemblage.rst:891
+msgid ""
+"4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les "
+"reçoit**"
+msgstr ""
+"4 spacers M3-10 ** Michel, we will send them to you as soon as we receive"
+" them **"
 
-#: ../../source/assemblage.rst:895
+#: ../../assemblage.rst:893
 msgid "8 vis M3-10"
 msgstr "8 screws M3-10"
 
-#: ../../source/assemblage.rst:897
+#: ../../assemblage.rst:895
 msgid "Assembler les 4 entretoises sur la carte.  **AJOUTER IMAGE**"
 msgstr "Assemble the 4 spacers on the card. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:898
+#: ../../assemblage.rst:896
 msgid "Assembler la carte sur la caisse.  **AJOUTER IMAGE**"
 msgstr "Assemble the card on the crate. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:904
+#: ../../assemblage.rst:902
 msgid "Pose des drivers sur la carte électronique"
 msgstr "Laying the drivers on the electronic board"
 
-#: ../../source/assemblage.rst:909
+#: ../../assemblage.rst:907
 msgid "2 Drivers DRV8825"
 msgstr "2 DRV8825 drivers"
 
-#: ../../source/assemblage.rst:910
+#: ../../assemblage.rst:908
 msgid "6 cavaliers"
 msgstr "6 riders"
 
-#: ../../source/assemblage.rst:912
-msgid "Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**"
-msgstr "If the card is not supplied already equipped with jumpers, put in the places of the drivers of engines X and Y. ** ADD PICTURE **"
+#: ../../assemblage.rst:910
+msgid ""
+"Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre "
+"aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**"
+msgstr ""
+"If the card is not supplied already equipped with jumpers, put in the "
+"places of the drivers of engines X and Y. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:913
+#: ../../assemblage.rst:911
 msgid "Enfoncer les drivers dans leurs emplacements.  **AJOUTER IMAGE**"
 msgstr "Push the drivers into their slots. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:917
+#: ../../assemblage.rst:915
 msgid "Raccordement des moteurs à la carte"
 msgstr "Connecting the motors to the board"
 
-#: ../../source/assemblage.rst:919 ../../source/assemblage.rst:924
-#: ../../source/assemblage.rst:929 ../../source/assemblage.rst:935
+#: ../../assemblage.rst:917 ../../assemblage.rst:922 ../../assemblage.rst:927
+#: ../../assemblage.rst:933
 msgid "à faire"
 msgstr "to do"
 
-#: ../../source/assemblage.rst:922
+#: ../../assemblage.rst:920
 msgid "Câblage de l’électro-aimant"
 msgstr "Wiring of the electromagnet"
 
-#: ../../source/assemblage.rst:927
+#: ../../assemblage.rst:925
 msgid "Câblage des interrupteurs fin de course"
 msgstr "Wiring of limit switches"
 
-#: ../../source/assemblage.rst:933
+#: ../../assemblage.rst:931
 msgid "Alignement vertical des deux chariots"
 msgstr "Vertical alignment of the two carriages"
 
-#: ../../source/assemblage.rst:938
+#: ../../assemblage.rst:936
 msgid "Serrer les poulies sur l’axe vertical. **AJOUTER IMAGE**"
 msgstr "Tighten the pulleys on the vertical axis. ** ADD PICTURE **"
 
-#: ../../source/assemblage.rst:941
+#: ../../assemblage.rst:939
 msgid "Alignement horizontal de l'emprunte du chariot haut"
 msgstr "Horizontal alignment of the trolley"
 
-#: ../../source/assemblage.rst:944
+#: ../../assemblage.rst:942
 msgid "A ne pas oublier"
 msgstr "To not forget"
 
-#: ../../source/assemblage.rst:946
+#: ../../assemblage.rst:944
 msgid "Serrer la vis du endstop X"
 msgstr "Tighten the endstop X screw"
 
-#: ../../source/assemblage.rst:950
+#: ../../assemblage.rst:948
 msgid "Réglage de la profondeur du point"
 msgstr "Adjusting the depth of the point"
 
-#: ../../source/assemblage.rst:952
-msgid "Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à développer avec des exemples**"
-msgstr "Depending on the material you will use (paper, plastic, aluminum bobbin), you will need to adjust the height of the borrows of the high carriage using the blind nut ** to be developed with examples **"
+#: ../../assemblage.rst:950
+msgid ""
+"Selon le matériau que vous utiliserez (papier, plastique, aluminium de "
+"canette), vous devrez régler la hauteur de l'emprunte du chariot haut à "
+"l'aide de l'écrou borgne **à développer avec des exemples**"
+msgstr ""
+"Depending on the material you will use (paper, plastic, aluminum bobbin),"
+" you will need to adjust the height of the borrows of the high carriage "
+"using the blind nut ** to be developed with examples **"
+
+#~ msgid ""
+#~ "**Pièce(s) imprimée(s) en 3D** :  "
+#~ "BOTTOM_AXIS_right préparé avec écrou et "
+#~ "vis sans tête (cf Préparation de "
+#~ "supports d’axes)"
+#~ msgstr ""
+#~ "** 3D printed parts **: "
+#~ "BOTTOM_AXIS_right prepared with nut and "
+#~ "grub screw (see Preparation of axle "
+#~ "supports)"
+
+#~ msgid "1 vis sans tête M3-12"
+#~ msgstr "1 grub screw M3-12"

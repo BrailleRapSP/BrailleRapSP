@@ -6,18 +6,17 @@
 # Stephane <braillerapsp@gmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: BraillerRapSP\n"
+"Project-Id-Version:  BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-28 13:37+0100\n"
+"POT-Creation-Date: 2018-12-28 21:44+0100\n"
 "PO-Revision-Date: 2018-12-28 13:40+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language-Team: braillerapsp\n"
 "Language: en\n"
+"Language-Team: braillerapsp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../history.rst:2
@@ -29,52 +28,54 @@ msgid "Le commencement"
 msgstr "The beginning"
 
 #: ../../history.rst:7
+#, fuzzy
 msgid ""
-"En 2016 l'association MyHumanKit organise un hackaton appelé Fabrikarium "
-"en collaboration avec Airbus Industrie. Pendant le Fabrikarium plusieurs "
-"travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser"
-" du Braille sur du papier 160g, Le projet s'appelait `BrailleRap "
+"En 2016 l'association MyHumanKit organise en collaboration avec Airbus "
+"Industries un hackaton appelé Fabrikarium . Pendant le Fabrikarium "
+"plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin "
+"d'embosser du Braille sur du papier 160g, Le projet s'appelait "
+"`BrailleRap "
 "<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
 "/documentation-en.md>`_."
 msgstr ""
-"In 2016 the MyHumanKit association organize a hackaton called Fabrikarium in "
-"collaboration with Airbus Industrie. During the Fabrikarium several works "
-"have been done to modify 3D printers in order to emboss Braille `on 160g "
-"paper. The project was called `BrailleRap "
+"In 2016 the MyHumanKit association organize a hackaton called Fabrikarium"
+" in collaboration with Airbus Industrie. During the Fabrikarium several "
+"works have been done to modify 3D printers in order to emboss Braille `on"
+" 160g paper. The project was called `BrailleRap "
 "<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
 "/documentation-en.md>` _."
 
-#: ../../history.rst:10
+#: ../../history.rst:11
 msgid ""
 "Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une "
 "démonstration de faisabilité, mais qu'il fallait mieux mettre au point "
 "une machine spécialisée facile à reproduire."
 msgstr ""
-"In the BrailleRAP-SP team we thought that this work was a demonstration of "
-"feasibility, but that it was better to develop a specialized machine that "
-"was easy to reproduce."
+"In the BrailleRAP-SP team we thought that this work was a demonstration "
+"of feasibility, but that it was better to develop a specialized machine "
+"that was easy to reproduce."
 
-#: ../../history.rst:14
+#: ../../history.rst:15
 msgid "OpenBraille"
 msgstr "OpenBraille"
 
-#: ../../history.rst:15
+#: ../../history.rst:16
 msgid ""
 "En 2017 Carlos Campos démarre le projet OpenBraille et construit une "
 "embosseuse braille à partir de pièces d'imprimante recyclées. Le projet "
 "démontre qu'il est possible de déplacer une feuille de papier avec "
 "suffisamment de précision dans une embosseuse braille."
 msgstr ""
-"In 2017 Carlos Campos starts the OpenBraille project and builds a braille "
-"embosser from recycled printer parts. The project demonstrates that it is "
-"possible to move a sheet of paper with enough precision in a braille "
+"In 2017 Carlos Campos starts the OpenBraille project and builds a braille"
+" embosser from recycled printer parts. The project demonstrates that it "
+"is possible to move a sheet of paper with enough precision in a braille "
 "embosser."
 
-#: ../../history.rst:19
+#: ../../history.rst:20
 msgid "BrailleRap-SP"
 msgstr "BrailleRap-SP"
 
-#: ../../history.rst:20
+#: ../../history.rst:21
 msgid ""
 "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des "
 "moteurs Nema et des pièces imprimées pour essayer de réaliser une "
@@ -86,3 +87,4 @@ msgstr ""
 "printed parts to try to make a braille embosser. A few tries later, we "
 "started to show examples of Braille embossed texts, and everyone was very"
 " excited. The BrailleRAP-SP project was born."
+

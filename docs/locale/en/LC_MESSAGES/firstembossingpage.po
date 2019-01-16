@@ -6,18 +6,17 @@
 # Stephane <braillerapsp@gmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: BraillerRapSP\n"
+"Project-Id-Version:  BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-28 10:31+0100\n"
 "PO-Revision-Date: 2018-12-28 11:56+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language-Team: braillerapsp\n"
 "Language: en\n"
+"Language-Team: braillerapsp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../firstembossingpage.rst:2
@@ -32,9 +31,9 @@ msgid ""
 "https://crocsg.github.io/BrailleRap/ L'application NatBraille "
 "http://natbraille.free.fr"
 msgstr ""
-"BrailleRapSP is a  G-CODE drivnd machine, to emboss braille it is necessary "
-"first of all to translate the text in Braille. There are 2 solutions to "
-"translate Braille: The BrailleRap application online "
+"BrailleRapSP is a  G-CODE drivnd machine, to emboss braille it is "
+"necessary first of all to translate the text in Braille. There are 2 "
+"solutions to translate Braille: The BrailleRap application online "
 "https://crocsg.github.io/BrailleRap/ The NatBraille application "
 "http://natbraille.free.fr"
 
@@ -47,18 +46,20 @@ msgid "Aller sur la page https://crocsg.github.io/BrailleRap/"
 msgstr "go to https://crocsg.github.io/BrailleRap/"
 
 #: ../../firstembossingpage.rst:19
+#, fuzzy
 msgid ""
 "Entrer votre texte à l'endroit indiqué, et télécharger ensuite le fichier"
 " GCODE contenant les instructions pour l'embosseuse"
 msgstr "Enter your text and download the GCODE file for the embosser"
 
 #: ../../firstembossingpage.rst:24
+#, fuzzy
 msgid ""
 "Vous pouvez ensuite utiliser un logiciel comme **cura** ou "
 "**pronterface** pour envoyer le fichier GCODE à l'imprimante"
 msgstr ""
-"To send the GCODE file to the embosser you can use software like **cura** or "
-"**pronterface**"
+"To send the GCODE file to the embosser you can use software like **cura**"
+" or **pronterface**"
 
 #: ../../firstembossingpage.rst:29
 msgid "Configuration NatBraille"
@@ -69,21 +70,25 @@ msgid "Compiler les programmes dans le repertoire NatBrailleTools du projet"
 msgstr "Build software in the NatBrailleTools project directory "
 
 #: ../../firstembossingpage.rst:33
+#, fuzzy
 msgid ""
 "Dans les options générales NatBraille, utiliser **TbFr2007** pour la "
 "table braille, Encodage document noir **Automtique**, Encodage document "
 "braille **Windows1252**"
 msgstr ""
 "In NatBraille general options, use **TbFr2007** for Braille table, Black "
-"document encoding **Automated**, Braille document encoding **Windows1252**"
+"document encoding **Automated**, Braille document encoding "
+"**Windows1252**"
 
 #: ../../firstembossingpage.rst:38
+#, fuzzy
 msgid ""
 "Dans les options d'embossage, utiliser **TbFr2007** pour la table braille"
 " pour l'embossage"
 msgstr "In embossing options, use **TbFr2007** for braille table for embossing"
 
 #: ../../firstembossingpage.rst:40
+#, fuzzy
 msgid "Activer l'option **utiliser une commande systeme pour l'embossage**"
 msgstr "Enable option ** use a system command for embossing **"
 
@@ -95,10 +100,11 @@ msgid ""
 "modifiant eventuellement les repertoires d'installation des programmes "
 "COM4 est le port serie utilisé pour communiquer avec l'imprimante"
 msgstr ""
-"use the parameter  **java -jar d:\\\\usr\\\\home\\\\logger\\\\"
-"BrailleLogger.jar $f | java -jar d:\\\\usr\\\\home\\\\logger\\\\"
-"gcodestreamer.jar COM4 250000** for printer command. You need to modify the "
-"executable directory and the COM port reference"
+"use the parameter  **java -jar "
+"d:\\\\usr\\\\home\\\\logger\\\\BrailleLogger.jar $f | java -jar "
+"d:\\\\usr\\\\home\\\\logger\\\\gcodestreamer.jar COM4 250000** for "
+"printer command. You need to modify the executable directory and the COM "
+"port reference"
 
 #: ../../firstembossingpage.rst:50
 msgid ""
@@ -135,3 +141,4 @@ msgstr "In page settings enter 31 and 26 as caracter per line and line per page"
 
 #~ msgid "Activer l'option **utiliser une command systeme pour l'embossage**"
 #~ msgstr ""
+

@@ -1,18 +1,17 @@
 # Stephane <braillerapsp@gmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: test\n"
+"Project-Id-Version:  test\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-12-28 10:31+0100\n"
 "PO-Revision-Date: 2018-12-28 12:02+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language-Team: braillerapsp\n"
 "Language: en\n"
+"Language-Team: braillerapsp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../assemblage.rst:2
@@ -110,6 +109,7 @@ msgid "1 lime pour métaux ou de la toile émeri ou une Dremel"
 msgstr "1 metal file or sand paper or a Dremel"
 
 #: ../../assemblage.rst:49
+#, fuzzy
 msgid "1 vis sans tête M3-16 bout téton"
 msgstr "1 grub screw M3-16 butt end"
 
@@ -128,8 +128,8 @@ msgid ""
 "**Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou "
 "YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)"
 msgstr ""
-"**3D printed parts** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la "
-"longueur de la courroie fermée GT2)"
+"**3D printed parts** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon "
+"la longueur de la courroie fermée GT2)"
 
 #: ../../assemblage.rst:63
 msgid "1 moteur Nema 17"
@@ -161,17 +161,17 @@ msgid ""
 "deux vis soit en face du méplat de l’axe du moteur et que les dents de la"
 " poulie soient orientées vers le moteur."
 msgstr ""
-"Screw the pulley onto the motor shaft, making sure that at least one of the "
-"two screws is in front of the flat part of the motor shaft and that the "
-"teeth of the pulley are facing towards the motor."
+"Screw the pulley onto the motor shaft, making sure that at least one of "
+"the two screws is in front of the flat part of the motor shaft and that "
+"the teeth of the pulley are facing towards the motor."
 
 #: ../../assemblage.rst:75
 msgid ""
 "Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le"
 " connecteur soit dans la position correspondante à l'illustration."
 msgstr ""
-"Mount the motor on its support with the 4 screws M3-8 making sure that the "
-"connector is in the position corresponding to the illustration."
+"Mount the motor on its support with the 4 screws M3-8 making sure that "
+"the connector is in the position corresponding to the illustration."
 
 #: ../../assemblage.rst:80
 msgid ""
@@ -179,8 +179,9 @@ msgid ""
 "mais le montage est le même avec un support moteur prévu pour une "
 "courroie de 220mm."
 msgstr ""
-"The illustration shows a motor support provided for a belt of 200mm but the "
-"mounting is the same with a motor support provided for a belt of 220mm."
+"The illustration shows a motor support provided for a belt of 200mm but "
+"the mounting is the same with a motor support provided for a belt of "
+"220mm."
 
 #: ../../assemblage.rst:82
 msgid "Introduire les écrous NYL M3 dans le support moteur."
@@ -191,8 +192,8 @@ msgid ""
 "Introduire les vis et les rondelles par l’extérieur et visser le support "
 "sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs."
 msgstr ""
-"Insert the screws and washers from the outside and screw the support onto "
-"the crate so that it can still slide in the oblong holes."
+"Insert the screws and washers from the outside and screw the support onto"
+" the crate so that it can still slide in the oblong holes."
 
 #: ../../assemblage.rst:96
 msgid "Préparation de supports d’axes"
@@ -238,6 +239,7 @@ msgstr ""
 "hole with a drill of 8."
 
 #: ../../assemblage.rst:108
+#, fuzzy
 msgid ""
 "Pour chacune des 4 pièces, introduire un écrou M3 dans les trous "
 "rectangulaires. Visser les vis M3-12."
@@ -301,8 +303,9 @@ msgid "Fixation des supports DROITS des axes"
 msgstr "Fixing the RIGHT supports of the axes"
 
 #: ../../assemblage.rst:148
+#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right"
-msgstr "**3D printed parts** : BOTTOM_AXIS_right"
+msgstr "**3D printed parts** : TOP_AXIS_right"
 
 #: ../../assemblage.rst:149
 msgid ""
@@ -313,15 +316,16 @@ msgstr ""
 "(see Preparation of axle supports)"
 
 #: ../../assemblage.rst:154
+#, fuzzy
 msgid ""
 "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à "
 "la position du repère) et TOP_AXIS_right à droite en laissant un peu de "
 "jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront "
 "serrées quand l'ensemble sera en place."
 msgstr ""
-"Fix the supports of axis on the box the BOTTOM_AXIS_right and TOP_AXIS_right "
-"on the right by leaving some game (screw + washer outside and nut inside). "
-"The screws will be tight when the assembly is in place."
+"Fix the supports of axis on the box the BOTTOM_AXIS_right and "
+"TOP_AXIS_right on the right by leaving some game (screw + washer outside "
+"and nut inside). The screws will be tight when the assembly is in place."
 
 #: ../../assemblage.rst:163
 msgid "Fixation des tendeurs de courroie"
@@ -382,14 +386,16 @@ msgid ""
 msgstr "1 wired limit switch (see wiring of the limit switches)"
 
 #: ../../assemblage.rst:211
+#, fuzzy
 msgid "1 vis sans tête M3-8"
-msgstr "1 grub screw M3-8"
+msgstr "1 grub screw M3-30"
 
 #: ../../assemblage.rst:212 ../../assemblage.rst:236
 msgid "1 écrou M3"
 msgstr "1 M3 nuts"
 
 #: ../../assemblage.rst:213
+#, fuzzy
 msgid "2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**"
 msgstr "2  M2.5-14 screw"
 
@@ -398,6 +404,7 @@ msgid "2 écrous M2.5"
 msgstr "2 M2.5 nuts"
 
 #: ../../assemblage.rst:216
+#, fuzzy
 msgid "Introduire un écrou M3 et visser une vis sans tête M3-8."
 msgstr "Insert an M3 nut and screw in a M3-8 grub screw."
 
@@ -655,12 +662,13 @@ msgid "Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
 msgstr "The gap will then allow to align the motor shaft with the vertical axis."
 
 #: ../../assemblage.rst:362
+#, fuzzy
 msgid ""
 "Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en "
 "laissant du jeu."
 msgstr ""
-"Screw the motor / support assembly with 2 M3-16 screw onto the body leaving "
-"some play."
+"Screw the motor / support assembly with 2 M3-16 screw onto the body "
+"leaving some play."
 
 #: ../../assemblage.rst:371
 msgid "Montage de l’axe vertical (étape 2)"
@@ -675,6 +683,7 @@ msgid "2 KP08"
 msgstr "2 KP08"
 
 #: ../../assemblage.rst:377
+#, fuzzy
 msgid "4 vis M5-25"
 msgstr "4 M5-22 screw"
 
@@ -698,12 +707,13 @@ msgstr ""
 "a Ø 8mm bar and manually actuate it to straighten them."
 
 #: ../../assemblage.rst:386
+#, fuzzy
 msgid ""
 "Visser les KP08_support et les KP08 sur la caisse en laissant un peu de "
 "jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL."
 msgstr ""
-"Screw the KP08_support and the KP08 on the body a bit with the M5-25 screws, "
-"M5 washers and M5 NYL nuts."
+"Screw the KP08_support and the KP08 on the body a bit with the M5-25 "
+"screws, M5 washers and M5 NYL nuts."
 
 #: ../../assemblage.rst:391
 msgid "Respecter la position des bagues de serrage des KP08."
@@ -889,6 +899,7 @@ msgid "2 joints toriques"
 msgstr "2 O-rings"
 
 #: ../../assemblage.rst:489
+#, fuzzy
 msgid "2 vis M3-6 sans tête bout pointeau"
 msgstr "2 screws M3-6 without head"
 
@@ -1479,10 +1490,13 @@ msgstr ""
 #~ "vis sans tête (cf Préparation de "
 #~ "supports d’axes)"
 #~ msgstr ""
-#~ "** 3D printed parts **: "
-#~ "BOTTOM_AXIS_right prepared with nut and "
-#~ "grub screw (see Preparation of axle "
-#~ "supports)"
+#~ "** 3D printed parts **: TOP_AXIS_right"
+#~ " prepared with nut and grub screws"
+#~ " (see Preparation of axle supports)"
 
 #~ msgid "1 vis sans tête M3-12"
-#~ msgstr "1 grub screw M3-12"
+#~ msgstr "1 grub screw M3-8"
+
+#~ msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right"
+#~ msgstr "**3D printed parts** : BOTTOM_AXIS_right"
+

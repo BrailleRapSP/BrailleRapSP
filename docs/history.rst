@@ -4,17 +4,21 @@ Historique du projet
 Le commencement
 ---------------
 
-En 2016 l'association MyHumanKit organise en collaboration avec Airbus Industries un hackaton appelé Fabrikarium . 
-Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser du Braille sur du papier 160g, 
+En 2016 l'association \*MyHumanKit\* organise en collaboration avec \*Airbus Industries\* un hackaton appelé Fabrikarium. 
+
+Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser du \**Braille\** sur du papier 160g, 
+
 Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_.
 
-Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mieux mettre au point une machine spécialisée facile à reproduire.
+Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, 
+mais qu'il fallait mettre au point une machine spécialisée facile à reproduire.
 
 
 OpenBraille
 -----------
-En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille à partir de pièces d'imprimante recyclées. Le projet démontre qu'il est possible de 
-déplacer une feuille de papier avec suffisamment de précision dans une embosseuse braille. 
+En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille à partir de pièces d'imprimante recyclées. 
+
+Le projet démontre qu'il est possible de déplacer une feuille de papier avec suffisamment de précision dans une embosseuse braille. 
 
 BrailleRap-SP
 -------------

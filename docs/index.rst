@@ -25,6 +25,6 @@ Contenu:
 .. index:: history, licence, bom, marlin, assemblage, firstembossingpage
 
 
-/////test
+
 
 

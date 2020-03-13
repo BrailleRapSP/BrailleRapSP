@@ -213,6 +213,8 @@ Matériel :
   * 2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**
   * 2 écrous M2.5
 
+.. Note:: Changer l'image avec support interrupteur (nouveau modèle).
+
 * Introduire un écrou M3 et visser une vis sans tête M3-8.
 
 .. image :: ./IMG/BrailleRAP-V5.57.jpg

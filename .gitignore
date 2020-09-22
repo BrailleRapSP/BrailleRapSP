@@ -7,3 +7,5 @@ NatBrailleTools/BrailleLogger/bin/BrailleLogger.class
 NatBrailleTools/BrailleLogger/bin/GCodeGenerator.class
 NatBrailleTools.zip
 MarlinBraille.zip
+*.log
+NatBrailleTools/gcodestreamer/.settings/org.eclipse.jdt.core.prefs

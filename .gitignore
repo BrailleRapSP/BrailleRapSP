@@ -8,3 +8,5 @@ NatBrailleTools/BrailleLogger/bin/GCodeGenerator.class
 NatBrailleTools.zip
 MarlinBraille.zip
 NatBrailleTools/bin/hs_err_pid2756.log
+*.log
+NatBrailleTools/gcodestreamer/.settings/org.eclipse.jdt.core.prefs

@@ -18,7 +18,7 @@ public class GCodeGenerator {
 	}
 	public String Speed()
 	{
-		return ("G1 F14000\n");
+		return ("G1 F10000\n");
 	}
 	
 	public String Position()

@@ -32,7 +32,7 @@ msgstr "FACE (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:11
 msgid "BACK (contre-plaqué de 5mm découpé au laser)."
-msgstr "BACK ().5mm laser cut plywood"
+msgstr "BACK (.5mm laser cut plywood)"
 
 #: ../../assemblage.rst:12
 msgid "BOTTOM (contre-plaqué de 5mm découpé au laser)."
@@ -44,7 +44,7 @@ msgstr "LEFT_SIDE (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:14
 msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
-msgstr "RIGHT_SIDE  (5mm laser cut plywood)."
+msgstr "RIGHT_SIDE (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:15 ../../assemblage.rst:35
 msgid "Colle à bois."
@@ -56,7 +56,7 @@ msgstr "Blue tape"
 
 #: ../../assemblage.rst:18
 msgid "Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
-msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE and BOTTOM."
 
 #: ../../assemblage.rst:23
 msgid ""
@@ -102,7 +102,7 @@ msgstr "Preparation of the male needle"
 #: ../../assemblage.rst:813 ../../assemblage.rst:854 ../../assemblage.rst:876
 #: ../../assemblage.rst:888 ../../assemblage.rst:904
 msgid "Matériel :"
-msgstr "equipment:"
+msgstr "Equipment:"
 
 #: ../../assemblage.rst:48
 msgid "1 lime pour métaux ou de la toile émeri ou une Dremel"
@@ -137,7 +137,7 @@ msgstr "1 Nema 17 motor"
 
 #: ../../assemblage.rst:64
 msgid "1 poulie GT2 20 dents bore 5mm"
-msgstr "1  pulley GT2 20 teeth  5mm bore"
+msgstr "1  pulley GT2 20 teeth 5mm bore"
 
 #: ../../assemblage.rst:65 ../../assemblage.rst:350
 msgid "4 vis M3-8"

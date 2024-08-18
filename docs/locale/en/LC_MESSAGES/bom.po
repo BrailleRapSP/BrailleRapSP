@@ -216,7 +216,7 @@ msgstr "12V 6A Alimentation"
 #~ msgstr "BTR M4 50mm partially threaded."
 
 #~ msgid "Clapets de robinet dimension 4x16x6 mm"
-#~ msgstr ""
+#~ msgstr "Valves dimension 4x16x6 mm"
 
 #~ msgid "Embase USB"
 #~ msgstr "USB connector"
